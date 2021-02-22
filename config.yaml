@@ -44,7 +44,7 @@ params:
   layout: "1"
   description: Weather trivia for the changing world
   preloader: false
-  search: true
+  search: false
   author: Weather Gizmo
   author_image: images/weather_logo.png
   bio: Weather trivia for the changing world
