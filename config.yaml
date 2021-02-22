@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '6'
+summaryLength: "10"
+paginate: "6"
 outputs:
   home:
   - HTML
@@ -39,14 +39,14 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/logo.png
+  logo: images/weather_logo.png
   home: Home
-  layout: '1'
+  layout: "1"
   description: This is meta description
   preloader: false
   search: true
   author: Weather Gizmo
-  author_image: images/banner-img.png
+  author_image: images/weather_logo.png
   bio: Weather trivia for the changing world
   mobile: "+1"
   email: we@weather-aware.com
@@ -64,6 +64,9 @@ params:
     URL: https://twitter.com/gizmoweather
 menu:
   main:
-  - URL: about
-    name: About
-    weight: 1
+  - name: About
+    URL: about
+    weight: "2"
+  - name: Contact
+    URL: contact
+    weight: "3"
