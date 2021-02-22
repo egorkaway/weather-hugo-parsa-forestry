@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-image: images/author.jpg
+image: images/weather-logo.png
 
 ---
 As long as one spends any time outside knowing what weather is coming your way is a basic need.
