@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Sky"]
 date = ""
 description = ""
 image = "/images/moon.png"
