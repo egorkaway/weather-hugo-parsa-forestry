@@ -5,7 +5,7 @@ description = ""
 image = "/images/moon.png"
 tags = ["moon", "astronomy"]
 title = "Have You Seen Daytime Moon?"
-type = "featured"
+type = "post"
 
 +++
 It is considered that the Moon can be observed only at night. However, in fact, it can easily be seen in the afternoon. And by the way, this very question “why the Moon is in the sky during the day” is often asked by children who are much more observant than adults.
