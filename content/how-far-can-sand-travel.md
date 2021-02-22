@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Earth"]
 date = 2021-01-10T23:00:00Z
 description = ""
 image = "/images/sand_n.png"
