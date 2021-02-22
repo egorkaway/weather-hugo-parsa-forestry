@@ -1,7 +1,7 @@
 ---
 baseURL: "/"
 languageCode: en-us
-title: Hugo Parsa Forestry Starter
+title: 'Weather and Climate: a site by Weather Gizmo '
 module:
   imports:
   - path: github.com/themefisher/parsa-hugo
