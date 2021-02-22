@@ -42,7 +42,7 @@ params:
   logo: images/weather_logo.png
   home: Home
   layout: "1"
-  description: This is meta description
+  description: Weather trivia for the changing world
   preloader: false
   search: true
   author: Weather Gizmo
