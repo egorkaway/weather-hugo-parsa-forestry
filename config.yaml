@@ -63,10 +63,6 @@ params:
     URL: https://www.facebook.com/weathergizmo/
   - icon: ti-twitter-alt
     URL: https://twitter.com/gizmoweather
-  - icon: ti-linkedin
-    URL: "#"
-  - icon: ti-github
-    URL: "#"
 menu:
   main:
   - name: About
