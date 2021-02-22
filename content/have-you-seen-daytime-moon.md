@@ -2,7 +2,7 @@
 categories = []
 date = ""
 description = ""
-image = ""
+image = "/images/moon.png"
 tags = ["moon", "astronomy"]
 title = "Have You Seen Daytime Moon?"
 type = "post"
