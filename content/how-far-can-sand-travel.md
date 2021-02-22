@@ -5,7 +5,7 @@ description = ""
 image = "/images/sand_n.png"
 tags = ["Africa", "America", "USA"]
 title = "How Far Can Sand Travel?"
-type = "post"
+type = "featured"
 
 +++
 Did you know that there is a regular sand service between Africa and America?
