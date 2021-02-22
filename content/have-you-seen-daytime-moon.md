@@ -1,6 +1,6 @@
 +++
 categories = ["Sky"]
-date = ""
+date = 2021-02-21T23:12:00Z
 description = ""
 image = "/images/moon.png"
 tags = ["moon", "astronomy"]
