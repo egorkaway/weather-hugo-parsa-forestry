@@ -60,7 +60,7 @@ params:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
   - icon: ti-facebook
-    URL: "#"
+    URL: https://www.facebook.com/weathergizmo/
   - icon: ti-twitter-alt
     URL: https://twitter.com/gizmoweather
   - icon: ti-linkedin
