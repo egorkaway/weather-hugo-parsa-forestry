@@ -15,10 +15,7 @@ Thus, we are here to build a weather service relevant for the 2020ies and 21 cen
 
 ### Here is how we can help each other today:
 
-This site?
-
-[Facebook page](https://www.facebook.com/weathergizmo/ "Weather Gizmo @ Facebook") that would have same articles and a few more posts sometimes.
-
-[Twitter account]() that definitely has more content.
-
-[iOS app by AppsTea](https://appstea.com/blog/weather-and-climate-tracker/ "Weather & Climate Tracker by AppsTea")
+1. This site?
+2. [Facebook page](https://www.facebook.com/weathergizmo/ "Weather Gizmo @ Facebook") that would have same articles and a few more posts sometimes.
+3. [Twitter account]() that definitely has more content.
+4. [iOS app by AppsTea](https://appstea.com/blog/weather-and-climate-tracker/ "Weather & Climate Tracker by AppsTea")
