@@ -12,3 +12,9 @@ However, the way we talk about whether is mostly structured by the needs that we
 Weather forecasts, apps, and news coverage are of course still relevant in many situations and places around the world, but we believe that starting from scratch and reinventing the approaches might be reasonable each decade or at least each century.
 
 Thus, we are here to build a weather service relevant for the 2020ies and 21 century.
+
+# Here is how we can help each other today: 
+
+* This site? 
+* [Facebook page](https://www.facebook.com/weathergizmo/ "Weather Gizmo @ Facebook") that would have same articles and a few more posts sometimes.
+* [Twitter account]() that definitely has more content. 
