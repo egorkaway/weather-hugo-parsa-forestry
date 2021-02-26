@@ -39,7 +39,7 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/weather_logo.png
+  logo: images/weather_a.png
   home: Home
   layout: "1"
   description: Weather trivia for the changing world
