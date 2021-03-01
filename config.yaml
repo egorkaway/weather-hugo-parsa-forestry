@@ -1,7 +1,8 @@
 ---
 baseURL: "/"
+defaultContentLanguage: en
 languageCode: en-us
-title: 'Weather and Climate: a site by Weather Gizmo '
+title: 'Weather and Climate: a site by Weather Gizmo'
 module:
   imports:
   - path: github.com/themefisher/parsa-hugo
