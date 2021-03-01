@@ -1,5 +1,5 @@
 +++
-categories = ["Earth"]
+categories = ["Ocean", "Earth"]
 date = 2020-12-11T23:00:00Z
 description = ""
 image = "/images/storm_2020.jpg"
