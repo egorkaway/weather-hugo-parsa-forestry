@@ -23,7 +23,7 @@
   {{with .Params.image}}
   <meta name="twitter:image" content="{{site.Params.baseURL}}{{. | absURL }}" alt="{{site.Params.author}}">
   {{ else }}
-    <meta name="twitter:image" content="./defaultImage.png"/>
+    <meta name="twitter:image" content="{{site.Params.baseURL}}/images/weather_logo.png"/>
   {{end}}
 
   {{ "<!-- plugins -->" | safeHTML }}
