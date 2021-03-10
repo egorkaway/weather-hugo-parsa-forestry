@@ -21,7 +21,7 @@
 
   {{ template "_internal/twitter_cards.html" . }}
   {{with .Params.image}}
-  <meta name="twitter:image" content="{{. | absURL }}" alt="{{site.Params.author}}">
+  <meta name="twitter:image" content="{{site.Params.baseURL}}{{. | absURL }}" alt="{{site.Params.author}}">
   {{ else }}
     <meta name="twitter:image" content="./defaultImage.png"/>
   {{end}}

@@ -42,6 +42,7 @@ params:
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
     - link: plugins/smartbanner/smartbanner.js
+  baseURL: "https://weather-aware.com"
   logo: images/weather_a.png
   home: Home
   layout: "1"
