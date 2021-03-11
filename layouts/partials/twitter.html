@@ -1,6 +1,6 @@
 <meta name="twitter:card" content="summary_large_image">
 {{with .Params.image}}
-<meta name="twitter:image" content="{{site.Params.baseURL}}{{. | absURL }}" alt="{{site.Params.author}}">
+<meta name="twitter:image" content="{{site.Params.baseURL}}{{. | absURL }}">
 {{ else }}
   <meta name="twitter:image" content="{{site.Params.baseURL}}/images/weather_logo.png"/>
 {{end}}
