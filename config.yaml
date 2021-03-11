@@ -2,6 +2,21 @@
 baseURL: "/"
 defaultContentLanguage: en
 languageCode: en-us
+languages:
+  en:
+    languageName: English
+    weight: 1
+  es:
+    languageName: Spanish
+    weight: 2
+  ru:
+    languageName: Russian
+    weight: 3
+    description: Что-то про погоду
+    address: Минск / Нясвиж
+  uk:
+    languageName: United Kingdom
+    weight: 4
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
   imports:
