@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/did-you-know-what-zombie-fires-are.md
 - content/have-you-ever-seen-a-double-rainbow.md
 - content/have-you-seen-daytime-moon.md
 - content/how-far-can-sand-travel.md
