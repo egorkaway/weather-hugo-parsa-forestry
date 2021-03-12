@@ -1,4 +1,6 @@
 +++
+categories = ["Cielo"]
+image = "/images/rainbow_n.jpg"
 title = "¿Habéis visto alguna vez un doble arco iris?"
 
 +++
