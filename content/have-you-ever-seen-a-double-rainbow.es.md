@@ -7,3 +7,5 @@ Doble arco iris es un fenómeno increíblemente hermoso, pero poco frecuente. Es
 Los letreros populares consideran que el arcoiris doble es una señal muy buena, que trae éxito y buena suerte en cualquier negocio. Se dice que esta doble belleza celestial se envía a la gente como recompensa por todos los problemas recién vividos.
 
 Pues, este año una señal tan maravillosa sería útil para todos nosotros, ¿qué creéis?
+
+ 
