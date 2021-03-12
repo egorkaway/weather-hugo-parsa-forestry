@@ -1,5 +1,5 @@
 +++
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2020-08-07T22:00:00Z
 description = ""
 image = "/images/rainbow_n.jpg"
