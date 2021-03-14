@@ -11,16 +11,6 @@ sections:
   match: "*"
   templates:
   - post
-- type: directory
-  path: content/about
-  label: About
-  create: none
-  match: "*"
-- type: directory
-  path: content/contact
-  label: Contact
-  create: none
-  match: "*"
 - type: document
   path: config.yaml
   label: Configuration
