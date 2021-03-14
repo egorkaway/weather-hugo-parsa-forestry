@@ -1,7 +1,8 @@
 ---
 title: About
 date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+description: We are here to build a weather service relevant for the 2020ies and 21
+  century.
 image: "/images/egor-kunovsky-1cpf9j__9jg-unsplash.jpg"
 
 ---
@@ -19,6 +20,6 @@ Thus, we are here to build a weather service relevant for the 2020ies and 21 cen
 
 \~ [Facebook page](https://www.facebook.com/weathergizmo/ "Weather Gizmo @ Facebook") that would have same articles and a few more posts sometimes.
 
-\~ [Twitter account]() that definitely has more content.
+\~ [Twitter account](https://twitter.com/gizmoweather) that definitely has more content.
 
 \~ [iOS app by AppsTea](https://appstea.com/blog/weather-and-climate-tracker/ "Weather & Climate Tracker by AppsTea")
