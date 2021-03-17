@@ -1,7 +1,8 @@
 +++
-draft = true
+categories = ["Cielo"]
 image = "/images/moon.png"
 title = "Luna del dia"
+type = "post"
 
 +++
 Se cree que se puede observar la luna sólo de noche. Sin embargo, se la puede ver fácilmente durante el día. Y, por cierto, esta misma pregunta - «por qué está la luna en el cielo durante el día" - viene a menudo de los niños que son mucho más observadores que los adultos.  
