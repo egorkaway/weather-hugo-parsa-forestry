@@ -26,9 +26,3 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
-pages:
-- content/did-you-know-what-zombie-fires-are.md
-- content/have-you-ever-seen-a-double-rainbow.md
-- content/how-far-can-sand-travel.md
-- content/how-many-hurricanes-did-2020-bring.md
-- content/minimum-temperatures-across-europe.md
