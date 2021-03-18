@@ -1,11 +1,12 @@
 ---
+baseURL: "/"
 defaultContentLanguage: en
 languageCode: en-us
 languages:
   en:
     languageName: English
     weight: "1"
-    baseURL: "/"
+    baseURL: "/en/"
   es:
     languageName: Spanish
     weight: "2"
