@@ -2,7 +2,7 @@
 categories = ["Sky"]
 date = 2021-02-06T21:00:00Z
 description = ""
-image = ""
+image = "/images/stars.jpg"
 tags = ["Mercury", "Venus", "Jupiter", "Saturn", "2021"]
 title = "Cassiopeia and Parade of Planets"
 type = "post"
