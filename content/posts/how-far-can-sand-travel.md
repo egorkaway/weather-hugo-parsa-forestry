@@ -3,9 +3,9 @@ categories = ["Earth"]
 date = 2021-01-30T23:00:00Z
 description = ""
 image = "/images/sand_n.png"
-tags = ["Africa", "America", "USA"]
+tags = ["Africa", "America", "USA", "Sahara"]
 title = "How Far Can Sand Travel?"
-type = "post"
+type = "featured"
 
 +++
 Did you know that there is a regular sand service between Africa and America?
