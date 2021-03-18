@@ -5,7 +5,7 @@ description = ""
 image = "/images/lenticular_n.png"
 tags = ["USA", "Kamchatka", "Japan", "clouds"]
 title = "Do You Know What Lenticualr Clouds Are?"
-type = "post"
+type = "featured"
 
 +++
 Lenticular clouds are one of the most beautiful natural phenomena. When you first see them in a photo, it’s hard to believe that this is a real shoot, not a photoshop.
