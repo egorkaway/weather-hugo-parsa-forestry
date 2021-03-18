@@ -9,9 +9,11 @@ languages:
   es:
     languageName: Spanish
     weight: "2"
+    logo: images/weather_es.png
   ru:
     languageName: Russian
     weight: "3"
+    ogo: images/weather_ru.png
     address: Минск / Киев / Несвиж
     title: 'Погода и Климат: сайт от Weather Gizmo'
   uk:
