@@ -10,7 +10,6 @@ languages:
     languageName: Spanish
     weight: "2"
     logo: images/weather_es_w.png
-    baseURL: "/es/"
   ru:
     languageName: Russian
     weight: "3"
