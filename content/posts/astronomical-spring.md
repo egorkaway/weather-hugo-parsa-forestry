@@ -5,7 +5,7 @@ description = ""
 image = "/images/spring_n.png"
 tags = ["equinox", "Sun", "spring"]
 title = "Astronomical Spring"
-type = "post"
+type = "featured"
 
 +++
 March 20 is the day of the vernal equinox, after which the length of the day will gradually become longer than that of the night.
