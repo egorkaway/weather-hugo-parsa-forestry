@@ -12,10 +12,9 @@ languages:
   ru:
     languageName: Russian
     weight: "3"
-    description: Что-то про погоду
-    address: Минск / Нясвиж
+    address: Минск / Киев / Несвиж
   uk:
-    languageName: United Kingdom
+    languageName: Ukranian
     weight: "4"
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
@@ -67,8 +66,7 @@ params:
   author: Weather Gizmo
   author_image: images/weather_logo.png
   bio: Weather trivia for the changing world
-  mobile: "+90 546 645 74 67"
-  email: we@weather-aware.com
+  email: weather@adekvat.us
   address: Minsk / Kyiv / Nesvizh
   contact_form_action: "#"
   google_analitycs_id: G-5QEGHYVE5K
