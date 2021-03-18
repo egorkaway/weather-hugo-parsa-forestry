@@ -6,7 +6,6 @@ image = "/images/rainbow_n.jpg"
 tags = ["радуга"]
 title = "Доводилось ли вам видеть двойную радугу?"
 type = "post"
-translationKey: "Double Rainbow"
 
 +++
 Двойная радуга - явление невероятно красивое, но нечастое.   
