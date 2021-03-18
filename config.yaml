@@ -6,10 +6,12 @@ languages:
   en:
     languageName: English
     weight: "1"
+    baseURL: "/"
   es:
     languageName: Spanish
     weight: "2"
     logo: images/weather_es_w.png
+    baseURL: "/es/"
   ru:
     languageName: Russian
     weight: "3"
@@ -20,6 +22,7 @@ languages:
   uk:
     languageName: Ukranian
     weight: "4"
+    baseURL: "/uk/"
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
   imports:
