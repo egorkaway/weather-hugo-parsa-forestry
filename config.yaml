@@ -13,6 +13,7 @@ languages:
     languageName: Russian
     weight: "3"
     address: Минск / Киев / Несвиж
+    title: 'Погода и Климат: сайт от Weather Gizmo'
   uk:
     languageName: Ukranian
     weight: "4"
