@@ -3,10 +3,9 @@ categories = ["Sky"]
 date = 2020-05-04T22:00:00Z
 description = ""
 image = "/images/rainbow_n.jpg"
-tags = []
+tags = [rainbow]
 title = "Have You Ever Seen a Double Rainbow?"
 type = "post"
-translationKey: "Double Rainbow"
 
 +++
 Double rainbow is an incredibly beautiful natural phenomenon, but not very frequent, unfortunately. It is caused by the double reflection of sunlight in the raindrops. It is curious that in the second rainbow the colors go in the opposite order: from violet to red.
