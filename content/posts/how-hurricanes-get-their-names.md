@@ -5,7 +5,7 @@ description = ""
 image = "/images/hur_n.jpg"
 tags = ["hurricane", "Australia", "USA"]
 title = "How Hurricanes Get Their Names?"
-type = "featured"
+type = "post"
 
 +++
 Did you know how hurricanes and typhoons get their names?
