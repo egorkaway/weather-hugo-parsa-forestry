@@ -27,5 +27,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/posts/astronomical-spring.md
 - content/posts/do-you-know-what-lenticualr-clouds-are.md
 - content/posts/how-hurricanes-get-their-names.md
