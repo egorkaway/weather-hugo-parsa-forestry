@@ -5,7 +5,7 @@ description = ""
 image = "/images/cloudsss_n.png"
 tags = ["Canada", "Alaska", "Iceland", "Scandinavia", "clouds"]
 title = "Meet Nacreous Clouds"
-type = "featured"
+type = "post"
 
 +++
 Nacreous clouds are a real miracle of the northern latitudes.
