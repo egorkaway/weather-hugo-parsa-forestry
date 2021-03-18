@@ -5,18 +5,18 @@ languageCode: en-us
 languages:
   en:
     languageName: English
-    weight: 1
+    weight: "1"
   es:
     languageName: Spanish
-    weight: 2
+    weight: "2"
   ru:
     languageName: Russian
-    weight: 3
+    weight: "3"
     description: Что-то про погоду
     address: Минск / Нясвиж
   uk:
     languageName: United Kingdom
-    weight: 4
+    weight: "4"
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
   imports:
@@ -30,8 +30,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "10"
-paginate: 6
+summaryLength: "11"
+paginate: "9"
 outputs:
   home:
   - HTML
@@ -83,6 +83,9 @@ params:
     URL: https://twitter.com/gizmoweather
 menu:
   main:
+  - name: ''
+    URL: ''
+    weight: ''
   - name: About
     URL: about
-    weight: 2
+    weight: "2"
