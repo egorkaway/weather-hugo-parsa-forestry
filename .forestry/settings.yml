@@ -6,16 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: content/posts
-  label: Posts for Real
+  label: Posts
   create: all
   match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: content
-  label: Post
-  create: documents
-  match: "*"
   templates:
   - post
 - type: document
