@@ -5,4 +5,4 @@ description:
 image: "/images/egor-kunovsky-1cpf9j__9jg-unsplash.jpg"
 
 ---
-Приввет
+Привет
