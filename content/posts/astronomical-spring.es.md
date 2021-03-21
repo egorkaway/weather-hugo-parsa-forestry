@@ -4,7 +4,7 @@ date = 2021-03-14T21:00:00Z
 image = "/images/spring_n.png"
 tags = ["primavera", "Sol", "equinoccio"]
 title = "Celebrando una primavera astronómica"
-type = " post"
+type = "post"
 
 +++
 El 20 de marzo es el día del equinoccio de primavera, después del cual la duración del día se volverá gradualmente más larga que la noche.
