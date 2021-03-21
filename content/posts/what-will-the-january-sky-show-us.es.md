@@ -1,4 +1,5 @@
 +++
+categories = ["Cielo"]
 date = 2021-01-01T21:00:00Z
 image = "/images/january_n.jpg"
 tags = ["enero", "2021", "Orión", "Sirio"]
