@@ -28,6 +28,7 @@ fields:
   description: 'type: post or featured'
 pages:
 - content/posts/astronomical-spring.md
+- content/posts/august-2020-comets.md
 - content/posts/cassiopeia-and-parade-of-planets.md
 - content/posts/delta-aquarids-meteor-shower.md
 - content/posts/do-you-know-what-lenticualr-clouds-are.md
