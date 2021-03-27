@@ -1,6 +1,6 @@
 +++
 categories = ["Earth"]
-date = ""
+date = 2021-03-24T21:00:00Z
 description = ""
 image = "/images/tsu_.jpg"
 tags = ["earthquake", "tsunami", "Alaska"]
