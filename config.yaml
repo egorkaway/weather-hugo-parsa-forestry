@@ -33,7 +33,7 @@ module:
     - source: exampleSite/static/images
       target: static/images
 summaryLength: "12"
-paginate: "18"
+paginate: "15"
 outputs:
   home:
   - HTML
