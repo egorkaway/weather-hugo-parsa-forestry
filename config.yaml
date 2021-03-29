@@ -17,13 +17,13 @@ languages:
     address: Минск / Киев / Несвиж
     title: 'Погода и Климат: сайт от Weather Gizmo'
     read_more: Дальше...
-    address_title: Адрес
+    address_title: Где
     contact_info: Контакты
     follow: Социальныные сети
     previous: « Назад
     next: Вперёд »
     post_by: Опубликовано
-    latest_post: Последний пост
+    latest_post: Последние материалы
     tag: Теги
     categories: Категории
   uk:
