@@ -10,6 +10,9 @@ languages:
     languageName: Spanish
     weight: "2"
     logo: images/weather_es_w.png
+    address_title: Donde estamos
+    follow: Redes
+    categories: Categorias
   ru:
     languageName: Russian
     weight: "3"
