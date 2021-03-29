@@ -13,6 +13,7 @@ languages:
     address_title: Donde estamos
     follow: Redes
     categories: Categorias
+    read_more: Leer mas...
   ru:
     languageName: Russian
     weight: "3"
