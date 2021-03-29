@@ -16,16 +16,16 @@ languages:
     logo: images/weather_ru_w.png
     address: Минск / Киев / Несвиж
     title: 'Погода и Климат: сайт от Weather Gizmo'
-    read_more: Читать больше
+    read_more: Читать дальше...
     address_title: Адрес
     contact_info: Контакты
-    follow: Следовать
-    previous: « Предыдущий
-    next: Следующий »
+    follow: Социальныные сети
+    previous: « Назад
+    next: Вперёд »
     post_by: Опубликовано
     latest_post: Последний пост
-    tag: ТЭГИ
-    categories: КАТЕГОРИИ
+    tag: Теги
+    categories: Категории
   uk:
     languageName: Ukranian
     weight: "4"
