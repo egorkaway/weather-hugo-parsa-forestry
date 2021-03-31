@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/posts/aquarids-starfall.md
 - content/posts/astronomical-spring.md
 - content/posts/august-2020-comets.md
 - content/posts/cassiopeia-and-parade-of-planets.md
