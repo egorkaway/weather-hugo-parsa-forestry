@@ -7,6 +7,12 @@ title = "Aquaridаs"
 type = "post"
 
 +++
+En las primeras fechas de Mayo podremos ver la lluvia de estrellas Aquaridas. El pico de su actividad será el 6-7 de Mayo.  
+  
+Se verá más en hemisferio sur, aunque los residentes del Norte también podrán ver las estrellas.  
+  
+Así que preparen vuestra lista de deseos y vigilen el calendario.  
+  
 Ahora os explicaremos qué son estos Aquaridаs.  
   
 Pues, esto no es más que las migas del cometa Halley. Un montón de pequeños trozos de polvo que rodean el cometa forman una corriente meteorológica. Y cuando la Tierra pasa por esta corriente, las piezas caen en la atmósfera y se queman en ella. Y entonces vemos una belleza brillante volando en el cielo nocturno.  
