@@ -1,1 +1,14 @@
++++
+categories = ["Cielo"]
+date = 2021-04-04T21:00:00Z
+image = "/images/meteor_n.jpg"
+tags = ["Mayo", "Aquaridаs"]
+title = "Aquaridаs"
+type = "post"
 
++++
+Ahora os explicaremos qué son estos Aquaridаs.  
+  
+Pues, esto no es más que las migas del cometa Halley. Un montón de pequeños trozos de polvo que rodean el cometa forman una corriente meteorológica. Y cuando la Tierra pasa por esta corriente, las piezas caen en la atmósfera y se queman en ella. Y entonces vemos una belleza brillante volando en el cielo nocturno.  
+  
+Por cierto, el número máximo de Aquaridаs se puede observar antes del amanecer. Y recordemos las fechas: 6-7 de Mayo.
