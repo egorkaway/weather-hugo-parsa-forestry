@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Sky"]
 date = 2020-04-27T21:00:00Z
 description = ""
 image = "/images/may_venus.png"
