@@ -44,6 +44,8 @@ module:
       target: assets
     - source: static
       target: static
+    - source: static
+      target: assets/images
     - source: exampleSite/static/images
       target: static/images
 summaryLength: "12"
