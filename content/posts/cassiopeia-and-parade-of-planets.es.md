@@ -2,7 +2,7 @@
 categories = ["Cielo"]
 date = 2021-02-08T21:00:00Z
 image = "/images/stars.jpg"
-tags = ["Mercurio", "Venus", "Júpiter", "Saturno"]
+tags = ["Mercurio", "Venus", "Júpiter", "Saturno", "2021"]
 title = "Desfile planetario y estrella de Cassiopeia esta semana ya"
 type = "post"
 
