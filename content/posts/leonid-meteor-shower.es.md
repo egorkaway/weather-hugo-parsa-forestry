@@ -2,7 +2,7 @@
 categories = ["Cielo"]
 date = 2020-11-10T21:00:00Z
 image = "/images/meteor_.png"
-tags = ["meteorito", "noviembre"]
+tags = ["meteorito", "noviembre", "2020"]
 title = "Lluvia de meteoritos de Leónidas"
 type = "post"
 
