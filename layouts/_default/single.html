@@ -28,6 +28,18 @@
           {{ $image := resources.Get .Params.Image }}
           <img src="{{ ($image.Resize "800x").Permalink  }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
+          {{ $len := (len .AllTranslations) }}
+          {{ $page := .Page.Permalink }}
+          {{ if gt $len 1 }}
+          <hr>
+          <p>{{site.Params.post_available_in}}:
+          {{ range $index, $element := .AllTranslations }}
+            {{ if ne $page .Permalink}}
+              <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>{{ if ne (add $index 1) $len }},{{else}}.{{ end }}
+            {{ end }}
+          {{ end }}
+          </p>
+          {{end}}
         </article>
       </div>
       {{partial "sidebar.html" . }}

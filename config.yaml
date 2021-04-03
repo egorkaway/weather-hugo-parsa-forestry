@@ -30,6 +30,7 @@ languages:
     latest_post: Последние материалы
     tag: Теги
     categories: Категории
+    post_available_in: Пост также доступен
   uk:
     languageName: Ukranian
     weight: "4"
@@ -100,6 +101,7 @@ params:
   latest_post: LATEST POST
   tag: TAG
   categories: CATEGORIES
+  post_available_in: This post is also available in
   instafeed:
     enable: false
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
