@@ -15,6 +15,7 @@ languages:
     follow: Redes
     categories: Categorias
     read_more: Leer mas...
+    post_available_in: Este texto esta desponible en
   ru:
     languageName: Russian
     weight: "3"
