@@ -52,8 +52,8 @@ module:
       target: assets/images
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "9"
-paginate: "15"
+summaryLength: "19"
+paginate: "12"
 outputs:
   home:
   - HTML
