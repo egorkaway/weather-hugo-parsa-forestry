@@ -2,7 +2,7 @@
 categories = []
 date = 2021-04-02T21:00:00Z
 description = ""
-image = ""
+image = "/images/dan-stark-dlwuvlzrp0q-unsplash.jpg"
 tags = []
 title = "A Soundtrack for any Weather"
 type = "post"
