@@ -3,7 +3,7 @@ categories = ["Sky"]
 date = 2021-03-16T21:00:00Z
 description = ""
 image = "/images/spring_n.png"
-tags = ["equinox", "Sun", "spring", "2021"]
+tags = ["equinox", "Sun", "spring", "2021", "astronomy"]
 title = "Astronomical Spring"
 type = "post"
 
