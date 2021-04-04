@@ -10,6 +10,7 @@ languages:
     languageName: Spanish
     weight: "2"
     logo: images/weather_es_w.png
+    title: 'Tiempo y Clima presentados por Weather Gizmo'
     address_title: Donde estamos
     follow: Redes
     categories: Categorias
@@ -33,6 +34,7 @@ languages:
     post_available_in: Пост также доступен
   uk:
     languageName: Ukranian
+    logo: images/weather_ru_w.png
     weight: "4"
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
