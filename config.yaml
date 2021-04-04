@@ -52,7 +52,7 @@ module:
       target: assets/images
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "19"
+summaryLength: "39"
 paginate: "12"
 outputs:
   home:
