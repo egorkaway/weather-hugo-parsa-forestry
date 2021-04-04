@@ -10,7 +10,7 @@ languages:
     languageName: Spanish
     weight: "2"
     logo: images/weather_es_w.png
-    title: 'Tiempo y Clima presentados por Weather Gizmo'
+    title: Tiempo y Clima presentados por Weather Gizmo
     address_title: Donde estamos
     follow: Redes
     categories: Categorias
@@ -26,7 +26,7 @@ languages:
     address_title: Где
     contact_info: Контакты
     follow: Социальныные сети
-    previous: « Назад
+    previous: "« Назад"
     next: Вперёд »
     post_by: Опубликовано
     latest_post: Последние материалы
@@ -52,7 +52,7 @@ module:
       target: assets/images
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "12"
+summaryLength: "9"
 paginate: "15"
 outputs:
   home:
@@ -98,7 +98,7 @@ params:
   address_title: Adress
   contact_info: Contact Info
   follow: Follow
-  previous: « Previous
+  previous: "« Previous"
   next: Next »
   post_by: Post by
   latest_post: LATEST POST
