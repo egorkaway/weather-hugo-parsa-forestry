@@ -32,7 +32,7 @@ languages:
     latest_post: Последние материалы
     tag: Теги
     categories: Категории
-    post_available_in: Пост также доступен на следующийх языках
+    post_available_in: Пост также доступен на следующих языках
   uk:
     languageName: Ukranian
     logo: images/weather_ru_w.png
