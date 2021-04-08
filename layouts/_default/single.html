@@ -28,15 +28,20 @@
           {{ $image := resources.Get .Params.Image }}
           <img src="{{ ($image.Resize "800x").Permalink  }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
-          {{ $len := (len .AllTranslations) }}
+
           {{ $page := .Page.Permalink }}
+          {{ $len := (len .AllTranslations) }}
           {{ if gt $len 1 }}
           <hr>
           <p>{{site.Params.post_available_in}}:
-          {{ range $index, $element := .AllTranslations }}
-            {{ if ne $page .Permalink}}
+          {{ $index := 0 }}
+          {{ $langs := slice }}
+          {{ range where .AllTranslations ".Permalink" "!=" $page}}
+              {{ $langs = $langs | append . }}
+          {{end}}
+          {{ $len := (len $langs) }}
+          {{ range $index, $element := $langs }}
               <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>{{ if ne (add $index 1) $len }},{{else}}.{{ end }}
-            {{ end }}
           {{ end }}
           </p>
           {{end}}
