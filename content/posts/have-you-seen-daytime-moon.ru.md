@@ -1,6 +1,7 @@
 +++
 categories = ["Небо"]
 image = "/images/moon.png"
+tags = ["луна ", "timeless"]
 title = "Дневная луна"
 type = "post"
 
