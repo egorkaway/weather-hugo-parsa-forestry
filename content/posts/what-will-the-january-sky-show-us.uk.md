@@ -2,6 +2,7 @@
 categories = ["Небо"]
 date = 2020-12-31T21:00:00Z
 image = "/images/january_n.jpg"
+tags = ["Оріон"]
 title = "Що нам покаже січневе небо?"
 type = "post"
 
