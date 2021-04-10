@@ -2,7 +2,7 @@
 categories = ["Небо"]
 date = 2020-11-07T21:00:00Z
 image = "/images/meteor_.png"
-tags = ["метеор"]
+tags = ["метеор", "ноябрь", "timeless"]
 title = "Леониды"
 type = "post"
 
