@@ -1,5 +1,7 @@
 +++
+date = 2021-04-10T21:00:00Z
 image = "/images/rain_bow_n.png"
+tags = ["радуга", "Германия", "Франция"]
 title = "Сколько цветов у радуги?"
 type = "post"
 
