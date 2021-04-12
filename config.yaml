@@ -25,7 +25,7 @@ languages:
     read_more: Дальше...
     address_title: Где
     contact_info: Контакты
-    follow: Социальныные сети
+    follow: Социальные сети
     previous: "« Назад"
     next: Вперёд »
     post_by: Опубликовано
@@ -37,6 +37,7 @@ languages:
     languageName: Ukranian
     logo: images/weather_ru_w.png
     weight: "4"
+    follow: Мережи
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
   imports:
