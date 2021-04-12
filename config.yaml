@@ -5,10 +5,10 @@ languageCode: en-us
 languages:
   en:
     languageName: English
-    weight: "1"
+    weight: '1'
   es:
     languageName: Spanish
-    weight: "2"
+    weight: '2'
     logo: images/weather_es_w.png
     title: Tiempo y Clima presentados por Weather Gizmo
     address_title: Donde estamos
@@ -18,7 +18,7 @@ languages:
     post_available_in: Este texto esta desponible en
   ru:
     languageName: Russian
-    weight: "3"
+    weight: '3'
     logo: images/weather_ru_w.png
     address: Минск / Киев / Несвиж
     title: 'Погода и Климат: сайт от Weather Gizmo'
@@ -36,7 +36,7 @@ languages:
   uk:
     languageName: Ukranian
     logo: images/weather_ru_w.png
-    weight: "4"
+    weight: '4'
     follow: Мережи
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
@@ -53,8 +53,8 @@ module:
       target: assets/images
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "39"
-paginate: "12"
+summaryLength: '39'
+paginate: '12'
 outputs:
   home:
   - HTML
@@ -83,7 +83,7 @@ params:
   baseURL: https://weather-aware.com
   logo: images/weather_a.png
   home: Home
-  layout: "1"
+  layout: '1'
   description: Weather trivia for the changing world
   preloader: false
   search: false
@@ -116,9 +116,6 @@ params:
     link: https://twitter.com/gizmoweather
 menu:
   main:
-  - name: ''
-    URL: ''
-    weight: ''
-  - name: About
-    URL: about
-    weight: "2"
+  - URL: about
+    name: About
+    weight: 1
