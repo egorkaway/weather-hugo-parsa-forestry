@@ -1,6 +1,6 @@
 +++
 categories = ["Небо"]
-date = 2021-04-01T21:00:00Z
+date = 2021-04-18T21:00:00Z
 image = "/images/meteor_n.jpg"
 tags = ["май", "Аквариды"]
 title = "Звездопад Аквариды"
