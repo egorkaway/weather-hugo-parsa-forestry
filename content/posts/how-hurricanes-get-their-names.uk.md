@@ -3,7 +3,7 @@ categories = ["Небо"]
 date = 2021-02-06T21:00:00Z
 description = ""
 image = "/images/hur_n.jpg"
-tags = []
+tags = ["США"]
 title = "Чи знаєте ви, як урагани і тайфуни отримують свої імена?"
 type = "post"
 
