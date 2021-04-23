@@ -2,7 +2,7 @@
 categories = ["Cielo"]
 date = 2021-04-18T21:00:00Z
 image = "/images/meteor_n.jpg"
-tags = ["Mayo", "Aquaridаs""""]
+tags = ["Mayo", "Aquaridаs"""]
 title = "Aquaridаs"
 type = "post"
 
