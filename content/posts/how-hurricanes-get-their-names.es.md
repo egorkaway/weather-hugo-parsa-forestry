@@ -1,22 +1,21 @@
 +++
-categories = ["Небо"]
+categories = ["Cielo"]
 date = 2021-04-03T21:00:00Z
 description = ""
-draft = true
 image = "/images/hur_n.jpg"
-tags = ["США"]
-title = "-(copy)"
+tags = ["EEUU"]
+title = "¿Cómo huracanes obtienen nombres?"
 type = "post"
 
 +++
-Знаете ли вы, как ураганы и тайфуны получают свои имена?  
+¿Sabéis cómo los huracanes y tifones obtienen sus nombres?  
   
-Раньше никакой системы не существовало, имена ураганов зависели от даты (например, ураган "Санта-Анна", случившийся в день Св. Анны) или формы (как это произошло с ураганом «Булавка»).  
+Anteriormente, no existía ningún sistema; los nombres de los huracanes dependían de la fecha (por ejemplo, el huracán Santa Anna, que sucedió el día de Santa Ana) o la forma (como sucedió con el huracán «Pin»).  
   
-Случались и настоящие казусы: например, один метеоролог из Австралии давал ураганам имена политиков, которые голосовали против бюджета для метеоисследований. А специалисты метеорологической службы США во время Второй мировой войны и вовсе называли тайфуны и циклоны Тихого океана именами своих жен и тещ.   
+Hubo también situaciones anecdóticas: por ejemplo, un meteorólogo de Australia solía dar a los huracanes los nombres de los políticos que votaron en contra del presupuesto para las investigaciones meteorológicas. Y los expertos del servicio meteorológico de los EE.UU. Durante la Segunda Guerra Mundial llamaron tifones y ciclones del Océano Pacífico por los nombres de sus esposas y suegras.  
   
-После войны, наконец, появилась система и специальный алфавитный список из 84 коротких и простых женских имен. Согласно этой системе первому урагану года присваивается имя на первую букву алфавита и далее по порядку. В 1979 году в список добавили мужские имена.  
+Después de la guerra, finalmente, apareció un sistema y una lista alfabética especial de 84 nombres femeninos cortos y simples. Según este sistema, el primer huracán del año recibe un nombre que empieza con la primera letra del alfabeto y luego sigue en orden. En 1979 se agregaron nombres masculinos a la lista.  
   
-Таких списков существует несколько: для Атлантики, например, есть отдельный перечень. Но если тайфун приносит особенно сильные разрушения, его имя вычеркивается из списка навсегда. Чтобы не испытывать судьбу, видимо. Именно так произошло с именем KATRINA.  
+Hay varias listas de este tipo: para el Atlántico, por ejemplo, hay una lista especial. Pero si el tifón provoca daños especialmente graves, su nombre se elimina de la lista para siempre. Para no tentar al destino. Esto es exactamente lo que sucedió con el nombre de KATRINA.  
   
-Но не все тайфуны носят женские имена: штормам в северо-западной части Тихого океана дают названия цветов, деревьев и животных, у берегов Японии женские имена также не используют, а ураганы в Индийском океане и вовсе остаются безымянными.
+Pero no todos los tifones llevan nombres femeninos: las tormentas en el noroeste del Pacífico reciben nombres de flores, árboles y animales, los nombres de las mujeres no se usan en la costa de Japón y los huracanes en el Océano Índico no tienen nombres en absoluto.
