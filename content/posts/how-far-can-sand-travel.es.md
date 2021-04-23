@@ -4,7 +4,7 @@ date = 2021-03-12T23:00:00Z
 description = ""
 image = "/images/sand_n.png"
 tags = ["África", "América", "EEUU", "Sahara", "Atlántico"]
-title = "Arena que viaja África y América"
+title = "Arena que viaja de África a América"
 type = "post"
 
 +++
