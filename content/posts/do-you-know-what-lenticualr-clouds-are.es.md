@@ -1,16 +1,15 @@
 +++
-categories = ["Небо"]
+categories = ["Cielo"]
 date = 2021-03-11T21:00:00Z
 description = ""
-draft = true
 image = "/images/lenticular_n.png"
-tags = ["США", "облака"]
-title = "Лентикулярные облака-(copy)"
+tags = ["nubes", "Japón"]
+title = "Nubes lenticulares"
 type = "post"
 
 +++
-Лентикулярные облака - это один из самых красивых феноменов природы. Впервые увидев их на фото, сложно бывает поверить, что это реальный кадр, а не фотошоп.  
+Las nubes lenticulares son uno de los fenómenos naturales más bellos. Cuando los ves por primera vez en la foto, es difícil creer que sea algo real, no un photoshop.  
   
-Лентикулярные облака довольно редки и встречаются преимущественно в горных местностях. Чаще всего их фиксируют в США, на Камчатке и в районе японской горы Фудзияма.  
+Las nubes lenticulares son bastante raras y aparecen principalmente en áreas montañosas. La mayoría de las veces se registran en los Estados Unidos, Kamchatka y en la región del monte Fuji en Japón.  
   
-Главная особенность эти облаков - их неподвижность даже при сильном ветре. Потоки воздуха обтекают массивные облака и образуют воздушные волны, в которых происходит непрерывный процесс конденсации. Из-за этого эти облака и не меняют своего положения в пространстве.
+La característica principal y la más interesante de estas nubes es su inmovilidad incluso con vientos fuertes. El aire fluye alrededor de las nubes masivas y forma ondas de aire en las que se produce el proceso de condensación continua. Debido de lo cual, estas nubes no cambian su posición en el espacio.
