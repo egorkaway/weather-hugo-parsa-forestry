@@ -1,18 +1,19 @@
 +++
-categories = ["Earth"]
+categories = ["Океан"]
 date = 2021-03-25T21:00:00Z
 description = ""
-draft = true
 image = "/images/tsu_.jpg"
-tags = ["earthquake", "tsunami", "Alaska"]
-title = "Tsunamis-(copy)"
+tags = ["цунами", "Аляска"]
+title = "Откуда приходят цунами?"
 type = "post"
 
 +++
-Tsunamis are mostly provoked by underwater earthquakes and underwater volcanic eruptions, which sharply raise or lower the seabed and, as a result, move huge masses of water. Until now, the mechanisms of the tsunami have not been thoroughly studied, and it is often difficult to detect an approaching dangerous wave since at first, it is not high enough to start sounding the alarm.
-
-The biggest tsunami was recorded on July 9, 1958, in Alaska. On that day, the wave height exceeded 500 m and developed a speed of about 160 km/h.
-
-There are several safety rules when a tsunami is approaching: at the first sign of danger, immediately move away from the coast. The higher you are above sea level, the better. It is desirable that the height is at least 30-40 meters. Avoid streams, rivers, or any other types of water reservoirs, do not take unnecessary things with you, and remember: tsunamis usually have several waves, so do not rush down until you are sure that the disaster is gone.
-
-Take care of yourself in all circumstances.
+Откуда берутся цунами?  
+  
+Чаще всего причиной цунами становятся подводные землетрясения и извержения подводных вулканов, которые резко поднимают или опускают морское дно и, как результат, приводят в действие огромные массы воды. До сих пор механизмы цунами досконально не изучены, и часто трудно вовремя обнаружить надвигающуюся волну, поскольку изначально она недостаточно высока, чтобы начинать бить тревогу.  
+  
+Цунами-рекордсмен зафиксировано 9 июля 1958 года на Аляске. В тот день высота волны превысила 500 м и развила скорость около 160 км/час.  
+  
+Есть несколько правил безопасности при приближении цунами: при первых же признаках немедленно уходить подальше от берега. Чем выше над уровнем моря вы окажетесь - тем лучше. Желательно, чтобы высота составляла не менее 30-40 метров. Избегайте ручьев, рек и вообще любых водоемов, не берите с собой лишние вещи и помните - у цунами обычно несколько волн, так что не спешите спускаться, пока не будете точно уверены, что стихия отступила.  
+  
+Берегите себя при любых обстоятельствах.
