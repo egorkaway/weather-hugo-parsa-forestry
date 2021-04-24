@@ -38,6 +38,22 @@ languages:
     logo: images/weather_ru_w.png
     weight: '4'
     follow: Мережи
+  be:
+    languageName: Belarusian
+    weight: '5'
+    address: Мiнск / Нясвиж
+    title: 'Пагода ды Клiмат: сайт ад Weather Gizmo'
+    read_more: Далей...
+    address_title: Дзе
+    contact_info: Кантакты
+    follow: Follow
+    previous: "« Не наперад"
+    next: Наперад »
+    post_by: Опубликавана
+    latest_post: Апошнiя матерыалы
+    tag: Тегi
+    categories: Категорыи
+    post_available_in: Гэты пост таксама ёсць на наступных мовах
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
   imports:
