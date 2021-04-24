@@ -8,7 +8,7 @@ title = "Incendios Zombie"
 type = "post"
 
 +++
-En la zona del Ártico se ha registrado un número creciente de «incendios zombies".  
+En la zona del Ártico se ha registrado un número creciente de "incendios zombie".  
   
 Un "incendio zombie" es un fuego que arde lentamente bajo tierra y luego se enciende en la superficie después de cierto tiempo.  
   
