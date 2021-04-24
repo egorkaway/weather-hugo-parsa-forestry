@@ -1,18 +1,17 @@
 +++
-categories = ["Земля"]
+categories = ["Tierra"]
 date = 2021-03-02T21:00:00Z
 description = ""
-draft = true
 image = "/images/fire.jpg"
-tags = ["Аляска", "Канада", "Россия"]
-title = "Пожары-зомби-(copy)"
+tags = ["Canadá", "Rusia", "Alaska"]
+title = "Incendios Zombie"
 type = "post"
 
 +++
-В арктическом поясе зафиксировано возрастающее число «пожаров-зомби».  
+En la zona del Ártico se ha registrado un número creciente de «incendios zombies".  
   
-«Пожар-зомби» - это огонь, который медленно тлеет под землей, а затем вспыхивает на поверхности через некоторое время.  
+Un "incendio zombie" es un fuego que arde lentamente bajo tierra y luego se enciende en la superficie después de cierto tiempo.  
   
-На данный момент зафиксировано более 35 «скрытых пожаров», которые ожили на торфяниках, 7 из них уже вышли на поверхность и видны из космоса. Очаги появляются в тех же регионах, которые более всего пострадали и в прошлом году: Канаде, России, Гренландии и на Аляске.  
+Por el momento, se han registrado más de 35 "incendios ocultos", 7 de los cuales ya han salido a la superficie y son visibles desde el espacio. Los focos aparecen en las mismas regiones que sufrieron más el año pasado: Canadá, Rusia, Groenlandia y Alaska.  
   
-Ученые опасаются, что эти вспышки могут привести к таянию вечной мерзлоты в Арктике, что, в свою очередь, приведет к выбросу в атмосферу углекислого газа, дестабилизации ледников и повышению уровня моря.
+Los científicos tienen miedo de que ellos puedan conducir al derretimiento del permafrost en el Ártico, lo que a su vez provocará la exploción de dióxido de carbono a la atmósfera, la desestabilización de los glaciares y el aumento del nivel del mar.
