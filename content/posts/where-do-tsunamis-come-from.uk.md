@@ -2,17 +2,18 @@
 categories = []
 date = 2021-03-25T21:00:00Z
 description = ""
-draft = true
 image = "/images/tsu_.jpg"
-tags = ["tsunami", "Alaska"]
-title = "¿De dónde vienen tsunamis?-(copy)"
+tags = ["цунамі"]
+title = "Звідки беруться цунамі?"
 type = "post"
 
 +++
-Las causas más frecuentes de los tsunamis son los terremotos submarinos y las erupciones volcánicas submarinas, que suben o bajan bruscamente el lecho marino y, como resultado, desencadenan enormes masas de agua. Hasta ahora, los mecanismos de los tsunamis no se han estudiado a fondo y, a menudo, es difícil detectar a tiempo una ola que se acerca, ya que inicialmente no es lo suficientemente alta como para hacer sonar la alarma.  
+Звідки беруться цунамі?  
   
-El tsunami récord se registró el 9 de julio de 1958 en Alaska. Ese día, la altura de las olas superó los 500 m y desarrolló una velocidad de unos 160 km/h.  
+Найчастіше причиною цунамі стають підводні землетруси і виверження підводних вулканів, які різко піднімають або опускають морське дно і, як результат, штурхають величезні маси води. До цього дня механізми цунамі досконально не вивчені, і часто важко вчасно виявити небезпечну хвилю, оскільки спочатку вона недостатньо висока, щоб бити тривогу.  
   
-Hay varias reglas de seguridad cuando se acerca un tsunami: a la primera señal, aléjese inmediatamente de la costa. Cuanto más alto esté sobre el nivel del mar, mejor. Es deseable que la altura sea de al menos 30-40 metros. Evite arroyos, ríos y en general cualquier masa de agua, no lleve cosas innecesarias y recuerde: los tsunamis suelen tener varias olas, así que no se apresure a bajar hasta estar seguro de que todo ha terminado ya.  
+Цунамі-рекордсмен зафіксовано 9 липня 1958 року на Алясці. В той день висота хвилі перевищила 500 м і розвинула швидкість близько 160 км/год.  
   
-Cuídase bajo cualquier circunstancia.
+Є кілька правил безпеки при наближеннi цунамі: при перших же ознаках негайно йти подалі від берега. Чим вище над рівнем моря ви опинитеся — тим краще. Бажано, щоб висота становила не менше 30-40 метрів. Уникайте струмків, річок і взагалі будь-яких водоймiв, не беріть з собою зайві речі і пам’ятайте: у цунамі зазвичай кілька хвиль, так що не поспішайте спускатися, поки не будете точно впевнені, що стихія відступила.  
+  
+Бережіть себе за будь-яких обставин.
