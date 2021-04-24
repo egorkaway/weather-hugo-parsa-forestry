@@ -1,20 +1,17 @@
 +++
-categories = ["Океан"]
+categories = []
 date = 2021-03-25T21:00:00Z
 description = ""
-draft = true
 image = "/images/tsu_.jpg"
-tags = ["цунами", "Аляска"]
-title = "Откуда приходят цунами?-(copy)"
+tags = ["tsunami", "Alaska"]
+title = "¿De dónde vienen tsunamis?"
 type = "post"
 
 +++
-Откуда берутся цунами?  
+Las causas más frecuentes de los tsunamis son los terremotos submarinos y las erupciones volcánicas submarinas, que suben o bajan bruscamente el lecho marino y, como resultado, desencadenan enormes masas de agua. Hasta ahora, los mecanismos de los tsunamis no se han estudiado a fondo y, a menudo, es difícil detectar a tiempo una ola que se acerca, ya que inicialmente no es lo suficientemente alta como para hacer sonar la alarma.  
   
-Чаще всего причиной цунами становятся подводные землетрясения и извержения подводных вулканов, которые резко поднимают или опускают морское дно и, как результат, приводят в действие огромные массы воды. До сих пор механизмы цунами досконально не изучены, и часто трудно вовремя обнаружить надвигающуюся волну, поскольку изначально она недостаточно высока, чтобы начинать бить тревогу.  
+El tsunami récord se registró el 9 de julio de 1958 en Alaska. Ese día, la altura de las olas superó los 500 m y desarrolló una velocidad de unos 160 km/h.  
   
-Цунами-рекордсмен зафиксировано 9 июля 1958 года на Аляске. В тот день высота волны превысила 500 м и развила скорость около 160 км/час.  
+Hay varias reglas de seguridad cuando se acerca un tsunami: a la primera señal, aléjese inmediatamente de la costa. Cuanto más alto esté sobre el nivel del mar, mejor. Es deseable que la altura sea de al menos 30-40 metros. Evite arroyos, ríos y en general cualquier masa de agua, no lleve cosas innecesarias y recuerde: los tsunamis suelen tener varias olas, así que no se apresure a bajar hasta estar seguro de que todo ha terminado ya.  
   
-Есть несколько правил безопасности при приближении цунами: при первых же признаках немедленно уходить подальше от берега. Чем выше над уровнем моря вы окажетесь - тем лучше. Желательно, чтобы высота составляла не менее 30-40 метров. Избегайте ручьев, рек и вообще любых водоемов, не берите с собой лишние вещи и помните - у цунами обычно несколько волн, так что не спешите спускаться, пока не будете точно уверены, что стихия отступила.  
-  
-Берегите себя при любых обстоятельствах.
+Cuídase bajo cualquier circunstancia.
