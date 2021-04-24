@@ -1,20 +1,17 @@
 +++
-categories = ["Earth"]
+categories = []
 date = 2020-12-11T23:00:00Z
 description = ""
-draft = true
 image = "/images/storm_2020.jpg"
-tags = ["America", "USA", "Caribbean", "hurricane"]
-title = "?-(copy)"
+tags = ["2020"]
+title = "Сезон ураганаў 2020 пабіў гістарычны рэкорд"
 type = "post"
 
 +++
-2020 hurricane season breaks a historic record.
-
-This year, the maximum recorded number of named hurricanes during the hurricane season reached 30. They mostly took place in the southeast coast of the United States, the Caribbean and Central America.
-
-The current hurricane season has forced thousands of people to leave their homes, and the damage caused by this natural disaster is estimated at $20 billion.
-
-As you probably know, hurricanes are named after the letters of the Latin alphabet. This year Greek letters were needed as well because of the record number of hurricanes.
-
-The most probable reason for the increase in the number and strength of hurricanes, scientists say, is the general change in the temperature of ocean waters.
+У гэтым годзе была зарэгістравана максімальная за ўсю гісторыю назіранняў колькасць ураганаў за сезон з чэрвеня па лістапад — 30. Асноўнай зонай іх з'яўлення было паўднёва-ўсходняе ўзбярэжжа ЗША, Карыбскі басейн і Цэнтральная Амерыка.  
+  
+Цяперашні сезон ураганаў прымусіў тысячы людзей пакінуць свае дамы, а шкоду, нанесеную стыхіяй, ацэньваюць у 20 мільярдаў даляраў.  
+  
+Як вядома, ураганы атрымліваюць імёны па літарах лацінскага алфавіту. У гэтым годзе спатрэбіліся грэчаскія літары з-за рэкорднай колькасці стыхійных бедстваў.  
+  
+Найбольш верагоднай прычынай павелічэння колькасці і моцы ўраганаў навукоўцы называюць агульнае змяненне тэмпературы акіянскіх вод.
