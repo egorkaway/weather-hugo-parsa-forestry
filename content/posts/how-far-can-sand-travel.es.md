@@ -1,6 +1,6 @@
 +++
 categories = ["Tierra"]
-date = 2021-03-12T23:00:00Z
+date = 2021-04-19T23:00:00Z
 description = ""
 image = "/images/sand_n.png"
 tags = ["África", "América", "EEUU", "Sahara", "Atlántico"]
