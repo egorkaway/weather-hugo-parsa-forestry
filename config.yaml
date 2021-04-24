@@ -52,7 +52,7 @@ languages:
     post_by: Опубликавана
     latest_post: Апошнiя матерыалы
     tag: Тегi
-    categories: Категорыи
+    categories: Категорыi
     post_available_in: Гэты пост таксама ёсць на наступных мовах
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
