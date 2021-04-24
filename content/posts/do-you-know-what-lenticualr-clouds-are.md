@@ -1,6 +1,6 @@
 +++
-categories = []
-date = 2021-01-19T21:00:00Z
+categories = ["Sky"]
+date = 2021-03-11T21:00:00Z
 description = ""
 image = "/images/lenticular_n.png"
 tags = ["USA", "Kamchatka", "Japan", "clouds"]
