@@ -11,7 +11,7 @@ languages:
     weight: '2'
     logo: images/weather_es_w.png
     title: Tiempo y Clima presentados por Weather Gizmo
-    address_title: Donde estamos
+    address_title: Donde
     follow: Redes
     categories: Categorias
     read_more: Leer mas...
@@ -40,6 +40,7 @@ languages:
     follow: Мережи
   be:
     languageName: Belarusian
+    logo: images/weather_by.png
     weight: '5'
     address: Мiнск / Нясвиж
     title: 'Пагода ды Клiмат: сайт ад Weather Gizmo'
