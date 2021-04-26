@@ -1,18 +1,17 @@
 +++
-categories = ["Sky"]
+categories = ["Неба"]
 date = 2020-11-04T21:00:00Z
 description = ""
-draft = true
 image = "/images/meteor_.png"
-tags = ["Leonids", "November", "meteor"]
-title = "Leonid Meteor Shower-(copy)"
+tags = ["лістапад", "зарапад"]
+title = "Зарапад Леаніды"
 type = "post"
 
 +++
-Watching the Leonid meteor shower on November 16-18   
+16 -18 лістапада назіраем за метэарытным дажджом Леанід  
   
-The Leonids are a starfall known for its bright and abundant flashes. Every year it can be seen in November, and this year is not an exception.  
+Леаніды — гэта зарапад, вядомы сваімі яркімі і шматлікімі выбліскамі. Кожны год за iм можна назіраць у лістападзе, і гэты год — не выключэнне.  
   
-This time the peak of the meteor shower will take place on November 16-18. According to scientists, we’ll be able to see up to 10 bright meteors per hour during this period. Look for the meteor shower radiant in the constellation of Leo.  
+На гэты раз пік актыўнасці метэарытнага дажджу прыйдзецца на 16-18 лістапада. На думку навукоўцаў, у гэты перыяд на небе можна будзе назіраць да 10 яркіх метэораў у гадзіну. Радыянт метэорнага патоку шукайце ў сузор'і Льва.  
   
-Have a cloudless night sky and interesting observations!
+Цікавых вам назіранняў!
