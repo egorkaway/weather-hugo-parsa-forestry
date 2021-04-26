@@ -3,7 +3,7 @@ categories = []
 date = 2021-02-06T21:00:00Z
 description = ""
 image = "/images/glacier_n.jpg"
-tags = ["Italy", "glacier"]
+tags = ["Italy", "glacier", "Alps", "timeless"]
 title = "Glacier Covered with Tarpaulin"
 type = "post"
 
