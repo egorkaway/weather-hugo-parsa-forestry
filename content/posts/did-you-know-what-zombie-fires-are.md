@@ -3,7 +3,7 @@ categories = ["Earth"]
 date = 2021-03-02T21:00:00Z
 description = ""
 image = "/images/fire.jpg"
-tags = ["Canada", "Russia", "Greenland", "Alaska", "Arctic"]
+tags = ["Canada", "Russia", "Greenland", "Alaska", "Arctic", "fire"]
 title = "Did You Know What \"Zombie Fires\" Are?"
 type = "post"
 
