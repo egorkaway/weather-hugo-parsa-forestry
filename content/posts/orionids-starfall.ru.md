@@ -1,16 +1,13 @@
 +++
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2020-10-10T21:00:00Z
 description = ""
-draft = true
 image = "/images/orion_n.jpg"
-tags = ["October", "Orionids", "meteor"]
-title = "Orionids Starfall-(copy)"
+tags = ["октябрь"]
+title = "Ориониды"
 type = "post"
 
 +++
-Observing a new starfall in a week.  
+С 16 по 27 октября на Землю прольется настоящий звездопад. Это будет метеорный поток с радиантом в созвездии Ориона, потому и называться он будет звездопад Орионид. Пик его активности придется на 21-22 октября. Учёные предполагают, что среднее количество падающих звезд составит около 20-25 в час.  
   
-From October 16 to 27, a real starfall will spill onto the Earth. It will be a meteor shower with a radiant in the Orion constellation, and therefore it will be called the Orionids Starfall. The peak of its activity will be on October 21-22. Scientists estimate that the average number of falling stars will be around 20-25 per hour.  
-  
-All the inhabitants of our planet will be able to observe this wonderful phenomenon, but it will be especially bright for those in the Northern Hemisphere.
+Наблюдать это прекрасное явление смогут все жители нашей планеты, но особенно ярким он будет для обитателей Северного полушария.
