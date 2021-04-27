@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Earth"]
 date = 2020-12-14T21:00:00Z
 description = ""
 image = "/images/glacier_n.jpg"
