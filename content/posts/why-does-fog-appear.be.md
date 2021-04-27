@@ -1,20 +1,17 @@
 +++
-categories = ["Cielo"]
+categories = ["Неба"]
 date = 2021-04-01T21:00:00Z
 description = ""
-draft = true
 image = "/images/fog_.png"
-tags = ["niebla", "hielo"]
-title = "Nieblas: ¿que son y por qué aparecen?-(copy)"
+tags = ["туман"]
+title = "Туманы: што гэта такое і чаму яны з'яўляюцца?"
 type = "post"
 
 +++
+Туман з пункту гледжання навукі — гэта навала вады ў паветры і фарміраванне драбнюткіх прадуктаў кандэнсацыі вадзяной пары. Прычым чым ніжэй тэмпература, тым больш у тумане ледзяных крышталікаў замест кропель вады.  
   
+Туманы могуць быць рознымі па шчыльнасці і працягласці, ад пары гадзін да некалькіх сутак.  
   
-Desde el punto de vista científico, la niebla es la acumulación de agua en el aire y la formación de los más pequeños productos de condensación del vapor de agua. Además, cuanto más baja es la temperatura, más cristales de hielo hay en la niebla en lugar de gotas de agua.  
+Туманы ў узбярэжжаў могуць быць шчыльнымі і непразрыстымі, як вата. Напрыклад, Дубай двойчы ў год, вясной і восенню, амаль цалкам хаваецца ў тумане. А ў Фларыдзе ў лютым 2012 года туман быў настолькі непранікальным, што сфатаграфаваць яго ўдалося толькі зверху пры дапамозе верталётаў.  
   
-Las nieblas pueden variar en densidad y duración, desde un par de horas hasta varios días.  
-  
-Las nieblas costeras pueden ser densas y opacas, como el algodón. Por ejemplo, Dubai se oculta casi por completo en la niebla dos veces al año, en primavera y otoño. Y en Florida, en febrero de 2012, la niebla era tan impenetrable que solo era posible fotografiarla desde arriba utilizando helicópteros.  
-  
-¿Hay mucha niebla en su área?
+А ў вашай мясцовасці часта бывае туман?
