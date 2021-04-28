@@ -1,20 +1,17 @@
 +++
-categories = ["Earth"]
+categories = ["Земля"]
 date = 2021-03-16T21:00:00Z
 description = ""
-draft = true
 image = "/images/mirage_.jpg"
-tags = ["mirage"]
-title = "What is Mirage?-(copy)"
+tags = []
+title = "Что такое мираж и откуда он берется?"
 type = "post"
 
 +++
-What is a mirage and where does it come from?  
+Мираж — это, несомненно, одно из самых загадочных атмосферных явлений, которое всегда ассоциировалось с тайнами и легендами. Но на деле мираж легко объясняется с научной точки зрения.   
   
-Mirage is undoubtedly one of the most mysterious atmospheric phenomena that has always been associated with secrets and legends. But in reality, the mirage is easily explained from a scientific point of view.
-
-It appears when the air near a highly heated surface (about 60-70 °C) also heats up and becomes inhomogeneous. The optical density of the air changes drastically, and the light rays become curved. This is how fantastic images appear at the horizon.
-
-There are several types of mirages, but the most unusual of them is Fata Morgana (from the Italian fata Morgana - the fairy Morgana who lived on the seabed and lured travelers with the help of mirages). Fata Morgana happens when the rays of light are refracted in both the upper and lower layers of the air, and a double mirage appears with fantastic pictures.
-
-So have you ever seen mirages?
+Он появляется, когда воздух рядом с сильно нагретой поверхностью (около 60-70°С) тоже нагревается и становится неоднородным. Оптическая плотность воздуха резко изменяется, и световые лучи становятся криволинейными. Так и возникают мнимые изображения у линии горизонта.  
+  
+Существует несколько типов миражей, и самый необычный из них — это Фата-Моргана (от итальянского fata Morgana – фея Моргана, которая жила на морском дне и заманивала к себе путешественников при помощи миражей). Фата-Моргана случается тогда, когда лучи света преломляются и в верхнем, и в нижнем слоях воздуха, и возникает двойной мираж с фантастическими картинами.  
+  
+А вам доводилось видеть миражи?
