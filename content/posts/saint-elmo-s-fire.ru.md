@@ -2,7 +2,7 @@
 categories = ["Земля"]
 date = 2021-04-04T21:00:00Z
 image = "/images/elm_n.jpg"
-tags = ["молния", "гроза ", "timeless"]
+tags = ["молния", "гроза ", "всегда "]
 title = "Огни Святого Эльма"
 type = "post"
 
