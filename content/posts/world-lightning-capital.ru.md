@@ -3,7 +3,7 @@ categories = ["Небо"]
 date = 2021-03-25T21:00:00Z
 description = ""
 image = "/images/bolt_.png"
-tags = ["молния "]
+tags = ["молния ", "всегда"]
 title = "Мировая столица молний"
 type = "post"
 
