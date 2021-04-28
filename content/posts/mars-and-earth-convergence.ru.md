@@ -1,16 +1,15 @@
 +++
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2020-09-26T21:00:00Z
 description = ""
-draft = true
 image = "/images/convergence_n.jpg"
-tags = ["October", "2020 ", "Mars"]
-title = "Mars and Earth Convergence-(copy)"
+tags = ["2020 ", "Марс"]
+title = "Сближение Марса и Земли"
 type = "post"
 
 +++
-Convergence of Mars and Earth in early October.  
+Сближение Марса и Земли в начале октября 2020.  
   
-First week of October 2020 will be characterized by the approach of Mars to Earth. On October 6, the distance between the two planets will be 62 million kilometers, which, by astronomical standards, is practically the minimum distance. It should be noted that the next similar convergence of Mars and Earth will occur no earlier than in 15 years.  
+Первая неделя октября охарактеризуется приближением Марса к Земле. 6 октября расстояние между двум планетами составит 62 миллиона километров, что по астрономическим меркам — практически минимальная дистанция. Следует отметить, что следующее подобное сближение Марса и Земли произойдет не ранее, чем через 15 лет.  
   
-During all the week Mars will be clearly visible in the night sky, and on October 6 it will become the brightest celestial body after the Moon and Venus. One should look for it in the constellation of Pisces, and it will be possible to observe the "red planet" throughout the night.
+Всю неделю Марс будет хорошо различим в ночном небе, а 6 октября и вовсе станет самым ярким небесным телом после Луны и Венеры. Искать его следует в созвездии Рыб, а наблюдать «красную планету» можно будет в течение всей ночи.
