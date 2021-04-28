@@ -1,18 +1,17 @@
 +++
-categories = ["Earth"]
+categories = ["Земля"]
 date = 2020-08-30T21:00:00Z
 description = ""
-draft = true
 image = "/images/summer_.jpg"
-tags = ["Russia", "Ukraine", "Belarus", "Germany", "Bulgaria", "France ", "USA", "Azores", "Atlantic", "September", "October", "November", "Europe"]
-title = "What is \"Indian summer\"?-(copy)"
+tags = ["Беларусь", "Европа", "США"]
+title = "Что такое «бабье лето» и когда оно бывает?"
 type = "post"
 
 +++
-What is "Indian summer" and when does it happen?  
+Середина осени - время для «возвращения лета». И хотя мы все понимаем, что пара теплых и солнечных осенних недель все равно сменится первыми заморозками, продолжаем называть этот краткий период летом.  
   
-Mid-autumn is the time for the "return of summer". Though all of us understand pretty well that a couple of warm and sunny autumn weeks will soon be replaced by the first frost, we continue calling this short period as summer.
-
-But do you know that in different countries this "summer" is called differently? In Russia, Ukraine, and Belarus it is called "woman's summer", in Germany — "summer of old women", in Bulgaria — "gypsy summer", in France — "summer of St. Denis", and in the USA — "Indian summer".
-
-From the scientific point of view, "Indian summer" is the last waves of the Azores anticyclone. This is the name of the huge zone of high pressure in the Atlantic. The United States, all of Europe, and the European part of Russia are under its influence. The Azores anticyclone doesn’t come to everyone at the same time. For example, in Russia, Indian summer usually happens in the second half of September. But it occurs much later in Europe and the USA. In America, Indian summer is expected from early October to mid-November, and in most of Europe — from late September to early November, depending on the country's geographic location.
+Но знаете ли вы, что в разных странах это «лето» — называется по-разному? В России, Украине и Беларуси его называют «бабьим», в Германии — «летом старых баб», в Болгарии – «цыганским летом», во Франции – «летом Св. Дени», а в США – «индейским».  
+  
+С точки зрения науки, «бабье лето» — это последние волны Азорского антициклона. Так называют огромную зону повышенного давления в Атлантике. Под его влиянием находится США, вся Европа и европейская часть России.   
+  
+Приходит Азорский антициклон тоже не в одно время ко всем. Так, в России бабье лето обычно случается во второй половине сентября. А в Европе и США — гораздо позже. В Америке бабье лето ожидают с начала октября по середину ноября, а на большей части Европы – с конца сентября по начало ноября в зависимости от географического расположения страны.
