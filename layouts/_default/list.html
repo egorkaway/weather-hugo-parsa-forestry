@@ -23,12 +23,16 @@
           {{ range $paginator.Pages }}
           <div class="col-sm-6 mb-5">
             <article class="text-center">
-              {{ $image := resources.Get .Params.Image }}
+              {{ with .Params.Image }}
+              {{ $image := resources.Get . }}
               {{ $image_res := $image.Resize "400x"}}
               <img class="img-fluid mb-4" src="{{ $image_res.Permalink  }}" width="{{ $image_res.Width }}" height="{{ $image_res.Height }}" alt="post-thumb">
+              {{ end }}
               <p class="text-uppercase mb-2">{{ .Params.Categories }}</p>
               <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
               <p>{{ .Summary }}</p>
+              <!-- test -->
+              <!-- test -->
               <a href="{{.Permalink}}111" class="btn btn-transparent">read more</a>
             </article>
           </div>
