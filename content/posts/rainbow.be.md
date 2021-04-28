@@ -1,9 +1,9 @@
 +++
-categories = ["Небо"]
 date = 2021-04-10T21:00:00Z
+draft = true
 image = "/images/rain_bow_n.png"
 tags = ["радуга", "Германия", "Франция", "всегда", "Япония "]
-title = "Сколько цветов у радуги?"
+title = "Сколько цветов у радуги?-(copy)"
 type = "post"
 
 +++
