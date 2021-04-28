@@ -1,18 +1,19 @@
 +++
-categories = ["Tierra"]
+categories = ["Зямля"]
 date = 2020-08-30T21:00:00Z
 description = ""
-draft = true
 image = "/images/summer_.jpg"
-tags = ["Rusia", "Ucrania", "Alemania", "Bulgaria", "Francia", "Azores", "Europa", "América"]
-title = "¿Qué es el \"verano indio\" y cuándo ocurre?-(copy)"
+tags = ["ЗША", "Еўропа"]
+title = "Што такое «бабіна лета» і калі яно бывае?"
 type = "post"
 
 +++
-Mediados de otoño es el momento del "regreso del verano". Y aunque todos entendemos que un par de semanas cálidas y soleadas de otoño de todos modos serán reemplazadas por la primera helada, seguimos llamando «verano» a este período corto.  
   
-¿Pero sabíais que en diferentes países este "verano" se llamaba de manera diferente? En Rusia, Ucrania y Bielorrusia se le llama «verano de mujeres", en Alemania — "verano de viejas", en Bulgaria — "verano gitano", en Francia — "verano de St. Denis", y en los Estados Unidos — "indio".  
   
-Desde el punto de vista científico, el "verano indio" son las últimas oleadas del anticiclón de las Azores. Este es el nombre de la enorme zona de alta presión en el Atlántico. Bajo su influencia están los Estados Unidos, toda Europa y la parte europea de Rusia.  
+Сярэдзіна восені — час для «вяртання лета». І хоць мы ўсе разумеем, што пара цёплых і сонечных восеньскіх тыдняў ўсё роўна зменіцца першымі замаразкамі, працягваем называць гэты кароткi тэрмiн летам.  
   
-El anticiclón de las Azores tampoco llega al mismo tiempo a todos. Por ejemplo, en Rusia el verano indio generalmente ocurre en la segunda quincena de septiembre. Y en Europa y Estados Unidos, mucho más tarde. En América, el verano indio se espera desde principios de octubre hasta mediados de noviembre, y en la mayor parte de Europa — desde finales de septiembre hasta principios de noviembre, dependiente de la ubicación geográfica del país.
+Але ці ведаеце вы, што ў розных краінах гэта «лета» называецца па-рознаму? У Расеі, Украіне і Беларусі яго называюць «бабіным», у Германіі — «летам старых баб», у Балгарыі — «цыганскім летам», у Францыі — «летам Св. Дэні», а ў ЗША — «індзейскім».  
+  
+З пункту гледжання навукі, «бабіна лета» — гэта апошнія хвалі Азорскага антыцыклону. Так называюць велізарную зону павышанага ціску ў Атлантыцы. Пад яго ўплывам знаходзіцца ЗША, уся Еўропа і еўрапейская частка Расіі.  
+  
+Прыходзіць Азорскі антыцыклон таксама не ў адзін час да ўсіх. Так, у Расіі бабіна лета звычайна здараецца ў другой палове верасня. А ў Еўропе і ЗША — значна пазней. У Амерыцы бабіна лета чакаюць з пачатку кастрычніка па сярэдзіну лістапада, а на большай частцы Еўропы — з канца верасня па пачатак лістапада ў залежнасці ад геаграфічнага размяшчэння краіны.
