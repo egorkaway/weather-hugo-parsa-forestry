@@ -1,9 +1,9 @@
 +++
 categories = ["Earth"]
-date = 2021-03-16T21:00:00Z
+date = 2021-04-11T21:00:00Z
 description = ""
 image = "/images/mirage_.jpg"
-tags = ["mirage"]
+tags = ["mirage", "timeless"]
 title = "What is Mirage?"
 type = "post"
 
