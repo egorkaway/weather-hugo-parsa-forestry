@@ -3,7 +3,7 @@ categories = ["Небо"]
 date = 2021-03-11T21:00:00Z
 description = ""
 image = "/images/lenticular_n.png"
-tags = ["США", "облака"]
+tags = ["США", "облака", "всегда", "Япония "]
 title = "Лентикулярные облака"
 type = "post"
 
