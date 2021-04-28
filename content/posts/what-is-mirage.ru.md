@@ -3,7 +3,7 @@ categories = ["Земля"]
 date = 2021-03-16T21:00:00Z
 description = ""
 image = "/images/mirage_.jpg"
-tags = []
+tags = ["всегда"]
 title = "Что такое мираж и откуда он берется?"
 type = "post"
 

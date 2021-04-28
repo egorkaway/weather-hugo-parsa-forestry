@@ -3,7 +3,7 @@ categories = ["Небо"]
 date = 2021-04-01T21:00:00Z
 description = ""
 image = "/images/fog_.png"
-tags = ["туман"]
+tags = ["туман", "всегда "]
 title = "Туманы: что это такое и почему они появляются?"
 type = "post"
 
