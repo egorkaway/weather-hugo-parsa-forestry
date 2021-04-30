@@ -3,7 +3,7 @@ categories = ["Неба"]
 date = 2020-05-16T21:00:00Z
 description = ""
 image = "/images/more_moon.png"
-tags = ["2020", "июнь ", "Месяц "]
+tags = ["2020", "Месяц ", "чэрвень"]
 title = "Месяцовае зацьменне 5 чэрвеня 2020"
 type = "post"
 
