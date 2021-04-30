@@ -1,18 +1,17 @@
 +++
-categories = ["Earth"]
+categories = ["Зямля"]
 date = 2021-03-02T21:00:00Z
 description = ""
-draft = true
 image = "/images/fire.jpg"
-tags = ["Canada", "Russia", "Greenland", "Alaska", "Arctic", "fire"]
-title = "Did You Know What \"Zombie Fires\" Are?-(copy)"
+tags = []
+title = "Пажар-зомбі"
 type = "post"
 
 +++
-An increasing number of “zombie fires” have been recorded recently in the Arctic zone.
-
-A “zombie fire” is a fire that slowly burns underground and then appears on the surface after a while.
-
-So far, more than 35 “hidden fires” have been recorded and 7 of them have already come to the surface and are visible from space. They appear in the same regions that suffered the most last year: Canada, Russia, Greenland, and Alaska.
-
-Scientists fear that these outbreaks could lead to the melting of permafrost in the Arctic, which in turn will lead to the contamination of the atmosphere by carbon dioxide, destabilization of glaciers, and sea level rise.
+У арктычным поясе зафіксавана нарастаючая колькасць «пажараў-зомбі».  
+  
+«Пажар-зомбі» - гэта агонь, які павольна тлее пад зямлёй, а затым успыхвае на паверхні праз некаторы час.  
+  
+На дадзены момант зафіксавана больш за 35 «схаваных пажараў», якія ажылі на тарфяніках, 7 з іх ужо выйшлі на паверхню і бачныя з космасу. Яны з'яўляюцца ў тых жа рэгіёнах, якія больш за ўсё пацярпелі і ў мінулым годзе: Канадзе, Расіі, Грэнландыі і на Алясцы.  
+  
+Навукоўцы асцерагаюцца, што гэтыя ўспышкі могуць прывесці да раставання вечнай мерзлаты ў Арктыцы, што, у сваю чаргу, прывядзе да выкіду ў атмасферу вуглякіслага газу, дэстабілізацыі леднікоў і павышэнню ўзроўню мора.
