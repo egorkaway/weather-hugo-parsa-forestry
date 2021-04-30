@@ -1,18 +1,17 @@
 +++
-categories = ["Earth"]
+categories = ["Земля"]
 date = 2021-04-30T10:56:34Z
 description = ""
-draft = true
 image = "/images/island_n.jpg"
-tags = []
-title = "Can an island move?-(copy)"
+tags = ["всегда"]
+title = "Может ли остров двигаться?"
 type = "post"
 
 +++
-Can an island move? Yes, but only if it’s an unusual floating island located in the Lake Pond in Massachusetts.  
+Может ли остров двигаться? Может, но только если это необычный плавающий островок, расположенный в озере Island Pond в штате Массачусетс.  
   
-This football-sized island is made up of moss and stays afloat because of the gases these very mosses produce.  
+Этот остров размером в футбольное поле состоит из мха и держится на плаву как раз благодаря газам, которые эти мхи и вырабатывают.  
   
-The floating island does not have an exact route; it moves along the lake rather randomly and sometimes even destroys buildings and moorings by approaching too close to the shore.  
+У подвижного острова нет точного маршрута, оно перемещается по озеру довольно хаотично и иногда даже разрушает строения и причалы, когда подплывает слишком близко к берегу.  
   
-It is forbidden to tie or immobilize the island in any other way, since scientists have determined it as unique.
+Привязывать или как-то иначе обездвиживать островок запрещено, поскольку ученые признали его уникальным.
