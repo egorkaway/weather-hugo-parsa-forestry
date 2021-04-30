@@ -26,8 +26,8 @@ languages:
     address_title: Где
     contact_info: Контакты
     follow: Социальные сети
-    previous: "« Назад"
-    next: Вперёд »
+    previous: "« Вперёд" 
+    next: "Назад »"
     post_by: Опубликовано
     latest_post: Последние материалы
     tag: Теги
@@ -48,8 +48,8 @@ languages:
     address_title: Дзе
     contact_info: Кантакты
     follow: Follow
-    previous: "« Не наперад"
-    next: Наперад »
+    previous: "« Наперад"
+    next: "Не наперад »"
     post_by: Апублiкавана
     latest_post: Апошнiя матерыялы
     tag: Тегi
