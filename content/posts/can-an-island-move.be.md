@@ -1,18 +1,17 @@
 +++
-categories = ["Tierra"]
+categories = ["Зямля"]
 date = 2021-04-30T10:56:34Z
 description = ""
-draft = true
 image = "/images/island_n.jpg"
-tags = ["siempre"]
-title = "¿Se puede mover una isla?-(copy)"
+tags = []
+title = "Ці можа востраў рухацца?"
 type = "post"
 
 +++
-¿Se puede mover una isla? Sí, pero sólo si es una inusual isla flotante situada en el lago Lake Pond en Massachusetts.  
+Ці можа востраў рухацца? Можа, але толькі калі гэта незвычайны плаваючый астравок, размешчаны ў возеры Island Pond ў штаце Масачусэтс.  
   
-Esta isla del tamaño de campo de fútbol está hecha de musgo y se mantiene a flote precisamente gracias a los gases que producen estos mismos musgos.  
+Гэты востраў памерам у футбольнае поле складаецца з моху і трымаецца на плаву як раз дзякуючы газам, якія гэтыя імхі і выпрацоўваюць.  
   
-La isla flotante no tiene una ruta exacta; se mueve a lo largo del lago al azar y, a veces, incluso destruye edificios y amarres cuando se acerca demasiado a la orilla.  
+У рухомага вострава няма дакладнага маршруту, ён перамяшчаецца па возеры даволі хаатычна і часам нават руйнуе будынкі і прычалы, калі падплывае занадта блізка да берага.  
   
-Está prohibido atar o inmovilizar la isla, ya que los científicos la han reconocido como única.
+Прывязваць ці неяк інакш абезрухомліваць астравок забаронена, паколькі навукоўцы прызналі яго унікальным.
