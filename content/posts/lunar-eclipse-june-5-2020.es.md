@@ -1,18 +1,17 @@
 +++
-categories = ["Небо"]
+categories = ["Cielo"]
 date = 2020-05-16T21:00:00Z
 description = ""
-draft = true
 image = "/images/more_moon.png"
-tags = ["2020", "июнь "]
-title = "Лунное затмение 5 июня 2020 -(copy)"
+tags = ["2020", "junio", "Asia", "Australia", "Europa", "África", "Sudamérica", "Rusia"]
+title = "Segundo eclipse lunar de 2020"
 type = "post"
 
 +++
-5 июня 2020 на небе можно будет наблюдать второе лунное затмение этого года, которое также совпадет с полнолунием.  
+El 5 de junio 2020 se observará en el cielo el segundo eclipse lunar de este año, que también coincidirá con la luna llena.  
   
-Затмение будет хорошо заметно в самых разных частях света: его смогут наблюдать жители Азии, Австралии, Европы, Африки, Южной Америки и юго-западной части России.  
+El eclipse será claramente visible en diferentes partes del mundo: lo podrán observar los habitantes de Asia, Australia, Europa, África, Sudamérica y del suroeste de Rusia.  
   
-Фаза максимальной видимости - 19:25 по UTC или 22:25 по Москве и Киеву. Весь период лунного затмения будет длиться 3 часа 18 минут, с 17:45 по 21:04 по UTC или с 20:45 по 00:04 по Москве и Киеву.  
+La fase de máxima visibilidad será a las 19:25 UTC. El período completo del eclipse lunar durará 3 horas y 18 minutos, de 17:45 a 21:04 UTC.  
   
-Впрочем, поскольку это затмение полутеневое, не нужно ожидать полного исчезновения Луны: небесное тело приобретет более насыщенный оттенок, в тени же будет находиться не более 57% лунного диска.
+Sin embargo, dado que este eclipse es de sombra parcial, no se debería esperar la desaparición completa de la Luna: el cuerpo celeste adquirirá un color más saturado, pero sólo cerca de 57% del disco lunar estará en la sombra.
