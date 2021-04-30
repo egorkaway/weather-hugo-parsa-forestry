@@ -1,16 +1,15 @@
 +++
-categories = ["Sky"]
+categories = ["Неба"]
 date = 2020-05-02T21:00:00Z
 description = ""
-draft = true
 image = "/images/saturn_n.png"
-tags = ["May", "Jupiter ", "2020", "Saturn"]
-title = "Jupiter and Saturn-(copy)"
+tags = ["2020", "Юпітэр", "Сатурн", "Травень"]
+title = "Юпітэр і Сатурн"
 type = "post"
 
 +++
-The nights in May are almost the shortest of the year, however, one can see a lot of interesting things in the sky even in such short night hours.  
+Травеньскія ночы — адны з самых кароткіх у годзе, аднак і за нядоўгія начны гадзiны можна ўбачыць у небе нямала цікавага.  
   
-For example, you can even observe two planets right in the East without any telescope: these are Jupiter and Saturn.  
+Напрыклад, на ўсходзе можна нават без тэлескопа паназіраць адразу за двума планетамі: Юпітэрам і Сатурнам.  
   
-Both appear low above the horizon a couple of hours before sunrise. Jupiter shines much brighter than other stars and therefore it is easier to notice. And look for Saturn 5° to the East of Jupiter. Both celestial bodies shine smoothly, calmly and without any flicker characteristic for other stars.
+Абедзве з'яўляюцца нізка над гарызонтам за пару гадзін да ўзыходу сонца. Юпітэр свеціць значна ярчэй астатніх зорак і таму яго лягчэй заўважыць. А Сатурн шукайце на 5 ° на ўсход ад Юпітэра. Абодва нябесных цела свецяць роўна, спакойна і без мігацення, уласцівага астатнім зоркам.
