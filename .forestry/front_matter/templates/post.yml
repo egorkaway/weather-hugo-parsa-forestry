@@ -28,6 +28,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/posts/5-2020-copy.md
 - content/posts/a-soundtrack-for-any-weather.md
 - content/posts/aquarids-starfall.md
 - content/posts/astronomical-spring.md
