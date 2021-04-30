@@ -3,7 +3,7 @@ categories = ["Earth"]
 date = 2021-04-30T10:56:34Z
 description = ""
 image = "/images/island_n.jpg"
-tags = []
+tags = ["timeless"]
 title = "Can an island move?"
 type = "post"
 
