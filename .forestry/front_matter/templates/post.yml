@@ -28,7 +28,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
-- content/posts/5-2020-copy.md
 - content/posts/a-soundtrack-for-any-weather.md
 - content/posts/aquarids-starfall.md
 - content/posts/astronomical-spring.md
@@ -56,6 +55,7 @@ pages:
 - content/posts/jupiter-and-saturn.md
 - content/posts/leonid-meteor-shower.be.md
 - content/posts/leonid-meteor-shower.md
+- content/posts/lunar-eclipse-june-5-2020.be.md
 - content/posts/lunar-eclipse-june-5-2020.es.md
 - content/posts/lunar-eclipse-june-5-2020.md
 - content/posts/lunar-eclipse-june-5-2020.ru.md
