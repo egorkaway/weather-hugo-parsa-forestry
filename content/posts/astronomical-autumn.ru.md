@@ -2,17 +2,16 @@
 categories = []
 date = 2020-09-15T08:30:36Z
 description = ""
-draft = true
 image = "/images/fall_n.jpg"
-tags = ["September"]
-title = "Astronomical Autumn-(copy)"
+tags = ["сентябрь"]
+title = "Астрономическая осень"
 type = "post"
 
 +++
-Meeting the astronomical autumn on September 22.
-
-Already next week, on September 22, the autumn equinox will occur, that is to say, autumn will start according to the astronomical calendar. It is on this day that the light and dark hours of the day will equal each other, and then the light part will start to decrease.
-
-The period between the autumnal and spring equinox, in September and March, respectively, is called the tropical year. Scientists use to measure time according to this period and it consists of approximately 365.2422 solar days.
-
-People say that this day promises good luck in business and any other endeavours, so you can plan something important for this date.
+Встречаем астрономическую осень 22 сентября.  
+  
+Уже на следующей неделе, 22 сентября произойдет осенне равноденствие, то есть начнется осень по астрономическому календарю. Именно в этот день светлое и темное время суток сравняются друг с другом, а дальше световые дни начнут убывать.  
+  
+Период между осенним и весенним равноденствием, в сентябре и марте соответственно, называется тропическим годом. Именно он принят в науке для измерения времени и составляет приблизительно 365,2422 солнечных суток.  
+  
+А в народе считается, что этот день обещает удачу в делах и любых начинаниях, так что можете планировать на эту дату что-нибудь важное.
