@@ -2,17 +2,16 @@
 categories = []
 date = 2020-09-15T08:30:36Z
 description = ""
-draft = true
 image = "/images/fall_n.jpg"
-tags = ["septiembre"]
-title = "Otoño astronómico-(copy)"
+tags = ["верасень"]
+title = "Сустракаем астранамічную восень 22 верасня."
 type = "post"
 
 +++
-Esperando el otoño astronómico el 22 de septiembre.  
+Сустракаем астранамічную восень 22 верасня.  
   
-Ya la semana que viene, el 22 de septiembre, tendrá lugar el equinoccio de otoño, es decir, comenzará el otoño según el calendario astronómico. Es en este día que las partes clara y oscura del día se igualarán, y a partir de esta fecha las horas de luz comenzarán a disminuirse.  
+Ужо на наступным тыдні, 22 верасня, адбудзецца асенне раўнадзенства, то бок пачнецца восень па астранамічным календары. Менавіта ў гэты дзень светлы і цёмны час сутак зраўняюцца адзін з адным, а далей светлавыя дні пачнуць змяншацца.  
   
-El período entre el equinoccio de otoño y el de primavera, en septiembre y marzo, respectivamente, se denomina como año tropical. Es a este período al que se refiere la ciencia para medir el tiempo y tiene aproximadamente 365,2422 días solares.  
+Перыяд паміж восеньскім і вясновым раўнадзенствам, у верасні і сакавіку адпаведна, называецца трапічным годам. Менавіта ён прыняты ў навуцы для вымярэння часу і складае прыблізна 365,2422 сонечных сутак.  
   
-La gente cree que este día promete buena suerte en los negocios y cualquier otro esfuerzo, por lo que podéis planear algo importante para esta fecha.
+А ў народзе лічыцца, што гэты дзень абяцае поспех у справах і любых пачынаннях, так што можаце планаваць на гэтую дату што-небудзь важнае. 
