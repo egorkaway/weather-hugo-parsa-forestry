@@ -28,13 +28,13 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
-- content/posts/22.copy.md
 - content/posts/a-soundtrack-for-any-weather.md
 - content/posts/aquarids-starfall.md
 - content/posts/astronomical-autumn.be.md
 - content/posts/astronomical-autumn.es.md
 - content/posts/astronomical-autumn.md
 - content/posts/astronomical-autumn.ru.md
+- content/posts/astronomical-autumn.uk.md
 - content/posts/astronomical-spring.md
 - content/posts/august-2020-comets.md
 - content/posts/can-an-island-move.be.md
