@@ -1,18 +1,17 @@
 +++
-categories = ["Earth"]
+categories = ["Зямля"]
 date = 2021-03-09T21:00:00Z
 description = ""
-draft = true
 image = "/images/giant_n.jpg"
-tags = ["Ireland", "coast"]
-title = "Giants’ Causeway-(copy)"
+tags = []
+title = "Дзіўная «Дарога гігантаў» у Паўночнай Ірландыі"
 type = "post"
 
 +++
-Amazing "Giants’ Causeway" in Northern Ireland  
+Дзіўная «Дарога гігантаў» у Паўночнай Ірландыі.  
   
-People have paved millions of roads, but nature has surpassed them here too, creating a unique "Giants’ Causeway". This extraordinary road consists of 40,000 interconnected flat basalt pillars which appeared as a result of an ancient volcanic eruption.  
+Людзі праклалі мільёны дарог, але прырода і тут іх перасягнула, стварыўшы унікальную «Дарогу гігантаў». Гэтая незвычайная дарога складаецца з за 40 000 злучаных паміж сабой плоскіх базальтавых слупоў, якія ўзніклі ў выніку старажытнага вывяржэння вулкана.  
   
-The road begins at the foot of a cliff in the North of Ireland, a few kilometers from the town of Bushmills, and goes straight into the sea.  
+Дарога бярэ пачатак з падножжа скалы на поўначы Ірландыі, за некалькі кіламетраў ад горада Бушмилса, і сыходзіць прама ў мора.  
   
-Today the "Giants’ Causeway" itself and the entire coastline on which it is located are recognized as a UNESCO World Heritage Site, and are also the most visited sightseeing attraction in Northern Ireland.
+Сёння і сама «Дарога гігантаў», і ўсё ўзбярэжжа, на якім яна знаходзіцца, прызнаныя аб'ектам сусветнай спадчыны ЮНЕСКА, а таксама з'яўляюцца самай наведвальнай славутасцю Паўночнай Ірландыі.
