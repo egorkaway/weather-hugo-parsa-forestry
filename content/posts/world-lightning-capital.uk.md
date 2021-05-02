@@ -1,20 +1,19 @@
 +++
-categories = ["Cielo"]
+categories = ["Небо"]
 date = 2021-03-25T21:00:00Z
 description = ""
-draft = true
 image = "/images/bolt_.png"
-tags = ["Venezuela", "relámpago"]
-title = "Capital mundial de relámpagos-(copy)"
+tags = []
+title = "Світова столиця блискавок"
 type = "post"
 
 +++
-¿Sabéis dónde está la "Capital Mundial de Relámpagos"?  
+Чи знаєте ви, де знаходиться «Світова столиця блискавок»?  
   
-Para visitarla, hay que ir a Venezuela, al municipio de Catatumbo. Fue esta área la que recibió el título de "Capital mundial de relámpagos" después de que el Libro Guinness de los récords había registrado la mayor concentración de relámpagos en el mundo precisamente en esta región. Según las estadísticas, se ocurren 250 descargas eléctricas por año por cada kilómetro cuadrado de esta región.  
+Щоб побувати в ній, вам доведеться відправитися до Венесуели, а саме - в муніципалітет Кататумбо. Саме ця територія отримала звання «Світової столиці блискавок» після того, як Книга рекордів Гіннеса зафіксувала найвищу в світі концентрацію блискавок в цьому регіоні. За статистикою, в рік на кожен квадратний кілометр цього регіону доводиться 250 електричних розрядів.  
   
-La mayor concentración de relámpagos, más de un millón al año, se observa en el valle del río Catatumbo. Hay tantos de ellos aquí y son tan brillantes que esta área incluso se llama el Faro del Catatumbo, porque a veces las celestes descargas eléctricas son visibles a una distancia de hasta 400 km.  
+Найбільша концентрація блискавок - понад мільйон на рік - спостерігається в долині річки Кататумбо. Їх тут настільки багато і вони настільки яскраві, що цю місцевість навіть називають маяком Кататумбо, адже часом електричні небесні розряди видно на відстані до 400 км.  
   
-La razón de este concentrado de relámpagos radica en la proximidad del lago a las montañas. Las montañas no dejan pasar el viento y, por lo tanto, la evaporación de la superficie del lago se convierte en grandes nubes gruesas y verticales, en las que se forman los relámpagos.  
+Причина такого концентрату блискавок полягає в близькому сусідстві озера і гір. Гори не пропускають вітер, і тому випаровування з поверхні водойми перетворюються в великі густі вертикальні хмари, в яких і утворюються блискавки.  
   
-Un lugar único, estáis de acuerdo? Sorprendentemente hermoso, pero peligroso a la vez.
+Унікальне місце, погодьтеся? Вражаюче красиве, але і небезпечне.
