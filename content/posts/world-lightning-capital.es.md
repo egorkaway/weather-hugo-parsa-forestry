@@ -1,20 +1,19 @@
 +++
-categories = ["Неба"]
+categories = ["Cielo"]
 date = 2021-03-25T21:00:00Z
 description = ""
-draft = true
 image = "/images/bolt_.png"
-tags = ["маланка", "Венесуэла"]
-title = "Сусветная сталіца маланак-(copy)"
+tags = ["Venezuela", "relámpago"]
+title = "Capital mundial de relámpagos"
 type = "post"
 
 +++
-Ці ведаеце вы, дзе знаходзіцца "Сусветная сталіца маланак»?  
+¿Sabéis dónde está la "Capital Mundial de Relámpagos"?  
   
-Каб пабываць у ёй, вам прыйдзецца адправіцца ў Венесуэлу, а менавіта - у муніцыпалітэт Кататумбо. Менавіта гэтая тэрыторыя атрымала званне «Сусветнай сталіцы маланак» пасля таго, як Кніга рэкордаў Гінеса зафіксавала самую высокую ў свеце канцэнтрацыю маланак у гэтым рэгіёне. Па статыстыцы, у год на кожны квадратны кіламетр гэтага рэгіёну прыходзіцца 250 электрычных разрадаў.  
+Para visitarla, hay que ir a Venezuela, al municipio de Catatumbo. Fue esta área la que recibió el título de "Capital mundial de relámpagos" después de que el Libro Guinness de los récords había registrado la mayor concentración de relámpagos en el mundo precisamente en esta región. Según las estadísticas, se ocurren 250 descargas eléctricas por año por cada kilómetro cuadrado de esta región.  
   
-Найбольшая канцэнтрацыя маланак - больш за мільён у год - назіраецца ў даліне ракі Кататумбо. Іх тут настолькі шмат і яны настолькі яркія, што гэтую мясцовасць нават называюць Маяком Кататумбо, бо часам электрычныя нябесныя разрады бачныя на адлегласці да 400 км.  
+La mayor concentración de relámpagos, más de un millón al año, se observa en el valle del río Catatumbo. Hay tantos de ellos aquí y son tan brillantes que esta área incluso se llama el Faro del Catatumbo, porque a veces las celestes descargas eléctricas son visibles a una distancia de hasta 400 km.  
   
-Прычына такога канцэнтрату маланак заключаецца ў блізкім суседстве возера і гор. Горы не прапускаюць вецер, і таму выпарэння з паверхні вадаёма ператвараюцца ў вялікія густыя вертыкальныя аблокі, у якіх і ўтвараюцца маланкі.  
+La razón de este concentrado de relámpagos radica en la proximidad del lago a las montañas. Las montañas no dejan pasar el viento y, por lo tanto, la evaporación de la superficie del lago se convierte en grandes nubes gruesas y verticales, en las que se forman los relámpagos.  
   
-Ўнікальнае месца, пагадзіцеся? Вельмi прыгожае, але і небяспечнае адначасна.
+Un lugar único, estáis de acuerdo? Sorprendentemente hermoso, pero peligroso a la vez.
