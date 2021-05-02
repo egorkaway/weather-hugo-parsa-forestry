@@ -1,20 +1,19 @@
 +++
-categories = ["Sky"]
+categories = ["Неба"]
 date = 2021-03-25T21:00:00Z
 description = ""
-draft = true
 image = "/images/bolt_.png"
-tags = ["Venezuela", "lightning"]
-title = "World Lightning Capital-(copy)"
+tags = ["маланка", "Венесуэла"]
+title = "Сусветная сталіца маланак"
 type = "post"
 
 +++
-Do you know where the "World Lightning Capital" is?
-
-To visit it, you will have to go to Venezuela, to the municipality of Catatumbo. It was this area that got the title of the "World Lightning Capital" after the Guinness Book of Records recorded the world's highest concentration of lightning in this region. According to statistics, there are 250 electrical discharges per year for every square kilometer of this region.
-
-The highest concentration of lightning - more than a million a year - is observed in the Katatumbo River valley. There are so many of them here and they are so bright that this area is even called the Catatumbo lighthouse because sometimes these electric celestial discharges are visible at a distance of up to 400 km.
-
-The reason for this concentrate of lightning lies in the close neighbourhood of the lake and mountains. The mountains do not let the wind through, and therefore the evaporation from the surface of the reservoir turns into large thick vertical clouds, in which lightning is formed.
-
-A unique place, agree? Strikingly beautiful, but dangerous at the same time.
+Ці ведаеце вы, дзе знаходзіцца "Сусветная сталіца маланак»?  
+  
+Каб пабываць у ёй, вам прыйдзецца адправіцца ў Венесуэлу, а менавіта - у муніцыпалітэт Кататумбо. Менавіта гэтая тэрыторыя атрымала званне «Сусветнай сталіцы маланак» пасля таго, як Кніга рэкордаў Гінеса зафіксавала самую высокую ў свеце канцэнтрацыю маланак у гэтым рэгіёне. Па статыстыцы, у год на кожны квадратны кіламетр гэтага рэгіёну прыходзіцца 250 электрычных разрадаў.  
+  
+Найбольшая канцэнтрацыя маланак - больш за мільён у год - назіраецца ў даліне ракі Кататумбо. Іх тут настолькі шмат і яны настолькі яркія, што гэтую мясцовасць нават называюць Маяком Кататумбо, бо часам электрычныя нябесныя разрады бачныя на адлегласці да 400 км.  
+  
+Прычына такога канцэнтрату маланак заключаецца ў блізкім суседстве возера і гор. Горы не прапускаюць вецер, і таму выпарэння з паверхні вадаёма ператвараюцца ў вялікія густыя вертыкальныя аблокі, у якіх і ўтвараюцца маланкі.  
+  
+Ўнікальнае месца, пагадзіцеся? Вельмi прыгожае, але і небяспечнае адначасна.
