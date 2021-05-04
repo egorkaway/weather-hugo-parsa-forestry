@@ -1,15 +1,15 @@
 <head>
   <meta charset="utf-8">
   {{ if eq .Section "posts" }}
-    {{ $title := delimit (slice .Title site.Title) " | " }}
+    {{ $title := delimit (slice .Title site.Title) " - " }}
     {{ .Scratch.Set "title" $title }}
   {{else}}
     {{ if eq .Section "tags" }}
-      {{ $title := delimit (slice (delimit (slice site.Params.tag .Title) ": ") site.Title) " | " }}
+      {{ $title := delimit (slice (delimit (slice site.Params.tag .Title) ": ") site.Title) " - " }}
       {{ .Scratch.Set "title" $title }}
     {{ else }}
       {{ if eq .Section "categories" }}
-        {{ $title := delimit (slice (delimit (slice site.Params.category .Title) ": ") site.Title) " | " }}
+        {{ $title := delimit (slice (delimit (slice site.Params.category .Title) ": ") site.Title) " - " }}
         {{ .Scratch.Set "title" $title }}
       {{ else }}
     {{ .Scratch.Set "title" .Title }}
