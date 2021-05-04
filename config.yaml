@@ -14,6 +14,7 @@ languages:
     address_title: Donde
     follow: Redes
     categories: Categorias
+    category: Categoria
     read_more: Leer mas...
     post_available_in: Este texto esta desponible en
   ru:
@@ -26,12 +27,14 @@ languages:
     address_title: Где
     contact_info: Контакты
     follow: Социальные сети
-    previous: "« Вперёд" 
+    previous: "« Вперёд"
     next: "Назад »"
     post_by: Опубликовано
     latest_post: Последние материалы
-    tag: Теги
+    tag: Тег
+    tags: Теги
     categories: Категории
+    category: Категория
     post_available_in: Пост также доступен на следующих языках
   uk:
     languageName: Ukranian
@@ -52,8 +55,10 @@ languages:
     next: "У мiнулае »"
     post_by: Апублiкавана
     latest_post: Апошнiя матерыялы
-    tag: Тегi
+    tags: Тегi
+    tag: Тег
     categories: Категорыi
+    category: Категорыя
     post_available_in: Гэты пост таксама ёсць на наступных мовах
 title: 'Weather and Climate: a site by Weather Gizmo'
 module:
@@ -121,7 +126,9 @@ params:
   post_by: Post by
   latest_post: LATEST POST
   tag: TAG
+  tags: TAG
   categories: CATEGORIES
+  category: CATEGORY
   post_available_in: This post is also available in
   instafeed:
     enable: false

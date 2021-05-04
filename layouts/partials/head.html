@@ -1,7 +1,22 @@
 <head>
   <meta charset="utf-8">
-  <title>{{ site.Title }}</title>
-
+  {{ if eq .Section "posts" }}
+    {{ $title := delimit (slice .Title site.Title) " | " }}
+    {{ .Scratch.Set "title" $title }}
+  {{else}}
+    {{ if eq .Section "tags" }}
+      {{ $title := delimit (slice (delimit (slice site.Params.tag .Title) ": ") site.Title) " | " }}
+      {{ .Scratch.Set "title" $title }}
+    {{ else }}
+      {{ if eq .Section "categories" }}
+        {{ $title := delimit (slice (delimit (slice site.Params.category .Title) ": ") site.Title) " | " }}
+        {{ .Scratch.Set "title" $title }}
+      {{ else }}
+    {{ .Scratch.Set "title" .Title }}
+    {{ end }}
+    {{ end }}
+  {{ end }}
+  <title>{{ .Scratch.Get "title" }}</title>
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
@@ -40,7 +55,7 @@
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/google_analytics_async.html" . }}
 
-  
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-R4NE5DQ1ES"></script>
 <script>
@@ -50,5 +65,5 @@
 
   gtag('config', 'G-R4NE5DQ1ES');
 </script>
-  
+
 </head>
