@@ -16,6 +16,6 @@ During the white nights, natural light remains high. The lightest night falls on
 
 In general, the period of white nights depends on the specific area and varies from May 25-26 to July 16-17.
 
-This interesting phenomenon can be observed in temperate and high latitudes before and immediately after the summer solstice in a fairly large territory of Russia, as well as throughout Finland and Iceland, in most of Scandinavia, as well as in some regions of Estonia, Great Britain, the USA and Canada.
+This interesting phenomenon can be observed in temperate and high latitudes before and immediately after the summer solstice in a fairly large territory of Russia, as well as throughout Finland and Iceland, in most of Scandinavia, as well as in some regions of Estonia, Great Britain, the USA and Canada. 
 
 Have you ever seen «white nights»?
