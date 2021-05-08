@@ -1,22 +1,19 @@
 +++
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2021-05-08T10:16:42Z
 description = ""
-draft = true
 image = "/images/white_n.png"
-tags = ["May", "July", "June", "Estonia", "USA", "Canada", "Russia", "Finland", "Iceland", "Scandinavia"]
-title = "What are «White Nights»?-(copy)"
+tags = ["США", "Канада"]
+title = "Что такое «белые ночи»?"
 type = "post"
 
 +++
-What are «White Nights»?
+Так называют сумерки, которые растянулись на всю ночь. С астрономической точки зрения, под сумерками понимают период времени, когда Солнце находится на небольшой глубине под горизонтом.
 
-This is the name of the twilight, which lasts all night. From an astronomical point of view, twilight is understood as a period of time when the Sun is shallow below the horizon.
+Во время белых ночей естественное освещение в ночное время остаётся высоким. Самая светлая ночь приходится на 21—22 июня, её продолжительность составляет 5 часов 12 минут, а в полночь солнце заходит за горизонт примерно на 7°.
 
-During the white nights, natural light remains high. The lightest night falls on June 21-22, its duration is 5 hours 12 minutes, and at midnight the sun sets below the horizon by about 7°.
+В целом период белых ночей зависит от конкретной местности и варьируется от 25—26 мая до 16—17 июля.
 
-In general, the period of white nights depends on the specific area and varies from May 25-26 to July 16-17.
+Это интересное явление можно наблюдать в умеренных и высоких широтах перед летним солнцестоянием и сразу после него на достаточно большой территории России, а также на всей территории Финляндии и Исландии, на большей территории Скандинавии, а также в некоторых регионах Эстонии, Великобритании, США и Канады.
 
-This interesting phenomenon can be observed in temperate and high latitudes before and immediately after the summer solstice in a fairly large territory of Russia, as well as throughout Finland and Iceland, in most of Scandinavia, as well as in some regions of Estonia, Great Britain, the USA and Canada. 
-
-Have you ever seen «white nights»?
+А вам случалось видеть «белые ночи»?
