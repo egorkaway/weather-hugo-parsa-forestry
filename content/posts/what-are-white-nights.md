@@ -2,7 +2,6 @@
 categories = ["Sky"]
 date = 2021-05-08T10:16:42Z
 description = ""
-draft = true
 image = "/images/white_n.png"
 tags = ["May", "July", "June", "Estonia", "USA", "Canada", "Russia", "Finland", "Iceland", "Scandinavia"]
 title = "What are «White Nights»?"
