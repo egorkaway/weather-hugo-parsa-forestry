@@ -27,6 +27,11 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+- name: aliases
+  type: text
+  config:
+    required: false
+  label: aliases
 pages:
 - content/posts/a-soundtrack-for-any-weather.md
 - content/posts/aquarids-starfall.md
