@@ -3,7 +3,7 @@ categories = ["Небо"]
 date = 2021-05-08T10:16:42Z
 description = ""
 image = "/images/white_n.png"
-tags = ["США", "Канада"]
+tags = ["США", "Канада", "май "]
 title = "Что такое «белые ночи»?"
 type = "post"
 
