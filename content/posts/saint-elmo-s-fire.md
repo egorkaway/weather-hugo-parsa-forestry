@@ -5,6 +5,9 @@ description = ""
 image = "/images/elm_n.jpg"
 tags = ["lightning"]
 title = "Saint Elmo's Fire"
+aliases = [
+"/posts/not-just-simple-lightning"
+]
 type = "post"
 
 +++
