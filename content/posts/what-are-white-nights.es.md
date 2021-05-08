@@ -1,20 +1,19 @@
 +++
-categories = ["Небо"]
+categories = ["Cielo"]
 date = 2021-05-08T10:16:42Z
 description = ""
-draft = true
 image = "/images/white_n.png"
-tags = ["США", "Канада", "май "]
-title = "Что такое «белые ночи»?-(copy)"
+tags = ["mayo", "Estonia", "julio", "junio", "Canadá", "Rusia", "Finlandia", "Islandia"]
+title = "¿Qué son «las noches blancas»?"
 type = "post"
 
 +++
-Так называют сумерки, которые растянулись на всю ночь. С астрономической точки зрения, под сумерками понимают период времени, когда Солнце находится на небольшой глубине под горизонтом.
+Este es el nombre del crepúsculo, que dura toda la noche. Desde un punto de vista astronómico, el crepúsculo se entiende como un período de tiempo en el que el Sol se encuentra a poca profundidad bajo el horizonte.
 
-Во время белых ночей естественное освещение в ночное время остаётся высоким. Самая светлая ночь приходится на 21—22 июня, её продолжительность составляет 5 часов 12 минут, а в полночь солнце заходит за горизонт примерно на 7°.
+Durante las noches blancas, la luz natural permanece alta. La noche más clara cae del 21 al 22 de junio, su duración es de 5 horas 12 minutos, y a la medianoche el sol se pone por debajo del horizonte a unos 7°.
 
-В целом период белых ночей зависит от конкретной местности и варьируется от 25—26 мая до 16—17 июля.
+En general, el período de noches blancas depende del geografía y varía del 25 al 26 de mayo al 16 al 17 de julio.
 
-Это интересное явление можно наблюдать в умеренных и высоких широтах перед летним солнцестоянием и сразу после него на достаточно большой территории России, а также на всей территории Финляндии и Исландии, на большей территории Скандинавии, а также в некоторых регионах Эстонии, Великобритании, США и Канады.
+Este interesante fenómeno se puede observar en latitudes moderadas y altas antes e inmediatamente después del solsticio de verano en un territorio bastante extenso de Rusia, así como en toda Finlandia e Islandia, en la mayor parte de Escandinavia, algunas regiones de Estonia, Gran Bretaña, Estados Unidos y Canadá.
 
-А вам случалось видеть «белые ночи»?
+¿Habéis visto alguna vez "noches blancas"?
