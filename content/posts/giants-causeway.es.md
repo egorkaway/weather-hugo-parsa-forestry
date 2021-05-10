@@ -2,7 +2,7 @@
 categories = ["Tierra"]
 date = 2021-03-09T21:00:00Z
 image = "/images/giant_n.jpg"
-tags = ["Irlanda"]
+tags = ["Irlanda", "siempre"]
 title = "Calzada de los Gigantes"
 type = "post"
 
