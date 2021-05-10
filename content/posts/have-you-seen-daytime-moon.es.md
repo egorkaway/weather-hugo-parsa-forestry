@@ -1,7 +1,7 @@
 +++
 categories = ["Cielo"]
 image = "/images/moon.png"
-tags = ["luna"]
+tags = ["luna", "siempre"]
 title = "Luna del dia"
 type = "post"
 
