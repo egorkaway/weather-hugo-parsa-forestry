@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = []
 date = 2021-03-25T21:00:00Z
 description = ""
 image = "/images/tsu_.jpg"
-tags = ["tsunami", "Alaska"]
+tags = ["tsunami", "Alaska", "siempre"]
 title = "¿De dónde vienen tsunamis?"
 type = "post"
+url = ""
 
 +++
 Las causas más frecuentes de los tsunamis son los terremotos submarinos y las erupciones volcánicas submarinas, que suben o bajan bruscamente el lecho marino y, como resultado, desencadenan enormes masas de agua. Hasta ahora, los mecanismos de los tsunamis no se han estudiado a fondo y, a menudo, es difícil detectar a tiempo una ola que se acerca, ya que inicialmente no es lo suficientemente alta como para hacer sonar la alarma.  
