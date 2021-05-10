@@ -2,7 +2,7 @@
 categories = ["Tierra"]
 date = 2021-04-05T21:00:00Z
 image = "/images/elm_n.jpg"
-tags = ["relámpago", "tormenta", "timeless"]
+tags = ["relámpago", "tormenta", "siempre"]
 title = "Fuego de San Elmo"
 type = "post"
 
