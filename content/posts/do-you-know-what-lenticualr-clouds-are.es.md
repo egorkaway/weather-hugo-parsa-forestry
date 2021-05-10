@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Cielo"]
 date = 2021-03-11T21:00:00Z
 description = ""
 image = "/images/lenticular_n.png"
-tags = ["nubes", "Japón"]
+tags = ["nubes", "Japón", "siempre"]
 title = "Nubes lenticulares"
 type = "post"
+url = ""
 
 +++
 Las nubes lenticulares son uno de los fenómenos naturales más bellos. Cuando los ves por primera vez en la foto, es difícil creer que sea algo real, no un photoshop.  
