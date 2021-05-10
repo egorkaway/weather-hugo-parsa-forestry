@@ -2,7 +2,7 @@
 categories = ["Cielo"]
 date = 2021-04-04T21:00:00Z
 image = "/images/cloudsss_n.png"
-tags = ["timeless", "nubes", "Alaska", "Islandia", "Escandinavia", "Canadá"]
+tags = ["timeless", "nubes", "Alaska", "Islandia", "Escandinavia", "Canadá", "siempre"]
 title = "Nubes de nácar: un milagro de las latitudes del norte"
 type = "post"
 
