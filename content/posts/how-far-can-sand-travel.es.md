@@ -3,7 +3,7 @@ categories = ["Tierra"]
 date = 2021-04-19T23:00:00Z
 description = ""
 image = "/images/sand_n.png"
-tags = ["África", "América", "EEUU", "Sahara", "Atlántico"]
+tags = ["África", "América", "EEUU", "Sahara", "Atlántico", "siempre"]
 title = "Arena que viaja de África a América"
 type = "post"
 
