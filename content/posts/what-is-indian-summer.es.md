@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Tierra"]
-date = 2020-08-30T21:00:00Z
+date = 2020-09-24T21:00:00Z
 description = ""
 image = "/images/summer_.jpg"
 tags = ["Rusia", "Ucrania", "Alemania", "Bulgaria", "Francia", "Azores", "Europa", "América", "siempre"]
