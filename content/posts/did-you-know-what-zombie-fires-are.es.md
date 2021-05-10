@@ -3,9 +3,10 @@ categories = ["Tierra"]
 date = 2021-03-02T21:00:00Z
 description = ""
 image = "/images/fire.jpg"
-tags = ["Canadá", "Rusia", "Alaska"]
+tags = ["Canadá", "Rusia", "Alaska", "siempre"]
 title = "Incendios Zombie"
 type = "post"
+url = "/incendios_zombie"
 
 +++
 En la zona del Ártico se ha registrado un número creciente de "incendios zombie".  
