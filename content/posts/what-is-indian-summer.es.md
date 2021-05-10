@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Tierra"]
 date = 2020-08-30T21:00:00Z
 description = ""
 image = "/images/summer_.jpg"
-tags = ["Rusia", "Ucrania", "Alemania", "Bulgaria", "Francia", "Azores", "Europa", "América"]
+tags = ["Rusia", "Ucrania", "Alemania", "Bulgaria", "Francia", "Azores", "Europa", "América", "siempre"]
 title = "¿Qué es el \"verano indio\" y cuándo ocurre?"
 type = "post"
+url = "/verano_indio"
 
 +++
 Mediados de otoño es el momento del "regreso del verano". Y aunque todos entendemos que un par de semanas cálidas y soleadas de otoño de todos modos serán reemplazadas por la primera helada, seguimos llamando «verano» a este período corto.  
