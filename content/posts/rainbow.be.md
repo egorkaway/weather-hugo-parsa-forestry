@@ -2,7 +2,7 @@
 categories = ["Неба"]
 date = 2021-04-10T21:00:00Z
 image = "/images/rain_bow_n.png"
-tags = []
+tags = ["заўжды", "вясёлка", "Францыя", "Нямеччына"]
 title = "Колькі колераў у вясёлкі?"
 type = "post"
 
