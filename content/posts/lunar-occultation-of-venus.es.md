@@ -1,18 +1,17 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Cielo"]
 date = 2020-06-14T15:06:20Z
 description = ""
-draft = true
 image = "/images/lunar_n.png"
-tags = ["Venus", "2020 ", "June", "Moon", "eclipse"]
-title = "Lunar Occultation of Venus-(copy)"
+tags = ["Venus", "2020 ", "eclipse", "Luna"]
+title = "Eclipse lunar de Venus"
 type = "post"
 url = ""
 
 +++
-Lunar occultation of Venus on June 19, 2020 - don’t forget to see.  
+Eclipse lunar de Venus el 19 de junio - no te lo pierdas.  
   
-On June 19, with daytime visibility, it will be possible to observe an eclipse (occultation) of Venus by the Moon. Lunar occultationr means that Venus will be completely closed by the Earth’s satellite, and then will appear again creating a beautiful light.  
+El 19 de junio, con visibilidad diurna, será posible observar un eclipse (cobertura) de Venus por la Luna. La cobertura lunar significa que Venus estará completamente escondida detrás del satélite de la Tierra, y volverá a aparecer creando una hermosa luz.  
   
-The best time to see the lunar occultation of Venus will be from 07:20 UTC until 09:00 UTC.
+El mejor tiempo para observar el fenómeno es de 07:20 UTC a 09:00 UTC.
