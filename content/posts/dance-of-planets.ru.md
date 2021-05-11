@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2020-06-01T14:41:09Z
 description = ""
 image = "/images/dance_n.jpg"
