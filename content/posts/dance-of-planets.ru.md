@@ -3,16 +3,15 @@ aliases = ""
 categories = ["Sky"]
 date = 2020-06-01T14:41:09Z
 description = ""
-draft = true
 image = "/images/dance_n.jpg"
-tags = ["2020 ", "Jupiter", "Saturn", "Moon"]
-title = "Dance of Planets-(copy)"
+tags = ["2020 ", "Юпитер", "Сатурн", "Луна"]
+title = "Танец планет"
 type = "post"
 url = ""
 
 +++
-On June 7 and 8 Jupiter, Saturn and the Moon will appear together in the night sky.  
+7 и 8 июня в ночном небе появятся рядом Юпитер, Сатурн и Луна.  
   
-This arrangement of three celestial bodies in the same line is called «dance of planets», and it can be well seen immediately after midnight. And for this, you will not even need a telescope.  
+Такое расположение сразу трех светил на одной линии называют «танец планет», и его можно будет хорошо рассмотреть сразу после полуночи в течение двух ночей. Причем для этого даже не понадобится телескоп.  
   
-So it’s time to mark these dates on the calendar and hope for a cloudless night sky.
+Остается только пометить эти даты в календаре и надеяться на безоблачное ночное небо.
