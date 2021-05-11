@@ -1,18 +1,17 @@
 +++
 aliases = ""
-categories = ["Небо"]
+categories = ["Cielo"]
 date = 2020-06-01T14:41:09Z
 description = ""
-draft = true
 image = "/images/dance_n.jpg"
-tags = ["2020 ", "Юпитер", "Сатурн", "Луна"]
-title = "Танец планет-(copy)"
+tags = ["2020 ", "Júpiter", "Saturno", "Luna"]
+title = "Danza de los Planetas"
 type = "post"
 url = ""
 
 +++
-7 и 8 июня в ночном небе появятся рядом Юпитер, Сатурн и Луна.  
+Los días 7 y 8 de junio Júpiter, Saturno y la Luna aparecerán juntos en el cielo nocturno.  
   
-Такое расположение сразу трех светил на одной линии называют «танец планет», и его можно будет хорошо рассмотреть сразу после полуночи в течение двух ночей. Причем для этого даже не понадобится телескоп.  
+Esta disposición de tres cuerpos celestes en la misma línea se llama "danza de los planetas", y se podrá verse bien inmediatamente después de la medianoche. Y para esto, ni siquiera se necesitará un telescopio.  
   
-Остается только пометить эти даты в календаре и надеяться на безоблачное ночное небо.
+Sólo queda marcar estas fechas en el calendario y esperar un cielo nocturno sin nubes.
