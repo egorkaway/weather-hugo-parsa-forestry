@@ -3,7 +3,7 @@ categories = ["Неба"]
 date = 2020-04-27T21:00:00Z
 image = "/images/may_venus.png"
 tags = ["Венера", "2020 ", "май"]
-title = "Май 2020: Венера"
+title = "Май 2020: што цікавага можна ўбачыць у небе?"
 type = "post"
 
 +++
