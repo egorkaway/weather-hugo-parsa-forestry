@@ -1,18 +1,17 @@
 +++
 aliases = ""
-categories = ["Cielo"]
+categories = ["Небо"]
 date = 2021-03-11T21:00:00Z
 description = ""
-draft = true
 image = "/images/lenticular_n.png"
-tags = ["nubes", "Japón", "siempre"]
-title = "Nubes lenticulares-(copy)"
+tags = ["хмари", "США"]
+title = "Лентікулярнi хмари"
 type = "post"
 url = ""
 
 +++
-Las nubes lenticulares son uno de los fenómenos naturales más bellos. Cuando los ves por primera vez en la foto, es difícil creer que sea algo real, no un photoshop.  
+Лентікулярнi хмари — це один з найкрасивіших феноменів природи. Вперше побачивши їх на фото, складно буває повірити, що це реальний кадр, а не фотошоп.  
   
-Las nubes lenticulares son bastante raras y aparecen principalmente en áreas montañosas. La mayoría de las veces se registran en los Estados Unidos, Kamchatka y en la región del monte Fuji en Japón.  
+Лентікулярні хмари досить рідкісні і зустрічаються переважно в гірських місцевостях. Найчастіше їх фіксують в США, на Камчатці і в районі японської гори Фудзіяма.  
   
-La característica principal y la más interesante de estas nubes es su inmovilidad incluso con vientos fuertes. El aire fluye alrededor de las nubes masivas y forma ondas de aire en las que se produce el proceso de condensación continua. Debido de lo cual, estas nubes no cambian su posición en el espacio.
+Головна особливість ці хмар — їх нерухомість навіть при сильному вітрі. Потоки повітря обтікають масивні хмари і утворюють повітряні хвилі, в яких відбувається безперервний процес конденсації. Через це ці хмари і не змінюють свого положення в просторі.
