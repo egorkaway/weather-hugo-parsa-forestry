@@ -38,7 +38,6 @@ fields:
     required: false
   label: url
 pages:
-- content/posts/15-22-copy.md
 - content/posts/a-soundtrack-for-any-weather.md
 - content/posts/aquarids-starfall.md
 - content/posts/astronomical-autumn.be.md
@@ -95,6 +94,7 @@ pages:
 - content/posts/mercury-in-may-2020.es.md
 - content/posts/mercury-in-may-2020.md
 - content/posts/mercury-in-may-2020.ru.md
+- content/posts/mercury-in-may-2020.uk.md
 - content/posts/orionids-starfall.be.md
 - content/posts/orionids-starfall.es.md
 - content/posts/orionids-starfall.md
