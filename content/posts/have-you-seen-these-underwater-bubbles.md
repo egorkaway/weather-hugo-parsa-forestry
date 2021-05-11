@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Earth"]
 date = 2020-12-12T21:00:00Z
 description = ""
 image = "/images/bubble_ice_n.jpg"
-tags = ["Canada", "Siberia", "Arctic", "Russia"]
+tags = ["Canada", "Siberia", "Arctic", "Russia", "timeless "]
 title = "Have You Seen These Underwater Bubbles?"
 type = "post"
+url = ""
 
 +++
 Icy underwater bubbles are one of the most curious natural phenomena.
