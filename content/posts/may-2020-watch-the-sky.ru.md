@@ -2,7 +2,7 @@
 categories = ["Небо"]
 date = 2020-04-27T21:00:00Z
 image = "/images/may_venus.png"
-tags = ["Венера", "2020 "]
+tags = ["Венера", "2020 ", "май"]
 title = "Май 2020 на небе "
 type = "post"
 
