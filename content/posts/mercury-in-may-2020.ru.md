@@ -1,16 +1,15 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2020-05-14T13:59:03Z
 description = ""
-draft = true
 image = "/images/merc_n.jpg"
-tags = ["2020 ", "May ", "Mercury"]
-title = "Mercury in May 2020 -(copy)"
+tags = ["2020 ", "Меркурий"]
+title = "Наблюдаем за Меркурием с 15 по 22 мая"
 type = "post"
 url = ""
 
 +++
-Let's assume you are going to observe Mercury from May 15 to 22. What needs to be done to determine its location? To begin with, find Venus, the largest and brightest star, and a little lower, almost above the horizon, you can find Mercury, which also differs from other stars with its intense white light.  
+Наблюдаем за Меркурием с 15 по 22 мая. Что нужно сделать, чтобы определить его местонахождение? Для начала найти Венеру, самую большую и яркую звезду, а чуть пониже, почти над линией горизонта можно будет отыскать и Меркурий, который тоже отличается от других звезд ровным белым светом.  
   
-It is best to watch it in the very first hours after sunset.
+Лучше всего наблюдать за ним в первые же часы после захода солнца.
