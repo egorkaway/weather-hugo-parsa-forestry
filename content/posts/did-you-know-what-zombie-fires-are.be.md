@@ -3,7 +3,7 @@ categories = ["Зямля"]
 date = 2021-03-02T21:00:00Z
 description = ""
 image = "/images/fire.jpg"
-tags = []
+tags = ["заўжды", "Канада", "Расія"]
 title = "Пажар-зомбі"
 type = "post"
 
