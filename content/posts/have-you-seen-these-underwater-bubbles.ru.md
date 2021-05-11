@@ -1,20 +1,21 @@
 +++
-categories = ["Earth"]
+aliases = ""
+categories = ["Земля "]
 date = 2020-12-12T21:00:00Z
 description = ""
-draft = true
 image = "/images/bubble_ice_n.jpg"
-tags = ["Canada", "Siberia", "Arctic", "Russia"]
-title = "Have You Seen These Underwater Bubbles?-(copy)"
+tags = ["всегда ", "Канада ", "Россия "]
+title = "Ледяные подводные пузыри"
 type = "post"
+url = ""
 
 +++
-Icy underwater bubbles are one of the most curious natural phenomena.
-
-In the Canadian province of Alberta, there is Lake Abraham, which is known among scientists and nature lovers because of an unusual phenomenon: a large number of ice bubbles that have frozen under water.
-
-These fantastic circles are actually made up of methane bubbles. It appears when dry leaves, grass and animals, once in the water, get drown and become food for bacteria that produce methane. Gas appears in the form of bubbles, which, in contact with frozen water, turn into tens of thousands of white ice disks.
-
-It is important to remember that methane is highly flammable, therefore in spring, when ice begins to melt and gas bubbles hiss and burst, matches and other sources of fire cannot be used near the lake.
-
-In addition to Lake Abraham, ice bubbles can also be observed in the lakes of the Canadian Banff National Park or on the shores of the Arctic Ocean in Siberia.
+Ледяные подводные пузыри - одно из самых любопытных явлений природы.  
+  
+В канадской провинции Альберта есть озеро Абрахам, которое известно среди ученых и любителей природы благодаря необычному явлению: большому количеству ледяных пузырей, которые застыли под водой.  
+  
+Эти фантастические круги на самом деле состоят из пузырьков метана. Он появляется, когда сухие листья, трава и животные, оказавшись в воде, тонут и становятся пищей для бактерий, выделяющих метан. Газ выделяется в виде пузырьков, которые при контакте с замерзшей водой превращаются в десятки тысяч белых ледяных дисков.  
+  
+Важно помнить, что метан весьма легковоспламеним, поэтому весной, когда лед начинает таять и пузырьки газа шипят и лопаются, вблизи озера нельзя пользоваться спичками и другими источниками огня.  
+  
+Помимо озера Абрахам, ледяные пузыри можно также наблюдать на озерах канадского Национального парка Банф или на берегу Северного Ледовитого океана со стороны Сибири.
