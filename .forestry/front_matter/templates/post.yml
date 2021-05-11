@@ -38,6 +38,7 @@ fields:
     required: false
   label: url
 pages:
+- content/posts/15-22-copy.md
 - content/posts/a-soundtrack-for-any-weather.md
 - content/posts/aquarids-starfall.md
 - content/posts/astronomical-autumn.be.md
