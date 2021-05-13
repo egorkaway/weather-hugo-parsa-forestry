@@ -1,20 +1,19 @@
 +++
 aliases = ""
-categories = ["Tierra"]
+categories = ["Зямля"]
 date = 2021-04-11T21:00:00Z
 description = ""
-draft = true
 image = "/images/mirage_.jpg"
-tags = ["siempre"]
-title = "¿Qué es un espejismo y de dónde viene?-(copy)"
+tags = ["заўжды"]
+title = "Што такое міраж і адкуль ён бярэцца?"
 type = "post"
 url = "/espejismo"
 
 +++
-El espejismo es sin duda uno de los fenómenos atmosféricos más misteriosos que siempre se ha asociado con secretos y leyendas. Pero en realidad, el espejismo se explica fácilmente desde un punto de vista científico.  
+Міраж — гэта, несумненна, адна з самых загадкавых атмасферных з'яў, якая заўсёды асацыявалася з таямніцамі і легендамі. Але на справе міраж лёгка тлумачыцца з навуковага пункту гледжання.  
   
-Aparece cuando el aire cerca de una superficie muy caliente (alrededor de 60-70 °C) también se calienta y deja de ser homogéneo. La densidad óptica del aire cambia drásticamente y los rayos de luz se curvan. Así aparecen las imágenes en el horizonte.  
+Ён з'яўляецца, калі паветра побач з моцна нагрэтай паверхняй (каля 60-70 °С) таксама награваецца і становіцца неаднародным. Аптычная шчыльнасць паветра рэзка змяняецца, і светлавыя прамяні становяцца крывалінейнымі. Так і ўзнікаюць ўяўныя малюнкі каля лініі гарызонту.  
   
-Hay varios tipos de espejismos, y el más inusual de ellos es Fata Morgana (del italiano fata Morgana, el hada Morgana que vivía en el fondo del mar y atraía a los viajeros con la ayuda de espejismos). Fata Morgana ocurre cuando los rayos de luz se refractan tanto en la capa superior como en la inferior del aire, y aparece un doble espejismo con imágenes fantásticas.  
+Існуе некалькі тыпаў міражоў, і самы незвычайны з іх — гэта Фата-Маргана (ад італьянскага fata Morgana — фея Маргана, якая жыла на марскім дне і заваблівала да сябе падарожнікаў пры дапамозе міражоў). Фата-Маргана здараецца тады, калі прамяні святла пераламляюцца і ў верхнім, і ў ніжнім пластах паветра, і ўзнікае двайны міраж з фантастычнымі карцінамі.  
   
-¿Y vosotros habéis visto los espejismos alguna vez?
+А вам даводзілася бачыць міражы?
