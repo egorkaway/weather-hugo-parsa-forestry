@@ -33,7 +33,7 @@
               <p>{{ .Summary }}</p>
               <!-- test -->
               <!-- test -->
-              <a href="{{.Permalink}}111" class="btn btn-transparent">read more</a>
+              <a href="{{.Permalink}}" class="btn btn-transparent">{{ .Site.Params.read_more }}</a>
             </article>
           </div>
           {{ end }}
