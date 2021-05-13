@@ -1,20 +1,19 @@
 +++
-categories = ["Earth"]
+aliases = ""
+categories = ["Tierra"]
 date = 2021-04-11T21:00:00Z
 description = ""
-draft = true
 image = "/images/mirage_.jpg"
-tags = ["mirage", "timeless"]
-title = "What is Mirage?-(copy)"
+tags = ["siempre"]
+title = "¿Qué es un espejismo y de dónde viene?"
 type = "post"
+url = "/espejismo"
 
 +++
-What is a mirage and where does it come from?  
+El espejismo es sin duda uno de los fenómenos atmosféricos más misteriosos que siempre se ha asociado con secretos y leyendas. Pero en realidad, el espejismo se explica fácilmente desde un punto de vista científico.  
   
-Mirage is undoubtedly one of the most mysterious atmospheric phenomena that has always been associated with secrets and legends. But in reality, the mirage is easily explained from a scientific point of view.
-
-It appears when the air near a highly heated surface (about 60-70 °C) also heats up and becomes inhomogeneous. The optical density of the air changes drastically, and the light rays become curved. This is how fantastic images appear at the horizon.
-
-There are several types of mirages, but the most unusual of them is Fata Morgana (from the Italian fata Morgana - the fairy Morgana who lived on the seabed and lured travelers with the help of mirages). Fata Morgana happens when the rays of light are refracted in both the upper and lower layers of the air, and a double mirage appears with fantastic pictures.
-
-So have you ever seen mirages?
+Aparece cuando el aire cerca de una superficie muy caliente (alrededor de 60-70 °C) también se calienta y deja de ser homogéneo. La densidad óptica del aire cambia drásticamente y los rayos de luz se curvan. Así aparecen las imágenes en el horizonte.  
+  
+Hay varios tipos de espejismos, y el más inusual de ellos es Fata Morgana (del italiano fata Morgana, el hada Morgana que vivía en el fondo del mar y atraía a los viajeros con la ayuda de espejismos). Fata Morgana ocurre cuando los rayos de luz se refractan tanto en la capa superior como en la inferior del aire, y aparece un doble espejismo con imágenes fantásticas.  
+  
+¿Y vosotros habéis visto los espejismos alguna vez?
