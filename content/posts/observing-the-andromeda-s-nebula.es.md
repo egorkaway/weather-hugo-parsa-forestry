@@ -1,18 +1,17 @@
 +++
 aliases = ""
-categories = ["Небо"]
+categories = ["Cielo"]
 date = 2020-09-07T19:05:42Z
 description = ""
-draft = true
 image = "/images/andromeda_n.jpg"
-tags = ["2020 "]
-title = "Спостерігаємо за Туманністю Андромеди-(copy)"
+tags = ["2020 ", "septiembre"]
+title = "Observamos la Nebulosa de Andrómeda"
 type = "post"
 url = ""
 
 +++
-Уже в середині вересня відразу після заходу сонця можна буде спостерігати за галактикою, яка носить ім'я «Туманність Андромеди» (М31). У бінокль її можна буде побачити більш чітко, а якщо у вас ще і телескоп є, то ви зможете розглянути навіть її супутники — компактні еліптичні галактики М 32 і М 110.  
+Ya a mediados de septiembre, inmediatamente después de la puesta del sol, será posible observar la galaxia, que lleva el nombre de "Nebulosa de Andrómeda" (M31). Será posible verla más claramente a través de binoculares, y con telescopio incluso se podrá ver sus satélites: las compactas galaxias elípticas M 32 y M 110.  
   
-Як на покажчика можна орієнтуватися на зірку Шедар в сузір'ї Кассіопеї (Туманність Андромеди шукайте нижче і правіше) або на зірку Альферац в лівому кутку «квадрата Пегаса» (Андромеда виявиться лівіше).  
+Como puntero, puede orientarse a la estrella Shedar en la constelación de Casiopea (busque la Nebulosa de Andrómeda abajo y a la derecha) o a la estrella Alferatz en la esquina izquierda del "cuadrado de Pegaso" (Andrómeda estará a la izquierda).  
   
-Цікавих вам спостережень!
+¡Os deseamos observaciones interesantes!
