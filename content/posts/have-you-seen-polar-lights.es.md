@@ -1,20 +1,19 @@
 +++
 aliases = ""
-categories = ["Небо"]
+categories = ["Cielo"]
 date = 2021-02-07T21:00:00Z
 description = ""
-draft = true
 image = "/images/polar_.png"
-tags = ["март", "Канада"]
-title = "А вы видели полярное сияние?-(copy)"
+tags = ["septiembre", "marzo", "Canadá", "Islandia", "Rusia"]
+title = "Aurora boreal "
 type = "post"
 url = ""
 
 +++
-Полярное сияние — одно из самых прекрасных природных явлений Земли  
+Aurora boreal es uno de los fenómenos naturales más bellos de la Tierra  
   
-Если бы мы составляли рейтинг самых красивых атмосферный явлений, одно из самых высоких мест точно бы отдали полярному сиянию. Идеальное время для таких наблюдений - ясные морозные ночи с сентября по март на широтах около 67–70°. Чаще всего полярное сияние можно увидеть на Аляске, в северных областях Канады, в Исландии, на Скандинавском полуострове и севере России.   
+Si tuviéramos que clasificar los fenómenos atmosféricos más bellos, uno de los lugares más altos definitivamente daríamos a la aurora boreal. El tiempo ideal para tales observaciones son las noches claras y heladas de septiembre a marzo en latitudes de aproximadamente 67 a 70°. O sea que los lugares donde se ve con más frecuencia son Alaska, el norte de Canadá, Islandia, la península escandinava y el norte de Rusia.  
   
-Полярное сияние вызвано движением заряженных частиц солнечного ветра в магнитном поле планеты. В результате верхние слои атмосферы начинают светиться, а жители Земли получают возможность увидеть грандиозное зрелище.  
+La aurora boreal es causada por el movimiento de partículas cargadas del viento solar en el campo magnético del planeta. Como resultado, las capas superiores de la atmósfera comienzan a brillar y los habitantes de la Tierra tienen la oportunidad de ver un gran espectáculo.  
   
-А вы видели полярное сияние? 
+¿Habéis visto las luces polares?
