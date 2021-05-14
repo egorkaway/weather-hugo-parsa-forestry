@@ -1,18 +1,17 @@
 +++
 aliases = ""
-categories = ["Земля"]
+categories = ["Tierra "]
 date = 2020-12-15T21:00:00Z
 description = ""
-draft = true
 image = "/images/ice_.png"
-tags = ["завжди"]
-title = "Крижані голки-(copy)"
+tags = ["siempre", "nieve"]
+title = "Agujas de hielo"
 type = "post"
 url = ""
 
 +++
-Крижані голки замість снігу.  
+Agujas de hielo en lugar de nieve.  
   
-Виявляється, іноді замість звичайних сніжинок з неба можуть падати справжні крижані голки — маленькі і дуже гострі кристали льоду, які здатні навіть порізати шкіру.  
+¿Sabíais que a veces, en lugar de los copos de nieve ordinarios, pueden caer del cielo unas verdaderas agujas de hielo? Son cristales de hielo pequeños y muy agudos que incluso pueden cortar la piel.  
   
-Вони утворюються з застигліх крапельок води і зустрічаються зазвичай в Сибірі і на Крайній Півночі.
+Se forman de las gotas de agua solidificadas y generalmente se ven en Siberia y el extremo norte.
