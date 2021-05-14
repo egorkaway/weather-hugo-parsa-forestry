@@ -1,14 +1,15 @@
 +++
-categories = ["Sky"]
+aliases = ""
+categories = ["Небо"]
 date = 2021-03-24T21:00:00Z
 description = ""
-draft = true
 image = "/images/rain_bow_n.png"
-tags = ["rainbow"]
-title = "What is the Real Form of the Rainbow?-(copy)"
+tags = ["радуга"]
+title = "Какая форма у радуги?"
 type = "post"
+url = ""
 
 +++
-Did you know that a full rainbow is actually a complete circle?
-
-The thing is that it’s not an arc we are used to see but a complete circle partly hidden from us. And only in certain conditions, like being on an airplane or standing on a mountain one can see an amazing view of an entire circular rainbow.
+А вы знали, что на самом деле радуга — это полный круг?  
+  
+Дело в том, что радуга — вовсе не арка, которую мы привыкли видеть в небе, а полноценный замкнутый круг, просто частично от нас скрытый. И только при определенных условиях, например, находясь на вершине горы или в самолете, можно увидеть это захватывающее явление природы целиком.
