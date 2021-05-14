@@ -1,18 +1,19 @@
 +++
-categories = ["Sky"]
+aliases = ""
+categories = ["Небо"]
 date = 2021-02-07T21:00:00Z
 description = ""
-draft = true
 image = "/images/polar_.png"
-tags = ["Alaska", "Canada", "Iceland", "Scandinavia", "Russia"]
-title = "Have You Seen Polar Lights?-(copy)"
+tags = ["март", "Канада"]
+title = "А вы видели полярное сияние?"
 type = "post"
+url = ""
 
 +++
-Polar lights are one of the most beautiful natural phenomena on Earth
-
-If we were to rank the most beautiful atmospheric phenomena, we would definitely give one of the highest places to polar lights. The ideal time for them is clear frosty nights from September to March at latitudes of about 67–70°. Most often, polar lights can be seen in Alaska, in the northern regions of Canada, in Iceland, on the Scandinavian Peninsula, and in northern Russia.
-
-What are the reasons for the polar lights? They are caused by the charged little particles from the solar wind which start moving in the planet's magnetic field. As a result, the upper layers of the atmosphere begin to glow, and the inhabitants of the Earth get the opportunity to see a grand spectacle.  
+Полярное сияние — одно из самых прекрасных природных явлений Земли  
   
-Have you ever seen the polar lights?
+Если бы мы составляли рейтинг самых красивых атмосферный явлений, одно из самых высоких мест точно бы отдали полярному сиянию. Идеальное время для таких наблюдений - ясные морозные ночи с сентября по март на широтах около 67–70°. Чаще всего полярное сияние можно увидеть на Аляске, в северных областях Канады, в Исландии, на Скандинавском полуострове и севере России.   
+  
+Полярное сияние вызвано движением заряженных частиц солнечного ветра в магнитном поле планеты. В результате верхние слои атмосферы начинают светиться, а жители Земли получают возможность увидеть грандиозное зрелище.  
+  
+А вы видели полярное сияние? 
