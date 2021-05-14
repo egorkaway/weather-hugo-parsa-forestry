@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Sky"]
 date = 2021-02-07T21:00:00Z
 description = ""
 image = "/images/polar_.png"
-tags = ["Alaska", "Canada", "Iceland", "Scandinavia", "Russia"]
+tags = ["Alaska", "Canada", "Iceland", "Scandinavia", "Russia", "September", "October ", "November ", "December ", "February ", "March"]
 title = "Have You Seen Polar Lights?"
 type = "post"
+url = ""
 
 +++
 Polar lights are one of the most beautiful natural phenomena on Earth
