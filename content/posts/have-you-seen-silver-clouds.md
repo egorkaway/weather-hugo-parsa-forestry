@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Sky"]
-date = 2020-07-01T21:00:00Z
+date = 2021-05-13T21:00:00Z
 description = ""
 image = "/images/silver_.jpg"
-tags = ["Europe", "Canada", "Russia", "clouds"]
+tags = ["Europe", "Canada", "Russia", "clouds", "July", "June ", "May "]
 title = "Have You Seen Silver Clouds?"
 type = "post"
+url = ""
 
 +++
 Rare silver clouds can be observed until the end of July.
