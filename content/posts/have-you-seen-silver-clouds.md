@@ -16,6 +16,6 @@ Until the end of the month, it will be possible to see silver or, as they are al
 
 These clouds are considered the highest among all cloud phenomena: they form at an altitude of 70-95 km. For comparison: usually the clouds do not rise above 12 km.
 
-In addition, silver clouds are also distinguished by their huge area, sometimes occupying up to several million square kilometers of airspace.
+In addition, silver clouds are also distinguished by their huge area, sometimes occupying up to several million square kilometres of airspace. 
 
 Most often, polar clouds appear in the sky 1,5 - 2 hours before midnight and are really impressive.
