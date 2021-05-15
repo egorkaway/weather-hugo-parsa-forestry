@@ -1,20 +1,19 @@
 +++
 aliases = ""
-categories = ["Неба"]
+categories = ["Cielo"]
 date = 2020-08-02T06:24:11Z
 description = ""
-draft = true
 image = "/images/pers_n.png"
-tags = []
-title = "Зарапад Персеід -(copy)"
+tags = ["agosto"]
+title = "Lluvia de estrellas de las Perseidas"
 type = "post"
 url = ""
 
 +++
-Зарапад Персеід з 10 па 20 жніўня.  
+Lluvia de estrellas de las Perseidas del 10 al 20 de agosto.  
   
-Ужо на наступным тыдні, пачынаючы з 10 жніўня, можна будзе назіраць у небе знакаміты зарапад Персеід. Персеіды — гэта шматлікія часцінкі хваста каметы Свіфта-Таттла. Апошні раз яна набліжалася да Зямлі ў 1992 годзе.  
+Ya la próxima semana, a partir del 10 de agosto, será posible observar la famosa lluvia de estrellas de las Perseidas en el cielo nocturno. Las Perseidas son numerosas partículas de cola del cometa Swift-Tuttle. La última vez que se acercó a la Tierra fue en 1992.  
   
-Пік актыўнасці зарапада прыйдзецца ў ноч з 12 на 13 жніўня. Менавіта ў гэты час, як абяцаюць навукоўцы, колькасць метэораў можа дасягнуць 100 у гадзіну.  
+El pico de la actividad de la lluvia de estrellas será en la noche del 12 al 13 de agosto. Es entonces, como lo prometen los científicos, cuando la cantidad de meteoros podrá alcanzar los 100 por hora.  
   
-Так што жыхароў Паўночнага паўшар'я чакае вельмi цікавый тыдзень астранамічных назіранняў.
+Es decir, los habitantes del hemisferio norte tendrán una interesante semana de observaciones astronómicas.
