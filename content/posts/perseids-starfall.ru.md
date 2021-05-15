@@ -1,20 +1,19 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2020-08-02T06:24:11Z
 description = ""
-draft = true
 image = "/images/pers_n.png"
-tags = ["August", "starfall", "meteor ", "astronomy"]
-title = "Perseids Starfall -(copy)"
+tags = ["метеор ", "астрономия ", "август "]
+title = "Персеиды"
 type = "post"
 url = ""
 
 +++
-Perseids starfall from 10 to 20 August.  
+Звездопад Персеид с 10 по 20 августа.  
   
-Already next week, starting from August 10, it will be possible to observe the famous Perseids starfall in the night sky. The Perseids are numerous tail particles of the Swift-Tuttle Comet. It last approached the Earth in 1992.  
+Уже на следующей неделе, начиная с 10 августа, можно будет наблюдать в небе знаменитый звездопад Персеид. Персеиды - это многочисленные частички хвоста кометы Свифта-Таттла. Последний раз она приближалась к Земле в 1992 году.  
   
-The peak of the starfall activity will take place on August 12-13. That will be the time, as scientists promise, when the number of meteors will reach 100 per hour.  
+Пик активности звездопада придется в ночь с 12 на 13 августа. Именно в это время, как обещают ученые, количество метеоров может достигнуть 100 в час.   
   
-Inhabitants of the Northern Hemisphere will have an interesting week of astronomical observations.
+Так что жителей Северного полушария ожидает интереснейшая неделя астрономических наблюдений.
