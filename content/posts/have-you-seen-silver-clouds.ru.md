@@ -1,20 +1,21 @@
 +++
-categories = ["Sky"]
-date = 2020-07-01T21:00:00Z
+aliases = ""
+categories = ["Небо"]
+date = 2021-05-13T21:00:00Z
 description = ""
-draft = true
 image = "/images/silver_.jpg"
-tags = ["Europe", "Canada", "Russia", "clouds"]
-title = "Have You Seen Silver Clouds?-(copy)"
+tags = ["май ", "июнь", " облака"]
+title = "Cеребристые облака"
 type = "post"
+url = ""
 
 +++
-Rare silver clouds can be observed until the end of July.
-
-Until the end of the month, it will be possible to see silver or, as they are also called, polar clouds in the sky over Northern Europe, Canada and the northern regions of Russia.
-
-These clouds are considered the highest among all cloud phenomena: they form at an altitude of 70-95 km. For comparison: usually the clouds do not rise above 12 km.
-
-In addition, silver clouds are also distinguished by their huge area, sometimes occupying up to several million square kilometers of airspace.
-
-Most often, polar clouds appear in the sky 1,5 - 2 hours before midnight and are really impressive.
+Редкие серебристые облака можно будет наблюдать до конца июля.  
+  
+До конца месяца в небе над Северной Европой, Канадой и северными областями России можно будет увидеть серебристые или, как их еще называют, полярные облака.  
+  
+Эти облака считаются самим высокими среди всех облачных явлений: они образуются на высоте 70-95 км. Для сравнения: обычно облака не поднимаются выше 12 км.  
+  
+Кроме того, серебристые облака отличаются еще и огромной площадью, занимая иногда до нескольких миллионов квадратных километров воздушного пространства.  
+  
+Чаще всего полярные облака появляются в небе за полтора-два часа до полуночи и представляют собой по-настоящему впечатляющее зрелище.
