@@ -1,5 +1,5 @@
 +++
-aliases = ""
+aliases = "/posts/silver-clouds"
 categories = ["Sky"]
 date = 2021-05-13T21:00:00Z
 description = ""
