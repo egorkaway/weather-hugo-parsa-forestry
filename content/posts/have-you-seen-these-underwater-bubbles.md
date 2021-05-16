@@ -1,5 +1,5 @@
 +++
-aliases = ""
+aliases = "/posts/underwater-ice"
 categories = ["Earth"]
 date = 2020-12-12T21:00:00Z
 description = ""
