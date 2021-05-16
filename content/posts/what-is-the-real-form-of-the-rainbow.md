@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Sky"]
 date = 2021-03-24T21:00:00Z
 description = ""
 image = "/images/rain_bow_n.png"
-tags = ["rainbow"]
+tags = ["rainbow", "timeless"]
 title = "What is the Real Form of the Rainbow?"
 type = "post"
+url = ""
 
 +++
 Did you know that a full rainbow is actually a complete circle?
