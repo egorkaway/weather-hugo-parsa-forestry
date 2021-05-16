@@ -1,14 +1,13 @@
 +++
+aliases = ["/posts/not-just-simple-lightning"]
 categories = ["Earth"]
 date = 2021-04-02T21:00:00Z
 description = ""
 image = "/images/elm_n.jpg"
-tags = ["lightning"]
+tags = ["lightning", "timeless"]
 title = "Saint Elmo's Fire"
-aliases = [
-"/posts/not-just-simple-lightning"
-]
 type = "post"
+url = ""
 
 +++
 Not just simple lightning.  
