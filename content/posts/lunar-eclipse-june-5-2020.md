@@ -1,5 +1,5 @@
 +++
-aliases = ""
+aliases = "/posts/lunar-eclipse-june-5"
 categories = ["Sky"]
 date = 2020-05-16T21:00:00Z
 description = ""
