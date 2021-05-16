@@ -1,11 +1,13 @@
 +++
+aliases = "/posts/fog-what-is-it-and-why-does-it-appear"
 categories = ["Sky"]
 date = 2021-03-02T21:00:00Z
 description = ""
 image = "/images/fog_.png"
-tags = ["fog", "Dubai", "Florida"]
+tags = ["fog", "Dubai", "Florida", "timeless"]
 title = "Why Does Fog Appear?"
 type = "post"
+url = ""
 
 +++
 From the scientific point of view, fog is the accumulation of water in the air and the further formation of little condensation products of water vapor. Moreover, the lower the temperature, the more ice crystals are there in the fog instead of water drops.
