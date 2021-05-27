@@ -1,11 +1,13 @@
 +++
-categories = []
+aliases = ""
+categories = ["Небо"]
 date = 2020-09-15T08:30:36Z
 description = ""
 image = "/images/fall_n.jpg"
-tags = []
-title = "Зустрічаємо астрономічну осінь 22 вересня."
+tags = ["осінь"]
+title = "Зустрічаємо астрономічну осінь 22 вересня"
 type = "post"
+url = ""
 
 +++
 Зустрічаємо астрономічну осінь 22 вересня.  
