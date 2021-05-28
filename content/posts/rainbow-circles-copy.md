@@ -1,22 +1,21 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Неба"]
 date = 2021-05-28T09:29:22Z
 description = ""
-draft = true
 image = "/images/glo_n.png"
-tags = ["rainbow", "timeless"]
-title = "Rainbow Circles-(copy)"
+tags = ["вясёлка"]
+title = "Каляровыя кольцы, падобныя на вясёлку"
 type = "post"
 url = ""
 
 +++
-One of the most interesting and beautiful atmospheric phenomena is the rainbow circles, that has got a scientific name of "gloria".  
+Адна з самых цікавых і прыгожых атмасферных з'яў — гэта вясёлкавыя кругі, якія носяць навуковую назву «глорыя».  
   
-This is an optical effect that can be seen from an airplane or standing on top of a mountain above the clouds with the source of light behind you.  
+Гэта аптычны эфект, які можна ўбачыць з самалёта або стоячы на ​​вяршыні гары над аблокамі і знаходзячыся спіной да крыніцы святла.  
   
-Gloria is a rainbow-like colored ring that appears due to diffraction of light reflected in cloud droplets.  
+«Глорыя» ўяўляе сабой каляровыя кольцы, падобныя на вясёлку, і з'яўляецца яна з-за дыфракцыі святла, адлюстраванага ў кропельках аблокаў.  
   
-In China, by the way, "gloria" has long been called "the light of the Buddha" and this beautiful optical phenomenon is associated with enlightenment.  
+У Кітаі, дарэчы, «глорыю» здаўна называюць «святлом Буды» і звязваюць гэты прыгожы аптычны феномен з прасветленасцю.  
   
-Have you ever seen the gloria's rainbow circles with your own eyes?
+А вам даводзілася на свае вочы бачыць вясёлкавыя кальцы «глорыі»?
