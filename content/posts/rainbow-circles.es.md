@@ -1,22 +1,21 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Cielo"]
 date = 2021-05-28T09:29:22Z
 description = ""
-draft = true
 image = "/images/glo_n.png"
-tags = ["rainbow", "timeless"]
-title = "Rainbow Circles-(copy)"
+tags = ["siempre"]
+title = "Círculos del arco íris"
 type = "post"
 url = ""
 
 +++
-One of the most interesting and beautiful atmospheric phenomena is the rainbow circles, that has got a scientific name of "gloria".  
+Uno de los fenómenos atmosféricos más interesantes y bellos son los círculos del arco iris, que llevan el nombre científico de "gloria".  
   
-This is an optical effect that can be seen from an airplane or standing on top of a mountain above the clouds with the source of light behind you.  
+Este es un efecto óptico que se puede ver desde un avión o desde la cima de una montaña sobre las nubes, de espaldas a la fuente de luz.  
   
-Gloria is a rainbow-like colored ring that appears due to diffraction of light reflected in cloud droplets.  
+Gloria es un círculo de color similar a un arco iris que aparece debido a la difracción de la luz reflejada en las gotas de las nubes.  
   
-In China, by the way, "gloria" has long been called "the light of the Buddha" and this beautiful optical phenomenon is associated with enlightenment.  
+En China, por cierto, "gloria" se ha llamado durante mucho tiempo "la luz del Buda" y este hermoso fenómeno óptico está asociado con la iluminación.  
   
-Have you ever seen the gloria's rainbow circles with your own eyes?
+¿Habéis visto alguna vez los círculos del arco íris con vuestros propios ojos?
