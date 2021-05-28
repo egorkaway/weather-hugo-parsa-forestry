@@ -1,22 +1,21 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2021-05-28T09:29:22Z
 description = ""
-draft = true
 image = "/images/glo_n.png"
-tags = ["rainbow", "timeless"]
-title = "Rainbow Circles-(copy)"
+tags = ["веселка"]
+title = "Райдужні кільця"
 type = "post"
 url = ""
 
 +++
-One of the most interesting and beautiful atmospheric phenomena is the rainbow circles, that has got a scientific name of "gloria".  
+Одне з найбільш цікавих і гарних атмосферних явищ — це райдужні кола, які носять наукову назву «глорiя».  
   
-This is an optical effect that can be seen from an airplane or standing on top of a mountain above the clouds with the source of light behind you.  
+Це оптичний ефект, який можна побачити з літака або стоячи на вершині гори над хмарами і перебуваючи спиною до джерела світла.  
   
-Gloria is a rainbow-like colored ring that appears due to diffraction of light reflected in cloud droplets.  
+«Глорія» являє собою кольорові кільця, схожі на веселку, і з'являються через дифракцію світла, відображеного в крапельках хмари.  
   
-In China, by the way, "gloria" has long been called "the light of the Buddha" and this beautiful optical phenomenon is associated with enlightenment.  
+У Китаї, до речі, «глорію» здавна називають «світлом Будди» і пов'язують цей красивий оптичний феномен з просвітленістю.  
   
-Have you ever seen the gloria's rainbow circles with your own eyes?
+А вам доводилося своїми очима бачити райдужні кільця «глорії»?
