@@ -36,6 +36,11 @@ languages:
     categories: Категории
     category: Категория
     post_available_in: Пост также доступен на следующих языках
+    menu:
+      main:
+      - URL: /ru/about/
+        name: "О&nbsp;Сайте"
+        weight: 1
   uk:
     languageName: Ukranian
     logo: images/weather_ru_w.png
