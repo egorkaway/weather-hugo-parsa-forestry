@@ -46,6 +46,20 @@ languages:
     logo: images/weather_ru_w.png
     weight: '4'
     follow: Мережи
+    address: Мінськ / Київ / Несвіж
+    title: 'Погода і Клімат: сайт від Weather Gizmo'
+    read_more: Далi...
+    address_title: Де
+    contact_info: Контакти
+    previous: "« Вперед"
+    next: "Назад »"
+    post_by: Опубліковано
+    latest_post: Останні матеріали
+    tags: Теги
+    tag: Тег
+    categories: Категорії
+    category: Категорія
+    post_available_in: Пост також доступний наступними мовами
   be:
     languageName: Belarusian
     logo: images/weather_by.png
@@ -55,7 +69,7 @@ languages:
     read_more: Далей...
     address_title: Дзе
     contact_info: Кантакты
-    follow: Follow
+    follow: Сацыяльныя сеткi
     previous: "« Наперад"
     next: "У мiнулае »"
     post_by: Апублiкавана
