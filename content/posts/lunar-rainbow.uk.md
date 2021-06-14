@@ -1,32 +1,31 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2021-06-14T10:45:20Z
 description = ""
-draft = true
 image = "/images/lun.png"
-tags = ["rainbow", "timeless", "USA", "Canada"]
-title = "Lunar Rainbow-(copy)"
+tags = ["веселка", "США"]
+title = "Місячна веселка"
 type = "post"
 url = ""
 
 +++
-Did you know that apart from the usual rainbow, there is also a lunar one?
+А ви знали, що крім звичайної веселки, є ще і місячна?
 
-Lunar (or night) rainbows are really rare. And the reason is an exact combination of obligatory factors that must coincide in order for a lunar rainbow to appear in the night sky.
+Місячна (або нічна) веселка — явище рідкісне. А виною тому ціла комбінація обов'язкових факторів, які повинні співпасти, щоб на нічному небі з'явилася місячна веселка.
 
-What are these factors?
+Що ж це за фактори?
 
-\- Moon phase, close to full moon;
+\- Фаза Місяця, близька до повного;
 
-\- Dark cloudless sky;
+\- Темне безхмарне небо;
 
-\- Low height of the Moon above the Earth;
+\- Невелика висота Місяця над Землею;
 
-\- High humidity;
+\- Підвищена вологість;
 
-\- Rain opposite the Moon
+\- Дощ навпроти Місяця
 
-It is when all these moments coincide at the same time, there is a chance to see one of the rarest atmospheric phenomena: the lunar rainbow.
+Саме тоді, коли в один і той же нiчний час збігаються всі ці моменти, з'являється шанс побачити одне з найрідкісніших атмосферних явищ — місячну веселку.
 
-Most often this happens next to large waterfalls. Lunar rainbows were recorded, for example, near waterfalls in the USA and Canada, on the border of Zambia and Zimbabwe, in the Caucasus, Yamal and in the foothills of Kazakhstan.
+Найчастіше це відбувається поруч з великими водоспадами. Місячні веселки фіксували, наприклад, у водоспадів в США і Канаді, на кордоні Замбії і Зімбабве, на Кавказі, Ямалі і в передгір'ї Казахстану.
