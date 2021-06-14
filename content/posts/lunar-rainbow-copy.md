@@ -1,32 +1,31 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Сielo"]
 date = 2021-06-14T10:45:20Z
 description = ""
-draft = true
 image = "/images/lun.png"
-tags = ["rainbow", "timeless", "USA", "Canada"]
-title = "Lunar Rainbow-(copy)"
+tags = ["Canadá", "siempre"]
+title = "Arco íris lunar"
 type = "post"
 url = ""
 
 +++
-Did you know that apart from the usual rainbow, there is also a lunar one?
+¿Sabíais que además del arcoíris habitual, también hay un arco íris lunar?
 
-Lunar (or night) rainbows are really rare. And the reason is an exact combination of obligatory factors that must coincide in order for a lunar rainbow to appear in the night sky.
+Los arcoíris lunares (o nocturnos) son realmente raros. Y la razón es toda una combinación de factores obligatorios que deben coincidir para que aparezca un arco iris lunar en el cielo nocturno.
 
-What are these factors?
+¿Cuáles son estos factores?
 
-\- Moon phase, close to full moon;
+\- Fase lunar, cercana a la luna llena;
 
-\- Dark cloudless sky;
+\- Cielo oscuro sin nubes;
 
-\- Low height of the Moon above the Earth;
+\- Baja altura de la Luna sobre la Tierra;
 
-\- High humidity;
+\- Alta humedad;
 
-\- Rain opposite the Moon
+\- Lluvia frente a la luna
 
-It is when all these moments coincide at the same time, there is a chance to see one of the rarest atmospheric phenomena: the lunar rainbow.
+Sólo cuando todos estos momentos coinciden al mismo tiempo en la oscuridad, aparece la posibilidad de ver uno de los fenómenos atmosféricos más raros: el arco iris lunar
 
-Most often this happens next to large waterfalls. Lunar rainbows were recorded, for example, near waterfalls in the USA and Canada, on the border of Zambia and Zimbabwe, in the Caucasus, Yamal and in the foothills of Kazakhstan.
+Más a menudo esto sucede junto a las grandes cataratas. Se registraron arcoíris lunares, por ejemplo, cerca de las cataratas en los EE. UU. y Canadá, en la frontera de Zambia y Zimbabwe, en el Cáucaso, Yamal y en las estribaciones de Kazajstán.
