@@ -1,32 +1,31 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Неба"]
 date = 2021-06-14T10:45:20Z
 description = ""
-draft = true
 image = "/images/lun.png"
-tags = ["rainbow", "timeless", "USA", "Canada"]
-title = "Lunar Rainbow-(copy)"
+tags = ["ЗША", "вясёлка"]
+title = "Месяцовая вясёлка"
 type = "post"
 url = ""
 
 +++
-Did you know that apart from the usual rainbow, there is also a lunar one?
+А вы ведалі, што акрамя звычайнай вясёлкі, ёсць яшчэ і месяцовая?
 
-Lunar (or night) rainbows are really rare. And the reason is an exact combination of obligatory factors that must coincide in order for a lunar rainbow to appear in the night sky.
+Месяцовая (або начная) вясёлка — з'ява рэдкая. А віной таму цэлая камбінацыя абавязковых фактараў, якія павінны супасці, каб на начным небе з'явілася месяцовая вясёлка.
 
-What are these factors?
+Што ж гэта за фактары?
 
-\- Moon phase, close to full moon;
+\- Фаза Месяца, блізкая да поўні;
 
-\- Dark cloudless sky;
+\- Цёмнае бясхмарнае неба;
 
-\- Low height of the Moon above the Earth;
+\- Невялікая вышыня Месяца над Зямлёй;
 
-\- High humidity;
+\- Падвышаная вільготнасць;
 
-\- Rain opposite the Moon
+\- Дождж насупраць Месяца
 
-It is when all these moments coincide at the same time, there is a chance to see one of the rarest atmospheric phenomena: the lunar rainbow.
+Менавіта тады, калі ў адзін і той жа цёмны час сутак супадаюць усе гэтыя моманты, з'яўляецца шанец убачыць адно з самых рэдкіх атмасферных з’яў: месяцовую вясёлку.
 
-Most often this happens next to large waterfalls. Lunar rainbows were recorded, for example, near waterfalls in the USA and Canada, on the border of Zambia and Zimbabwe, in the Caucasus, Yamal and in the foothills of Kazakhstan.
+Часцей за ўсё гэта адбываецца побач з вялікімі вадаспадамі. Месяцовыя вясёлкі фіксавалі, напрыклад, у вадаспадаў ў ЗША і Канадзе, на мяжы Замбіі і Зімбабвэ, на Каўказе, Ямале і ў перадгор'е Казахстана.
