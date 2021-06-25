@@ -1,22 +1,21 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Неба"]
 date = 2021-06-25T10:13:01Z
 description = ""
-draft = true
 image = "/images/glory_n.png"
-tags = ["clouds", "Australia"]
-title = "What is Morning Glory?-(copy)"
+tags = ["лістапад", "аблокі"]
+title = "Ранішняя глорыя — што гэта?"
 type = "post"
 url = ""
 
 +++
-Morning glory — what is it and where can you see it?
+Ранішняя глорыя — што гэта такое і дзе можна яе ўбачыць?
 
-Today we will tell you about another rare and amazing atmospheric phenomenon — unusual clouds called "Morning Glory".
+Сёння раскажам вам пра яшчэ адну рэдкую і дзіўную атмасфэрную з'яву. Размова пойдзе пра незвычайныя аблокi, якія называюць «Ранішняя глорыя».
 
-These clouds appear as a long curved solitary wave and reminds of an airplane trail. These waves are located quite low above the earth, at an altitude of only 100-200 meters. The length of such a cloud can reach 1000 km.
+Гэтыя аблокі выглядаюць, як доўгая выгінастая паласа і нагадваюць след ад самалёта. Размяшчаюцца гэтыя палосы даволі нізка над зямлёй, на вышыні ўсяго 100-200 метраў. Даўжыня такой аблокі можа дасягаць 1000 км.
 
-Studies of this unusual phenomenon have been going on since the 1970s, but until now scientists have not come to a consensus about what exactly causes the appearance of these long cloudy "pipes".
+Даследаванні гэтай незвычайнай з'явы вядуцца з 1970х гадоў, аднак да гэтага часу навукоўцы так і не прыйшлі да адзінага меркавання пра тое, што ж дакладна выклікае з'яўленне гэтых доўгіх хмарных «труб».
 
-You can observe these mysterious clouds in the early morning from September to mid-November in Australia, in the Gulf of Carpentaria in the north of the country.
+Назіраць за гэтымі таямнічымі аблокамі можна ранняй раніцай з верасня па сярэдзіну лістапада ў Аўстраліі, у заліве Карпентарыя на поўначы краіны.
