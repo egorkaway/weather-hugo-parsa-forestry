@@ -17,6 +17,7 @@ languages:
     category: Categoria
     read_more: Leer mas...
     post_available_in: Este texto esta desponible en
+    description: Trivia meteorológica para el mundo que está cambiando
   ru:
     languageName: Russian
     weight: '3'
