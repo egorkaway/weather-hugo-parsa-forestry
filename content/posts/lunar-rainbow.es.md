@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = ["Сielo"]
+categories = ["Cielo"]
 date = 2021-06-14T10:45:20Z
 description = ""
 image = "/images/lun.png"
