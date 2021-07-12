@@ -20,4 +20,4 @@ Deshte Lut is officially recognized as the hottest place on Earth. It was here t
 
 By the way, despite such indicators, the Shur river flows through the desert and does not dry up even in the hottest years.
 
-This desert also owns another natural world attraction: one of the tallest dunes in the world, its height is 407meters.
+This desert also owns another natural world attraction: one of the tallest dunes in the world, its height is 407 meters.
