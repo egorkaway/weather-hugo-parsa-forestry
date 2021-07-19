@@ -10,4 +10,6 @@ type = "post"
 url = ""
 
 +++
-Hottest temperatures ever recorded in Europe.
+Hottest temperatures ever recorded in Europe.  
+  
+Strange? 
