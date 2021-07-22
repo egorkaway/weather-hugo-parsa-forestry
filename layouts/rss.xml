@@ -36,7 +36,7 @@
       {{ with .Params.Image }}
         {{ $image := resources.Get . }}
         {{ $image_res := $image.Resize "200x"}}
-        <media:content width="200" url="{{ $image_res.Permalink }}" />
+        <media:content width="200" url="{{ $image_res.Permalink | absURL }}" />
       {{ end }}
     </item>
     {{ end }}
