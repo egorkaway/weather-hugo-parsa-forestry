@@ -35,8 +35,8 @@
       <description>{{ .Content | html }}</description>
       {{ with .Params.Image }}
         {{ $image := resources.Get . }}
-        {{ $image_res := $image.Resize "800x"}}
-        <media:content width="800" url="https://weather-aware.com{{ $image_res.Permalink | absURL }}" />
+        {{ $image_res := $image.Resize "600x"}}
+        <media:content width="600" url="https://weather-aware.com{{ $image_res.Permalink | absURL }}" />
       {{ end }}
     </item>
     {{ end }}
