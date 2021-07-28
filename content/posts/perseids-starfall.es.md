@@ -1,10 +1,10 @@
 +++
 aliases = ""
 categories = ["Cielo"]
-date = 2020-08-02T06:24:11Z
+date = 2021-08-02T06:24:11Z
 description = ""
 image = "/images/pers_n.png"
-tags = ["agosto"]
+tags = ["agosto", "meteoros"]
 title = "Lluvia de estrellas de las Perseidas"
 type = "post"
 url = ""
