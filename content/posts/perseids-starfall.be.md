@@ -1,10 +1,10 @@
 +++
 aliases = ""
 categories = ["Неба"]
-date = 2020-08-02T06:24:11Z
+date = 2021-08-02T06:24:11Z
 description = ""
 image = "/images/pers_n.png"
-tags = []
+tags = ["зарапад"]
 title = "Зарапад Персеід "
 type = "post"
 url = ""
