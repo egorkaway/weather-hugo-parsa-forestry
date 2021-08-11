@@ -2,7 +2,7 @@
 categories = ["Небо"]
 date = 2021-04-03T21:00:00Z
 image = "/images/cloudsss_n.png"
-tags = ["timeless", "облака"]
+tags = ["облака", "всегда "]
 title = "Перламутровые облака - чудо северных широт"
 type = "post"
 
