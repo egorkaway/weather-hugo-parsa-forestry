@@ -1,18 +1,17 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Зямля"]
 date = 2021-08-11T07:57:44Z
 description = ""
-draft = true
 image = "/images/ice_n.jpg"
-tags = ["Antarctica", "timeless"]
-title = "Coldest Place on Earth-(copy)"
+tags = ["заўжды"]
+title = "Дзе на Зямлі халадней за ўсё"
 type = "post"
 url = ""
 
 +++
-Recently we’ve told you about the hottest place on the planet. Today we are ready to tell you where is the coldest one.
-
-In 2018, scientists got a record cold temperature: -98.6 °C. This was done in the eastern part of the Queen Maud Land in Antarctica. Several cracks from 2 to 4 meters deep are located there accumulating icy air. If you breathe at this temperature it may easily provoke rather serious burns.
-
-Until 2018, the cold temperature record was considered to be -89.2 °С, which was recorded at the Vostok research station in 1983 in Antarctica.
+Нядаўна мы вам распавядалі пра тое, дзе знаходзіцца самае спякотнае месца на планеце. Сёння мы гатовыя распавесці, дзе ж на Зямлі халадней за ўсё.  
+  
+У 2018 годзе навукоўцы зафіксавалі рэкордна халодную тэмпературу паветра: -98,6 °С. Зрабіць гэта ўдалося на вяршыні лядовага шчыта ва ўсходняй частцы Зямлі Каралевы Мод ў Антарктыдзе. Менавіта там размешчаны западзіны глыбінёй ад 2 да 4 метраў, у якіх назапашваецца ледзяное паветра. Ўдых пры такой тэмпературы прыводзіць да даволі сур'ёзных апёкаў.  
+  
+Да 2018 года халодным тэмпературным рэкордам лічыўся паказчык -89,2 °С, які быў зафіксаваны на даследчай станцыі Усход ў 1983 годзе ў Антарктыцы.
