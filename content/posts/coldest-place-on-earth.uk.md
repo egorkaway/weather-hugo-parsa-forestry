@@ -1,18 +1,17 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Земля"]
 date = 2021-08-11T07:57:44Z
 description = ""
-draft = true
 image = "/images/ice_n.jpg"
-tags = ["Antarctica", "timeless"]
-title = "Coldest Place on Earth-(copy)"
+tags = ["завжди"]
+title = "Де на Землі найхолодніше"
 type = "post"
 url = ""
 
 +++
-Recently we’ve told you about the hottest place on the planet. Today we are ready to tell you where is the coldest one.
-
-In 2018, scientists got a record cold temperature: -98.6 °C. This was done in the eastern part of the Queen Maud Land in Antarctica. Several cracks from 2 to 4 meters deep are located there accumulating icy air. If you breathe at this temperature it may easily provoke rather serious burns.
-
-Until 2018, the cold temperature record was considered to be -89.2 °С, which was recorded at the Vostok research station in 1983 in Antarctica.
+Нещодавно ми вам розповідали про те, де знаходиться найспекотніше місце на планеті. Сьогодні ми готові розповісти, де ж на Землі найхолодніше.  
+  
+У 2018 році вчені зафіксували рекордно холодну температуру повітря: -98,6 °С. Зробити це вдалося на вершині льодового щита в східній частині Землі Королеви Мод в Антарктиді. Саме там розташовані западини глибиною від 2 до 4 метрів, в яких накопичується крижане повітря. Вдих при такій температурі призводить до досить серйозних опіків.  
+  
+До 2018 року холодним температурним рекордом вважався показник -89,2 °С, який був зафіксований на дослідницькій станції Схід в 1983 році в Антарктиці.
