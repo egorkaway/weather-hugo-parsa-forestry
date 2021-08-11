@@ -1,18 +1,17 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Tierra"]
 date = 2021-08-11T07:57:44Z
 description = ""
-draft = true
 image = "/images/ice_n.jpg"
-tags = ["Antarctica", "timeless"]
-title = "Coldest Place on Earth-(copy)"
+tags = ["Antártida", "siempre", "frío"]
+title = "Lugar más frío de Tierra"
 type = "post"
 url = ""
 
 +++
-Recently we’ve told you about the hottest place on the planet. Today we are ready to tell you where is the coldest one.
-
-In 2018, scientists got a record cold temperature: -98.6 °C. This was done in the eastern part of the Queen Maud Land in Antarctica. Several cracks from 2 to 4 meters deep are located there accumulating icy air. If you breathe at this temperature it may easily provoke rather serious burns.
-
-Until 2018, the cold temperature record was considered to be -89.2 °С, which was recorded at the Vostok research station in 1983 in Antarctica.
+Hace poco os contamos sobre la ubicación del lugar más caluroso del planeta. Hoy estamos listos para contaros dónde en la Tierra es el lugar más frío.  
+  
+En 2018, los científicos registraron una temperatura récord del aire frío: -98,6 °C. Esto se hizo en la parte oriental de la Tierra Queen Maud en la Antártida. Es allí donde se ubican depresiones de 2 a 4 metros de profundidad, en las que se acumula aire helado. La inhalación a esta temperatura provoca quemaduras bastante graves.  
+  
+Hasta 2018, se consideraba que el récord de temperatura fría era de -89,2 °С, que se registró en la estación de investigación Vostok en 1983 en la Antártida.
