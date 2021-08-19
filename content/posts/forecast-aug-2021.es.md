@@ -1,14 +1,13 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Tierra"]
 date = 2021-08-02T11:43:38Z
 description = ""
-draft = true
 image = "/images/cmip5-rcp85-ensavg-1mem_world-ced_t2_aug_2021_minus_1920-2022_cf.png"
-tags = ["2021", "climate", "August"]
-title = "Forecast: August 2021 compared to Augusts from 1920 to 2020-(copy)"
+tags = ["2021", "agosto"]
+title = "Pronóstico: agosto de 2021 en comparación con todos agostos del siglo anterior"
 type = "post"
 url = ""
 
 +++
-Here is how hot August 2021 is forecast compared to all August months from 1920 to 2020.
+Así es como se pronostica el calor de agosto de 2021 en comparación con todos los meses de agosto de 1920 a 2020.
