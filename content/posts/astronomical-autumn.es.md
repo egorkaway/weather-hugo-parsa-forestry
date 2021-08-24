@@ -1,11 +1,13 @@
 +++
-categories = []
-date = 2020-09-15T08:30:36Z
+aliases = ""
+categories = ["Tierra"]
+date = 2021-09-13T08:30:36Z
 description = ""
 image = "/images/fall_n.jpg"
 tags = ["septiembre"]
 title = "Otoño astronómico"
 type = "post"
+url = ""
 
 +++
 Esperando el otoño astronómico el 22 de septiembre.  
