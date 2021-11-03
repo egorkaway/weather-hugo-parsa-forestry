@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Sky"]
-date = 2020-11-04T21:00:00Z
+date = 2021-11-01T21:00:00Z
 description = ""
 image = "/images/meteor_.png"
 tags = ["Leonids", "November", "meteor"]
 title = "Leonid Meteor Shower"
 type = "post"
+url = ""
 
 +++
 Watching the Leonid meteor shower on November 16-18   
