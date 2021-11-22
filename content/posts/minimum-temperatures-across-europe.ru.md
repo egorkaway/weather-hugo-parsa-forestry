@@ -1,6 +1,6 @@
 +++
 categories = ["Земля"]
-date = 2020-12-29T21:00:00Z
+date = 2021-11-19T21:00:00Z
 image = "/images/minimum_europe_n.jpg"
 tags = ["Европа"]
 title = "Минимальные температуры в Европе"
