@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/the-shining-circle-around-the-sun-what-is-it"
 categories = ["Sky"]
-date = 2021-03-21T21:00:00Z
+date = 2021-12-07T21:00:00Z
 description = ""
 image = "/images/halo_.jpg"
 tags = ["Sun ", "Moon", "halo", "rainbow", "timeless"]
