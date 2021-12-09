@@ -17,5 +17,3 @@ If we were to rank the most beautiful atmospheric phenomena, we would definitely
 What are the reasons for the polar lights? They are caused by the charged little particles from the solar wind which start moving in the planet's magnetic field. As a result, the upper layers of the atmosphere begin to glow, and the inhabitants of the Earth get the opportunity to see a grand spectacle.  
   
 Have you ever seen the polar lights?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xRBH6rm_bks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
