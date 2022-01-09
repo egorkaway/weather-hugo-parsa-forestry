@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Sky"]
-date = 2021-11-30T20:00:00Z
+date = 2021-11-28T20:00:00Z
 description = ""
 image = "/images/polar_.png"
 tags = ["Alaska", "Canada", "Iceland", "Scandinavia", "Russia", "September", "October ", "November ", "December ", "February ", "March"]
