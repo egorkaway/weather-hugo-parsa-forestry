@@ -4,3 +4,9 @@
 
 [build.environment]
   HUGO_VERSION = "0.74.3"
+
+[[redirects]]
+  from = "https://weather-gizmo.com"
+  to = "https://weather-aware.com"
+  status = 301
+  force = true
