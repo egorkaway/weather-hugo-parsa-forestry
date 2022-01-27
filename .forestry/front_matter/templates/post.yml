@@ -38,7 +38,7 @@ fields:
     required: false
   label: url
 pages:
-- content/posts/2022-temperatures-forecast-compared-with-1920-to-2020.md
+- content/posts/2022-temperatures-1920-to-2020.md
 - content/posts/a-soundtrack-for-any-weather.md
 - content/posts/april-2021-compared-to-aprils-from-1920-to-2020.md
 - content/posts/aquarids-starfall.md
