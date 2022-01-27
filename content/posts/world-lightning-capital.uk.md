@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Небо"]
-date = 2021-03-25T21:00:00Z
+date = 2022-01-04T21:00:00Z
 description = ""
 image = "/images/bolt_.png"
 tags = []
 title = "Світова столиця блискавок"
 type = "post"
+url = ""
 
 +++
 Чи знаєте ви, де знаходиться «Світова столиця блискавок»?  
