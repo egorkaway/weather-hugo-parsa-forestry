@@ -19,3 +19,5 @@ La mayor concentración de relámpagos, más de un millón al año, se observa e
 La razón de este concentrado de relámpagos radica en la proximidad del lago a las montañas. Las montañas no dejan pasar el viento y, por lo tanto, la evaporación de la superficie del lago se convierte en grandes nubes gruesas y verticales, en las que se forman los relámpagos.  
   
 Un lugar único, estáis de acuerdo? Sorprendentemente hermoso, pero peligroso a la vez.
+
+    {{< youtube Zs1JZoyeOpY >}}
