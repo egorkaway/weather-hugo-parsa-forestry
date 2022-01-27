@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Tierra"]
-date = 2021-07-15T11:43:38Z
+date = 2021-07-02T11:43:38Z
 description = ""
 image = "/images/cmip5-rcp85-ensavg-1mem_world-ced_t2_jul_2021_minus_1920-2020_af.png"
 tags = ["2021", "calor", "clima"]
