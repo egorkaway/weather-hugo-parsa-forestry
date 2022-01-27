@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = []
+categories = ["Tierra"]
 date = 2022-01-27T14:34:20Z
 description = ""
 image = "/images/2022-climate.png"
