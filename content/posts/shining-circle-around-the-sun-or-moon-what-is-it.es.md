@@ -1,6 +1,6 @@
 +++
 categories = ["Cielo"]
-date = 2021-03-21T21:00:00Z
+date = 2021-11-03T21:00:00Z
 image = "/images/halo_.jpg"
 tags = ["halo", "Sol", "Luna", "siempre"]
 title = "El círculo brillante alrededor del sol: ¿qué es?"
