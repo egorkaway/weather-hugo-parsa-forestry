@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Земля"]
-date = 2021-08-11T07:57:44Z
+date = 2022-01-18T08:57:44Z
 description = ""
 image = "/images/ice_n.jpg"
 tags = ["Антарктида", "всегда "]
