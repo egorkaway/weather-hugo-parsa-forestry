@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Небо"]
-date = 2021-03-25T21:00:00Z
+date = 2021-12-24T21:00:00Z
 description = ""
 image = "/images/bolt_.png"
 tags = ["молния ", "всегда"]
 title = "Мировая столица молний"
 type = "post"
+url = ""
 
 +++
 Знаете ли вы, где находится «Мировая столица молний»?   
