@@ -1,6 +1,6 @@
 +++
 categories = ["Небо"]
-date = 2021-04-03T21:00:00Z
+date = 2021-12-02T22:00:00Z
 description = ""
 image = "/images/hur_n.jpg"
 tags = ["США"]
