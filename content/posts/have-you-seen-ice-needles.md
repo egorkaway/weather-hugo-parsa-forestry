@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Earth"]
-date = 2020-12-15T21:00:00Z
+date = 2021-12-14T21:00:00Z
 description = ""
 image = "/images/ice_.png"
 tags = ["ice ", "snow ", "Siberia", "timeless"]
