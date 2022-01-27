@@ -9,3 +9,4 @@
   from = "https://weather-gizmo.com/*"
   to = "https://weather-aware.com/ :splat"
   status = 301
+  force = true
