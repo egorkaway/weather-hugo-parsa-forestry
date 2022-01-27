@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/underwater-ice"
 categories = ["Earth"]
-date = 2020-12-12T21:00:00Z
+date = 2021-11-26T21:00:00Z
 description = ""
 image = "/images/bubble_ice_n.jpg"
 tags = ["Canada", "Siberia", "Arctic", "Russia", "timeless "]
