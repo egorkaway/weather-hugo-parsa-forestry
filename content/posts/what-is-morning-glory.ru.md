@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Небо"]
-date = 2021-06-25T10:13:01Z
+date = 2021-10-13T10:13:01Z
 description = ""
 image = "/images/glory_n.png"
 tags = ["облака"]
