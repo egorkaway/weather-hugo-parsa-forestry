@@ -5,10 +5,10 @@ languageCode: en-us
 languages:
   en:
     languageName: English
-    weight: '1'
+    weight: "1"
   es:
     languageName: Spanish
-    weight: '2'
+    weight: "2"
     logo: images/weather_es_w.png
     title: Tiempo y Clima presentados por Weather & Climate Tracker
     address_title: Donde
@@ -20,7 +20,7 @@ languages:
     description: Trivia meteorológica para el mundo que está cambiando
   ru:
     languageName: Russian
-    weight: '3'
+    weight: "3"
     logo: images/weather_ru_w.png
     address: Минск / Киев / Несвиж
     title: 'Погода и Климат: сайт от Weather & Climate Tracker'
@@ -29,7 +29,7 @@ languages:
     contact_info: Контакты
     follow: Социальные сети
     previous: "« Вперёд"
-    next: "Назад »"
+    next: Назад »
     post_by: Опубликовано
     latest_post: Последние материалы
     tag: Тег
@@ -39,13 +39,13 @@ languages:
     post_available_in: Пост также доступен на следующих языках
     menu:
       main:
-      - URL: /ru/about/
-        name: "О&nbsp;Сайте"
-        weight: 1
+      - URL: "/ru/about/"
+        name: О&nbsp;Сайте
+        weight: "1"
   uk:
     languageName: Ukranian
     logo: images/weather_ru_w.png
-    weight: '4'
+    weight: "4"
     follow: Мережи
     address: Мінськ / Київ / Несвіж
     title: 'Погода і Клімат: сайт від Weather & Climate Tracker'
@@ -53,7 +53,7 @@ languages:
     address_title: Де
     contact_info: Контакти
     previous: "« Вперед"
-    next: "Назад »"
+    next: Назад »
     post_by: Опубліковано
     latest_post: Останні матеріали
     tags: Теги
@@ -64,7 +64,7 @@ languages:
   be:
     languageName: Belarusian
     logo: images/weather_by.png
-    weight: '5'
+    weight: "5"
     address: Мiнск / Нясвиж
     title: 'Пагода ды Клiмат: сайт ад Weather & Climate Tracker'
     read_more: Далей...
@@ -72,7 +72,7 @@ languages:
     contact_info: Кантакты
     follow: Сацыяльныя сеткi
     previous: "« Наперад"
-    next: "У мiнулае »"
+    next: У мiнулае »
     post_by: Апублiкавана
     latest_post: Апошнiя матерыялы
     tags: Тегi
@@ -95,8 +95,8 @@ module:
       target: assets/images
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '39'
-paginate: '12'
+summaryLength: "39"
+paginate: "12"
 outputs:
   home:
   - HTML
@@ -125,17 +125,17 @@ params:
   baseURL: https://weather-aware.com
   logo: images/weather_a.png
   home: Home
-  layout: '1'
+  layout: "1"
   description: Weather trivia for the changing world
   preloader: false
   search: false
-  author: Weather & Climate 
+  author: Weather & Climate
   author_image: images/weather_logo.png
   bio: Weather trivia for the changing world
   email: i@adekvat.us
-  address: Minsk / Kyiv / Nesvizh 
+  address: Minsk / Kyiv / Nesvizh
   contact_form_action: "#"
-  google_analitycs_id: G-5QEGHYVE5K
+  google_analitycs_id: G-2MM99C5XVJ
   copyright: "&copy; 2021"
   read_more: Read more
   address_title: Where
@@ -162,4 +162,4 @@ menu:
   main:
   - URL: about
     name: About
-    weight: 1
+    weight: "1"
