@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/fog-what-is-it-and-why-does-it-appear"
 categories = ["Sky"]
-date = 2022-01-17T21:00:00Z
+date = 2022-03-09T21:00:00Z
 description = ""
 image = "/images/fog_.png"
 tags = ["fog", "Dubai", "Florida", "timeless"]
