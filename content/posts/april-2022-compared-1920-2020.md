@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Earth"]
-date = 2022-04-01T10:05:35Z
+date = 2022-03-25T10:05:35Z
 description = ""
 image = "/images/en-apr-tiempo-y-clima.png"
 tags = ["april ", "2022 ", "climate "]
