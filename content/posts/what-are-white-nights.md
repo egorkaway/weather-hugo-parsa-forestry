@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Sky"]
-date = 2021-05-08T10:16:42Z
+date = 2022-05-01T10:16:42Z
 description = ""
 image = "/images/white_n.png"
 tags = ["May", "July", "June", "Estonia", "USA", "Canada", "Russia", "Finland", "Iceland", "Scandinavia"]
 title = "What are «White Nights»?"
 type = "post"
+url = ""
 
 +++
 What are «White Nights»?
