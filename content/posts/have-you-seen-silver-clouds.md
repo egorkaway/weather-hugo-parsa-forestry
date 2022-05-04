@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/silver-clouds"
 categories = ["Sky"]
-date = 2021-05-13T21:00:00Z
+date = 2022-05-02T21:00:00Z
 description = ""
 image = "/images/silver_.jpg"
 tags = ["Europe", "Canada", "Russia", "clouds", "July", "June ", "May "]
