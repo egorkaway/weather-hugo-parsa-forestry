@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Sky"]
-date = 2021-04-19T21:00:00Z
+date = 2022-05-03T21:00:00Z
 description = ""
 image = "/images/meteor_n.jpg"
 tags = ["Aquarids", "May", "April", "meteor", "astronomy"]
 title = "Aquarids Starfall"
 type = "post"
+url = ""
 
 +++
 In the first dates of May we will be able to watch the Aquarids Starfall. The peak of its activity will be on May 6-7, but overall the shower is visible from about April 19 to about May 28 each year.
