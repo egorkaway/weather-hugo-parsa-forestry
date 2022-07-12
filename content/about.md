@@ -3,7 +3,7 @@ title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: We are here to build a weather service relevant for the 2020ies and 21
   century.
-image: "/images/egor-kunovsky-1cpf9j__9jg-unsplash.jpg"
+image: "/images/tbilisi-unsplash.jpg"
 
 ---
 As long as one spends any time outside knowing what weather is coming your way is a basic need.
