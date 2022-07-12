@@ -22,4 +22,10 @@ Thus, we are here to build a weather service relevant for the 2020ies and 21 cen
 
 \~ [Twitter account](https://twitter.com/gizmoweather) that definitely has more content.
 
-\~ [iOS app by AppsTea](https://appstea.com/blog/weather-and-climate-tracker/ "Weather & Climate Tracker by AppsTea")
+\~ [iOS app](https://appstea.com/blog/weather-and-climate-tracker/ "Weather & Climate Tracker")
+
+### How to find us:
+
+Weather Maps LLC
+Samgori district, Akaki Phagava str., 27B, Tbilisi, Georgia, 0182
++995 591 92 38 24
