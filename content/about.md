@@ -27,5 +27,7 @@ Thus, we are here to build a weather service relevant for the 2020ies and 21 cen
 ### How to find us:
 
 Weather Maps LLC
+
 Samgori district, Akaki Phagava str., 27B, Tbilisi, Georgia, 0182
+
 +995 591 92 38 24
