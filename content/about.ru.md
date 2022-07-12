@@ -17,8 +17,14 @@ image: "/images/egor-kunovsky-1cpf9j__9jg-unsplash.jpg"
 
 ~ Наш сайт
 
-~ [Страница Facebook](https://www.facebook.com/weathergizmo/ "Weather Gizmo @ Facebook"), на которой будут появляться те же статьи и другие публикации
-
 ~ [Наш Твиттер](https://twitter.com/gizmoweather), где вы найдете больше контента
 
-~ [Приложение для iOS](https://appstea.com/blog/weather-and-climate-tracker/ "Weather & Climate Tracker by AppsTea")
+~ [Приложение для iOS](https://appstea.com/blog/weather-and-climate-tracker/ "Weather & Climate Tracker")
+
+### Как нас найти:
+
+Weather Maps LLC
+
+Samgori district, Akaki Phagava str., 27B, Tbilisi, Georgia, 0182
+
++995 591 92 38 24
