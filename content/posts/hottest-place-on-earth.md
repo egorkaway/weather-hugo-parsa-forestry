@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Earth"]
-date = 2021-07-29T14:50:00Z
+date = 2022-07-04T14:50:00Z
 description = ""
 image = "/images/hot_n.jpg"
 tags = ["heat", "Iran"]
