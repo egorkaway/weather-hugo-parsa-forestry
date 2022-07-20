@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Earth"]
-date = 2021-03-25T21:00:00Z
+date = 2022-03-11T21:00:00Z
 description = ""
 image = "/images/tsu_.jpg"
 tags = ["earthquake", "tsunami", "Alaska", "timeless"]
