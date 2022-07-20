@@ -1,7 +1,7 @@
 +++
 aliases = "lenticular-clouds"
 categories = ["Sky"]
-date = 2021-03-11T21:00:00Z
+date = 2022-04-04T20:00:00Z
 description = ""
 image = "/images/lenticular_n.png"
 tags = ["USA", "Kamchatka", "Japan", "clouds", "timeless"]
