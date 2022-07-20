@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Earth"]
-date = 2021-04-11T21:00:00Z
+date = 2022-06-08T21:00:00Z
 description = ""
 image = "/images/mirage_.jpg"
 tags = ["mirage", "timeless"]
 title = "What is Mirage?"
 type = "post"
+url = ""
 
 +++
 What is a mirage and where does it come from?  
