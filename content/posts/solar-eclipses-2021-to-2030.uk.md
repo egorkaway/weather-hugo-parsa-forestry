@@ -1,16 +1,15 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Небо"]
 date = 2022-08-25T09:10:19Z
 description = ""
-draft = true
 image = "/images/seworldmap2021w.jpg"
-tags = ["eclipse "]
-title = "Solar Eclipses: 2021 to 2030-(copy)"
+tags = ["Затемнення"]
+title = "Сонячні затемнення: з 2021 по 2030 рік"
 type = "post"
 url = ""
 
 +++
-Solar Eclipses Around the Globe from 2021 to 2030.
+Сонячні затемнення в усьому світі з 2021 по 2030 рік.
 
-(Source: [eclipsewise.com](https://href.li/?http://eclipsewise.com/solar/solar.html "eclipsewise.com"))
+(Джерело: eclipsewise.com)
