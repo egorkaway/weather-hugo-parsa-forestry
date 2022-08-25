@@ -1,16 +1,15 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = ["Cielo"]
 date = 2022-08-25T09:10:19Z
 description = ""
-draft = true
 image = "/images/seworldmap2021w.jpg"
 tags = ["eclipse "]
-title = "Solar Eclipses: 2021 to 2030-(copy)"
+title = "Eclipses solares: 2021 a 2030"
 type = "post"
 url = ""
 
 +++
-Solar Eclipses Around the Globe from 2021 to 2030.
+Eclipses solares alrededor del mundo desde 2021-2040.
 
-(Source: [eclipsewise.com](https://href.li/?http://eclipsewise.com/solar/solar.html "eclipsewise.com"))
+(Fuente: eclipsewise.com)
