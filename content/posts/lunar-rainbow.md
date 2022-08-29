@@ -12,7 +12,7 @@ url = ""
 +++
 Did you know that apart from the usual rainbow, there is also a lunar one?
 
-Lunar (or night) rainbows are really rare. And the reason is an exact combination of obligatory factors that must coincide in order for a lunar rainbow to appear in the night sky.
+Lunar (or night) rainbows are really rare. The reason is an exact combination of obligatory factors that must coincide in order for a lunar rainbow to appear in the night sky.
 
 What are these factors?
 
