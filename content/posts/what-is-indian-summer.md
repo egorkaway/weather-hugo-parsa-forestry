@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/what-is-indian-summer-and-when-does-it-happen"
 categories = ["Earth"]
-date = 2021-09-06T21:00:00Z
+date = 2022-09-01T21:00:00Z
 description = ""
 image = "/images/summer_.jpg"
 tags = ["Russia", "Ukraine", "Belarus", "Germany", "Bulgaria", "France ", "USA", "Azores", "Atlantic", "September", "October", "November", "Europe"]
