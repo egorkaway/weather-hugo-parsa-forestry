@@ -1,14 +1,14 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Земля"]
 date = 2021-07-19T08:33:45Z
 description = ""
-draft = true
 image = "/images/hottest.png"
-tags = ["Europe", "climate "]
-title = "Hottest in Europe-(copy)"
+tags = ["Европа ", "климат "]
+title = "Температурные рекорды в Европе"
 type = "post"
 url = ""
 
 +++
-Hottest temperatures ever recorded in Europe.
+Самые высокие температуры по наблюдениям в Европе.   
+Интересно, сколько из этих рекордов продержится до конца года. 
