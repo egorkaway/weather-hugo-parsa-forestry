@@ -80,9 +80,6 @@ languages:
     categories: Категорыi
     category: Категорыя
     post_available_in: Гэты пост таксама ёсць на наступных мовах
-   pt:
-    languageName: Portugues
-    weight: "6" 
 title: 'Weather and Climate: a site by Weather & Climate Tracker'
 module:
   imports:
