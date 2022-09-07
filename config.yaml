@@ -10,7 +10,7 @@ languages:
     languageName: Spanish
     weight: "2"
     logo: images/weather_es_w.png
-    title: Tiempo y Clima presentados por Weather & Climate Tracker
+    title: Tiempo y Clima presentados por Weather & Climate Tracker App
     address_title: Donde
     follow: Redes
     categories: Categorias
