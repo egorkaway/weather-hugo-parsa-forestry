@@ -6,6 +6,9 @@ languages:
   en:
     languageName: English
     weight: "1"
+  pt:
+    languageName: Portuguese
+    weight: "6"
   es:
     languageName: Spanish
     weight: "2"
