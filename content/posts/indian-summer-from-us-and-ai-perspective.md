@@ -22,4 +22,6 @@ Back home, farmers blamed "old women" for bad weather. But they would get relief
 
 But enough with all this old-woman business. What are the meteorological explanations for Indian summer? You need three conditions.
 
-First, the ground needs to be cool but not freezing yet. Second, the frigid air of winter needs to be on its way but not there yet. And third, an air mass that has been hanging over Canada needs to make its way down south. 
+* First, the ground needs to be cool but not freezing yet. 
+* Second, the frigid air of winter needs to be on its way but not there yet. 
+* And third, an air mass that has been hanging over Canada needs to make its way down south.
