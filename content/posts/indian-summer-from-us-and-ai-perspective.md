@@ -5,7 +5,7 @@ date = 2021-09-11T07:38:29Z
 description = ""
 image = "/images/summer_.jpg"
 tags = ["Germany", " USA ", "September ", "October ", "Canada ", "AI"]
-title = "Indian summer from US (and AI) perspective. "
+title = "Indian summer from US (and AI) perspective"
 type = "post"
 url = ""
 
