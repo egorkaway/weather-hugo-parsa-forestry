@@ -83,7 +83,6 @@ languages:
    pt:
     languageName: Portugues
     weight: "6" 
-   
 title: 'Weather and Climate: a site by Weather & Climate Tracker'
 module:
   imports:
