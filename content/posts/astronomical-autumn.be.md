@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Неба"]
-date = 2022-08-31T08:30:36Z
+date = 2022-09-13T08:30:36Z
 description = ""
 image = "/images/fall_n.jpg"
 tags = ["верасень", "восень"]
