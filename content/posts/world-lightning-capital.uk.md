@@ -1,9 +1,9 @@
 +++
 aliases = ""
 categories = ["Небо"]
-date = 2022-01-04T21:00:00Z
+date = 2022-09-15T20:00:00Z
 description = ""
-image = "/images/bolt_.png"
+image = "/images/ai-2.png"
 tags = []
 title = "Світова столиця блискавок"
 type = "post"
