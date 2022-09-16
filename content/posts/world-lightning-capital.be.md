@@ -1,9 +1,9 @@
 +++
 aliases = ""
 categories = ["Неба"]
-date = 2021-03-25T21:00:00Z
+date = 2022-09-14T20:00:00Z
 description = ""
-image = "/images/bolt_.png"
+image = "/images/ai-2.png"
 tags = ["маланка", "Венесуэла", "заўжды"]
 title = "Сусветная сталіца маланак"
 type = "post"
