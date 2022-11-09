@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Неба"]
-date = 2021-02-07T21:00:00Z
+date = 2022-11-07T21:00:00Z
 description = ""
 image = "/images/polar_.png"
 tags = ["Канада", "сакавік"]
