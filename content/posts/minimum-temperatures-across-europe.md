@@ -1,6 +1,6 @@
 +++
 categories = ["Earth"]
-date = 2021-09-30T23:00:00Z
+date = 2022-11-08T00:00:00Z
 description = ""
 image = "/images/minimum_europe_n.jpg"
 tags = ["Europe"]
