@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/zombie-fires"
 categories = ["Earth"]
-date = 2021-06-15T20:00:00Z
+date = 2022-10-12T20:00:00Z
 description = ""
 image = "/images/fire.jpg"
 tags = ["Canada", "Russia", "Greenland", "Alaska", "Arctic", "fire"]
