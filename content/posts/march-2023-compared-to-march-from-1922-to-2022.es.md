@@ -1,12 +1,11 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Tierra"]
 date = 2023-03-01T10:27:13Z
 description = ""
-draft = true
-image = "/images/article-2023-march.png"
-tags = ["climate", "2023", "March"]
-title = "March 2023 compared to March from 1922 to 2022.es"
+image = "/images/article-2023-march-es.png"
+tags = ["2023", "clima", "marzo"]
+title = " Marzo 2023 comparado con marzo de 1922 a 2022"
 type = "post"
 url = ""
 
