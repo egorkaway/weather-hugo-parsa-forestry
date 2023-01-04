@@ -1,12 +1,11 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Tierra"]
 date = 2023-10-01T11:14:07Z
 description = ""
-draft = true
-image = "/images/article-2023-october.png"
-tags = ["climate", "2023", "October"]
-title = "October 2023 compared to October from 1922 to 2022.es"
+image = "/images/article-2023-october-es.png"
+tags = ["2023", "clima", "Octubre"]
+title = "Octubre de 2023 en comparación con octubre de 1922 a 2022"
 type = "post"
 url = ""
 
