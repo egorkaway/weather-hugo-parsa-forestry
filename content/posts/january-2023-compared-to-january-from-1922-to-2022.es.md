@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = []
+categories = ["Tierra"]
 date = 2023-01-03T10:00:00Z
 description = ""
 image = "/images/article-2023-january-es.png"
