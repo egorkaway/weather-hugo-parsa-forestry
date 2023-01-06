@@ -1,12 +1,11 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Земля"]
 date = 2022-12-28T09:56:01Z
 description = ""
-draft = true
-image = "/images/article-2023-world.png"
-tags = ["Climate", "2023"]
-title = "2023 Temperatures Forecast, Compared With 1922 to 2022.uk"
+image = "/images/article-2023-world-uk.png"
+tags = ["2023", "клiмат", "мир"]
+title = "Прогноз температури на 2023 рік у порівнянні з 1922-2022 роками"
 type = "post"
 url = ""
 
