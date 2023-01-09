@@ -3,10 +3,9 @@ aliases = ""
 categories = ["Земля"]
 date = 2023-01-03T10:00:00Z
 description = ""
-draft = true
-image = "/images/article-2023-january-ua.png"
-tags = ["2023", "січень", "клiмат"]
-title = "Січень 2023 року у порівнянні з січнем 1922-2022 років"
+image = "/images/article-2023-august-ua.png"
+tags = ["2023", "клiмат", "серпень"]
+title = "Серпень 2023 року порівняно із серпневими місяцями 1922-2022 років"
 type = "post"
 url = ""
 
