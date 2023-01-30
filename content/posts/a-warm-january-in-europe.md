@@ -5,7 +5,7 @@ date = 2023-01-30T07:25:51Z
 description = ""
 image = "/images/record-1.png"
 tags = ["climate", "record", "2023", "January ", "Europe"]
-title = "A warm January in Europe"
+title = "Warm January in Europe"
 type = "post"
 url = ""
 
