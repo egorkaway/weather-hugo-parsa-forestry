@@ -6,7 +6,7 @@ description = ""
 draft = true
 image = "/images/ocean.png"
 tags = ["Océano", "clima"]
-title = "Los océanos se están calentando a un ritmo alarmante. "
+title = "Los océanos se están calentando a un ritmo alarmante"
 type = "post"
 url = ""
 
