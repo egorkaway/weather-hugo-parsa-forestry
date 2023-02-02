@@ -1,6 +1,6 @@
 +++
 categories = ["Земля"]
-date = 2021-03-12T23:00:00Z
+date = 2022-01-03T23:00:00Z
 description = ""
 image = "/images/sand_n.png"
 tags = ["Африкa", "Америка", "США", "Сахара", "Амазонка"]
