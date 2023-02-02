@@ -25,7 +25,7 @@ languages:
     languageName: Russian
     weight: "3"
     logo: images/weather_ru_w.png
-    address: Минск / Киев / Несвиж
+    address: Варшава / Батуми / Порту / Киев 
     title: 'Погода и Климат: сайт от Weather & Climate Tracker'
     read_more: Дальше...
     address_title: Где
@@ -50,7 +50,7 @@ languages:
     logo: images/weather_ru_w.png
     weight: "4"
     follow: Мережи
-    address: Мінськ / Київ / Несвіж
+    address: Київ / Несвіж / Порту 
     title: 'Погода і Клімат: сайт від Weather & Climate Tracker'
     read_more: Далi...
     address_title: Де
@@ -68,7 +68,7 @@ languages:
     languageName: Belarusian
     logo: images/weather_by.png
     weight: "5"
-    address: Мiнск / Нясвиж
+    address: Порту / Нясвiж
     title: 'Пагода ды Клiмат: сайт ад Weather & Climate Tracker'
     read_more: Далей...
     address_title: Дзе
