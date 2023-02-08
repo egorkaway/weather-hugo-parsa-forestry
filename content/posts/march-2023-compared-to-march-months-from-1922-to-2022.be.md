@@ -1,12 +1,11 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Зямля"]
 date = 2023-03-01T10:27:13Z
 description = ""
-draft = true
-image = "/images/article-2023-march.png"
-tags = ["climate", "2023", "March"]
-title = "March 2023 compared to March months from 1922 to 2022.be"
+image = "/images/article-2023-march-by.png"
+tags = ["2023", "клiмат", "Сакавік"]
+title = "Сакавік 2023 года ў параўнанні з сакавіцкімі месяцамі з 1922 па 2022 год"
 type = "post"
 url = ""
 
