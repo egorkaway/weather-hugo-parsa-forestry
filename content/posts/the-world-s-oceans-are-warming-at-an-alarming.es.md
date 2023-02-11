@@ -3,10 +3,9 @@ aliases = ""
 categories = ["Agua"]
 date = 2023-01-31T07:20:18Z
 description = ""
-draft = true
 image = "/images/ocean.png"
 tags = ["Océano", "clima"]
-title = "Los océanos se están calentando a un ritmo alarmante"
+title = "Océanos se están calentando a un ritmo alarmante"
 type = "post"
 url = ""
 
