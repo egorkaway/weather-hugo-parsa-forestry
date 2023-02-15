@@ -6,7 +6,7 @@ description = ""
 draft = true
 image = "/images/the-patagonian-glacier.png"
 tags = ["climate", "glacier"]
-title = "UNESCO-listed glaciers at risk of disappearing by mid-century "
+title = "UNESCO-listed Glaciers at Risk of Disappearing by Mid-century "
 type = "post"
 url = ""
 
