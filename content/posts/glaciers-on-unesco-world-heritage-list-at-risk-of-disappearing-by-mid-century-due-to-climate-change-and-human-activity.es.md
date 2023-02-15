@@ -18,6 +18,4 @@ Otros glaciares de la Lista del Patrimonio Mundial de la UNESCO amenazados son e
   
 La desaparición de estos glaciares tendrá graves consecuencias, como el empeoramiento de la calidad del agua, el descenso del nivel de los ríos, el aumento del nivel del mar y el cambio de las condiciones climáticas. Además, muchos ecosistemas que dependen de estos glaciares podrían quedar destruidos, lo que provocaría una reducción de la biodiversidad y amenazaría a las comunidades y economías locales.  
   
-Los glaciares desempeñan un papel crucial en el ecosistema del planeta y proporcionan una fuente de agua dulce para millones de personas. Es imperativo que tomemos medidas para hacer frente al cambio climático y reducir nuestro impacto sobre el medio ambiente para evitar la pérdida de estos preciosos recursos.  
-  
-[Translated with DeepL](https://www.deepl.com/translator?utm_source=macos&utm_medium=app&utm_campaign=macos-share)
+Los glaciares desempeñan un papel crucial en el ecosistema del planeta y proporcionan una fuente de agua dulce para millones de personas. Es imperativo que tomemos medidas para hacer frente al cambio climático y reducir nuestro impacto sobre el medio ambiente para evitar la pérdida de estos preciosos recursos.
