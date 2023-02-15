@@ -5,7 +5,7 @@ date = 2023-02-15T09:04:00Z
 description = ""
 image = "/images/the-patagonian-glacier.png"
 tags = ["climate", "glacier"]
-title = "Glaciers on UNESCO World Heritage List at Risk of Disappearing by Mid-Century Due to Climate Change and Human Activity"
+title = "UNESCO-listed Glaciers at Risk of Disappearing by Mid-Century Due to Climate Change and Human Activity"
 type = "post"
 url = ""
 
