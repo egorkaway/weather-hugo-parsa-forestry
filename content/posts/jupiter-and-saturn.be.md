@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Неба"]
-date = 2020-05-02T21:00:00Z
+date = 2021-03-02T22:00:00Z
 description = ""
 image = "/images/saturn_n.png"
 tags = ["2020", "Юпітэр", "Сатурн", "Травень"]
