@@ -3,7 +3,6 @@ aliases = ""
 categories = ["water"]
 date = 2023-02-15T09:04:00Z
 description = ""
-draft = true
 image = "/images/the-patagonian-glacier.png"
 tags = ["climate", "glacier"]
 title = "UNESCO-listed Glaciers at Risk of Disappearing by Mid-century "
