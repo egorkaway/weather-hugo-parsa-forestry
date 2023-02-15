@@ -5,7 +5,7 @@ date = 2023-02-15T09:04:00Z
 description = ""
 image = "/images/the-patagonian-glacier.png"
 tags = ["clima", "glaciar"]
-title = "Los glaciares incluidos en la lista de la UNESCO corren el riesgo de desaparecer a mediados de siglo debido al cambio climático y a la actividad humana"
+title = "Los glaciares de la UNESCO corren el riesgo de desaparecer a mediados de siglo "
 type = "post"
 url = ""
 
