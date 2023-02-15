@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = ["EARTH"]
+categories = ["Earth"]
 date = 2023-01-30T07:25:51Z
 description = ""
 image = "/images/record-1.png"
