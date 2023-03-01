@@ -1,20 +1,19 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["зямля"]
 date = 2023-03-01T09:51:35Z
 description = ""
-draft = true
 image = "/images/meteorological-vs-astronomical-spring01.png"
-tags = ["spring", "March", "Equinox", "September ", "sun"]
-title = "Meteorological vs Astronomical Spring.be"
+tags = ["вясна", "сонца", "верасень", "сакавік", "эквінокс"]
+title = "Метеаралагічная вясна і астранамічная вясна"
 type = "post"
 url = ""
 
 +++
-Meteorological Spring and Astronomical Spring are two ways of defining the start of spring, but they are based on different criteria.
+Метеаралагічная вясна і Астранамічная вясна - гэта два спосабы вызначэння пачатку вясны, якія аснованы на розных крытэрыях.
 
-Meteorological Spring refers to the three calendar months of March, April, and May in the Northern Hemisphere (or September, October, and November in the Southern Hemisphere). These months are considered to be spring because they generally have milder temperatures and more rainfall than the preceding winter months, and the days start to become longer.
+Метеаралагічная вясна адносіцца да трох месяцаў календарнага месяца - сакавіка, красавіка і мая ў Паўночнай палушар'і (або верасня, кастрычніка і лістапада ў Паўднёвай палушар'і). Гэтыя месяцы лічацца вясной, таму што яны, як правіла, маюць мякшыя тэмпературы і большую колькасць ападкаў, чым папярэднія зімовыя месяцы, і дні пачынаюць станавіцца доўшымі.
 
-Astronomical Spring, on the other hand, is based on the position of the Earth in relation to the sun. It is defined as the moment when the sun crosses the equator and day and night are of equal length. This event, known as the Vernal Equinox, usually occurs around March 20th in the Northern Hemisphere (or September 22nd in the Southern Hemisphere).
+Астранамічная вясна, з іншага боку, аснована на пазіцыі Зямлі ў адносінах да сонца. Яна вызначаецца момантам, калі сонца пераходзіць экватор, і дзень і ноч супадаюць па даўжыні. Гэтае падзея, вядомае як вясенні эквінокс, звычайна адбываецца каля 20 сакавіка ў Паўночнай палушар'і (або 22 верасня ў Паўднёвай палушар'і).
 
-While Meteorological Spring is more closely tied to weather patterns and seasonal changes, Astronomical Spring is a celestial event that is fixed in time and based on the position of the Earth in relation to the sun.
+Хоць Метеаралагічная вясна цесней звязана з патэрнамі надвор'я і сезоннымі зменамі, Астранамічная вясна - гэта небеснае падзея, якае зафіксавана ў часе і аснована на пазіцыі Зямлі ў адносінах да сонца.
