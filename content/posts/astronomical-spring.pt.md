@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = []
-date = 2023-03-01T21:00:00Z
+date = 2023-02-28T21:00:00Z
 description = ""
 image = "/images/spring_n.png"
 tags = ["equinócio", "março", "sol", "primavera"]
