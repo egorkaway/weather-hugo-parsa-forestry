@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Зямля"]
-date = 2021-03-09T21:00:00Z
+date = 2023-02-28T21:00:00Z
 description = ""
 image = "/images/giant_n.jpg"
 tags = ["заўжды", "Ірландыя"]
