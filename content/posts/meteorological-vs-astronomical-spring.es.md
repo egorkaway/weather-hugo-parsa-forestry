@@ -1,20 +1,19 @@
 +++
 aliases = ""
-categories = ["Earth"]
+categories = ["Tierra"]
 date = 2023-03-01T09:51:35Z
 description = ""
-draft = true
 image = "/images/meteorological-vs-astronomical-spring01.png"
-tags = ["spring", "March", "Equinox", "September ", "sun"]
-title = "Meteorological vs Astronomical Spring-(copy)"
+tags = ["septiembre", "marzo", "primavera"]
+title = "Primavera meteorológica y primavera astronómica"
 type = "post"
 url = ""
 
 +++
-Meteorological Spring and Astronomical Spring are two ways of defining the start of spring, but they are based on different criteria.
+La primavera meteorológica y la primavera astronómica son dos formas de definir el comienzo de la primavera, pero se basan en criterios diferentes.
 
-Meteorological Spring refers to the three calendar months of March, April, and May in the Northern Hemisphere (or September, October, and November in the Southern Hemisphere). These months are considered to be spring because they generally have milder temperatures and more rainfall than the preceding winter months, and the days start to become longer.
+La primavera meteorológica se refiere a los tres meses naturales de marzo, abril y mayo en el hemisferio norte (o septiembre, octubre y noviembre en el hemisferio sur). Estos meses se consideran primaverales poque suelen tener temperaturas más suaves y más precipitaciones que los meses de invierno precedentes, y los días empiezan a ser más largos.
 
-Astronomical Spring, on the other hand, is based on the position of the Earth in relation to the sun. It is defined as the moment when the sun crosses the equator and day and night are of equal length. This event, known as the Vernal Equinox, usually occurs around March 20th in the Northern Hemisphere (or September 22nd in the Southern Hemisphere).
+La primavera astronómica, por su parte, se basa en la posición de la Tierra con respecto al Sol. Se define como el momento en que el sol cruza el ecuador y el día y la noche tienen la misma duración. Este acontecimiento, conocido como Equinoccio Vernal, suele producirse en torno al 20 de marzo en el hemisferio norte (o el 22 de septiembre en el hemisferio sur).
 
-While Meteorological Spring is more closely tied to weather patterns and seasonal changes, Astronomical Spring is a celestial event that is fixed in time and based on the position of the Earth in relation to the sun.
+Mientras que la primavera meteorológica está más estrechamente ligada a los patrones meteorológicos y a los cambios estacionales, la primavera astronómica es un acontecimiento celeste fijo en el tiempo y basado en la posición de la Tierra con respecto al Sol.
