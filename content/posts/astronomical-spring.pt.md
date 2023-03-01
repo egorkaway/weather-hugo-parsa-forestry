@@ -1,18 +1,19 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2023-02-27T21:00:00Z
+categories = []
+date = 2023-03-01T21:00:00Z
 description = ""
-draft = true
 image = "/images/spring_n.png"
-tags = ["equinox", "Sun", "spring", "2021", "astronomy", "March "]
-title = "Astronomical Spring-(copy)"
+tags = ["equinócio", "março", "sol", "primavera"]
+title = "Primavera Astronómica"
 type = "post"
 url = ""
 
 +++
-March 20 is the day of the vernal equinox, after which the length of the day will gradually become longer than that of the night.
+20 de Março é o dia do equinócio vernal, após o qual a duração do dia se tornará gradualmente mais longa do que a da noite.
 
-On the equinox day the Sun will cross the celestial equator and equalize day and night. That will start an astronomical spring in the northern hemisphere. Accordingly, an astronomical autumn will come in the southern one.
+No dia do equinócio, o Sol atravessará o equador celestial e equalizará dia e noite. Isso iniciará uma primavera astronómica no hemisfério norte. Consequentemente, um Outono astronómico virá no hemisfério sul.
 
-Literally translated from Latin, the vernal equinox means “equal night.” Since ancient times, this day had a special meaning for people and symbolized the victory of light and life over darkness and cold. Well, we are waiting for warmth and sun.
+Literalmente traduzido do latim, o equinócio vernal significa "igual noite". Desde os tempos antigos, este dia tinha um significado especial para as pessoas e simbolizava a vitória da luz e da vida sobre a escuridão e o frio. Esperamos pelo calor e pelo sol.
+
+Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
