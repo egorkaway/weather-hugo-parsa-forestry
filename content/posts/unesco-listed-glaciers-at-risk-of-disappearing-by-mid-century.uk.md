@@ -3,6 +3,7 @@ aliases = ""
 categories = ["Вода"]
 date = 2023-02-15T09:04:00Z
 description = ""
+draft = true
 image = "/images/the-patagonian-glacier.png"
 tags = ["клімат ", "льодовик"]
 title = "Занесені до списку ЮНЕСКО льодовики ризикують зникнути до середини століття"
