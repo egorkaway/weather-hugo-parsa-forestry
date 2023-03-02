@@ -1,22 +1,21 @@
 +++
 aliases = ""
-categories = ["water"]
+categories = ["вода"]
 date = 2023-02-15T09:04:00Z
 description = ""
-draft = true
 image = "/images/patagonian-glacier.png"
-tags = ["climate", "glacier"]
-title = "glaciers-on-unesco-world-heritage-list-at-risk-of-disappearing-by-mid-century-due-to-climate-change-and-human-activity.uk"
+tags = ["льодовик", "клiмат"]
+title = "Льодовики, внесені до списку ЮНЕСКО, ризикують зникнути до середини століття"
 type = "post"
 url = ""
 
 +++
-Some of the glaciers on the UNESCO World Heritage List may disappear by mid-century due to global warming and other factors such as pollution and human activity.
+Деякі з льодовиків зі списку Світової спадщини ЮНЕСКО можуть зникнути до середини століття через глобальне потепління та інші фактори, такі як забруднення та діяльність людини.
 
-One of the most well-known glaciers on the UNESCO World Heritage List that is under threat of disappearing is the Patagonian glacier in Chile. This glacier is currently melting at an incredible rate, and scientists predict that by 2030 it could decrease by 90%.
+Один з найвідоміших льодовиків зі списку Світової спадщини ЮНЕСКО, який знаходиться під загрозою зникнення, - Патагонський льодовик у Чилі. Цей льодовик зараз тане з неймовірною швидкістю, і вчені прогнозують, що до 2030 року він може зменшитися на 90%.
 
-Other glaciers on the UNESCO World Heritage List that are under threat include the Alpine glacier in Italy, the El Calafate glacier in Argentina, the Franz Josef glacier in northern Russia, and the Mer de Glace glacier in Switzerland.
+Серед інших льодовиків зі списку Світової спадщини ЮНЕСКО, які перебувають під загрозою, - Альпійський льодовик в Італії, льодовик Ель-Калафате в Аргентині, льодовик Франца-Йосифа на півночі Росії та льодовик Мер-де-Глас у Швейцарії.
 
-The disappearance of these glaciers will have serious consequences, such as worsening water quality, lowering river levels, raising sea levels, and changing climatic conditions. Furthermore, many ecosystems that depend on these glaciers may be destroyed, leading to a reduction in biodiversity and threats to local communities and economies.
+Зникнення цих льодовиків матиме серйозні наслідки, такі як погіршення якості води, зниження рівня річок, підвищення рівня моря та зміна кліматичних умов. Крім того, багато екосистем, які залежать від цих льодовиків, можуть бути зруйновані, що призведе до зменшення біорізноманіття і загрожує місцевим громадам та економіці.
 
-Glaciers play a crucial role in the planet's ecosystem and provide a source of freshwater for millions of people. It is imperative that we take action to address climate change and reduce our impact on the environment to prevent the loss of these precious resources.
+Льодовики відіграють вирішальну роль в екосистемі планети і є джерелом прісної води для мільйонів людей. Вкрай важливо вжити заходів для боротьби зі зміною клімату та зменшення впливу на навколишнє середовище, щоб запобігти втраті цих цінних ресурсів.
