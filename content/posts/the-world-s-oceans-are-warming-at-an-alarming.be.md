@@ -1,24 +1,24 @@
 +++
 aliases = ""
-categories = ["Water"]
+categories = ["вада"]
 date = 2023-01-31T07:20:18Z
 description = ""
-draft = true
 image = "/images/ocean.png"
-tags = ["ocean", "climate"]
-title = "the-world-s-oceans-are-warming-at-an-alarming.be"
+tags = ["акіян", "клiмат"]
+title = " Сусветныя акіяны падагрэваюцца з хуткасцю"
 type = "post"
 url = ""
 
 +++
-World's oceans are warming at an alarming rate, with temperatures rising at a rate of 0.13 degrees Fahrenheit (0.07 degrees Celsius) per decade since the 1970s. This warming is primarily caused by the burning of fossil fuels, which releases large amounts of greenhouse gases into the atmosphere. These gases trap heat from the sun, causing the Earth's temperature to rise.
+  
+Сусветныя акіяны падагрэваюцца з хуткасцю, якая падзяляе нас. З 1970-х гадоў тэмпературы павялічыліся на 0,13 градусаў Фарэнгейта (0,07 градусаў Цэльсія) за дзесяцігоддзе. Гэта падагрэванне галоўным чынам вызначаецца ў выніку згарання камянёвага вугля, што ў выніку вызвалівае вялікія колькасці парникавых газаў у атмасферу. Гэтыя газы ўціскаюць тэплае сонечнае сувязь, што вызывае падагрэванне зямлі.
 
-One of the most significant impacts of ocean warming is the bleaching of coral reefs. When water temperatures rise, coral reefs expel the symbiotic algae that live within them, causing the reefs to turn white. This process, known as coral bleaching, can lead to the death of the coral if the water does not cool down quickly enough. Coral reefs are important ecosystems that provide habitat for a wide variety of marine life, and their loss would have severe consequences for marine biodiversity.
+Адным з самых значных наступстваў падагрэвання акіяну з'яўляецца беленне каралевых рыфоў. Калі тэмпература вады павялічваецца, рыфы выкарыстоўваюць з сябе сімбіёнтычную водаросць, якая жыве ў іх, што прыводзіць да белення рыфаў. Гэты працэс, вядомы як беленне рыфаў, можа прывесці да смерці рыфаў, калі вада не хутка ахладзіцца. Каралевыя рыфы з'яўляюцца важнымі экосістэмамі, якія забяспечваюць жыццёвы прастор для шматлікіх марскіх жывёл, а іх страты могуць мець сур'ёзныя наступствы для марскай біярознастасці.
 
-Another major impact of ocean warming is sea level rise. As the oceans warm, they expand, causing sea levels to rise. This can lead to coastal flooding and erosion, and can also increase the severity of storms. Sea level rise also threatens low-lying islands and coastal communities, which could be submerged by rising waters.
+Іншым важным наступам глабальнага пагаднення мораў з'яўляецца павелічэнне ўзроўню мора. Калі моры нагрэваюцца, яны расшыряюцца, што прыводзіць да павелічэння ўзроўню мора. Гэта можа прывесці да наводнення берагаў і эрозіі, а таксама павялічвае цяжкасць навальніц. Павелічэнне ўзроўню мора таксама загрожвае нізкалёгкім астравам і прыберажным супольнасцям, якія могуць быць затаплены ў выніку павелічэння ўзроўню вады.
 
-Ocean warming also has significant impacts on marine life. Warming waters can cause fish and other marine organisms to move to cooler waters, disrupting entire ecosystems. Warmer waters can also lead to the spread of invasive species, which can outcompete native species and further disrupt marine ecosystems.
+Пагадненне мораў мае значны ўплыў на марскую біярознастасць. Нагрэтыя вады могуць вызваць перамешчэнне рыб і іншых марскіх арганізмаў ў халодныя вады, што прыводзіць да парадку ў экосістэмах. Нагрэтыя вады таксама могуць прывесці да распаўсюджвання інваізных видав, якія могуць змагчыць мясцовыя, што далейш прывядзе да розных расстройстваў у марскіх экосістэмах.
 
-To address the issue of ocean warming, it is essential that we reduce our greenhouse gas emissions. This can be done by transitioning to renewable energy sources, increasing energy efficiency, and implementing carbon pricing. Additionally, protecting and restoring coral reefs can help to mitigate some of the impacts of ocean warming.
+Каб падысці да пытання пагаднення мораў, неабходна зменшыць выбросы парникавых газоў. Гэта можа быць зраблена шляхам пераходу на альтэрнатыўныя энергетычныя крыніцы, павелічэння энергасберажэння і ўводу цэны на выкарыстанне выхадных газоў. Акрамя таго, ахова і аднаўленне каралавых рыфаў можа дапамагчы змяншыць некаторыя з негатыўных наступаў глабальнага пагаднення мораў.
 
-In conclusion, ocean warming is a serious issue that is already having significant impacts on marine ecosystems and communities. It is essential that we take action to reduce our greenhouse gas emissions and address the issue of ocean warming before it is too late.
+У заключэнне можна сказаць, што падыманне тэмпературы ў акіянах - сер'ёзная праблема, якая ўжо мае значны ўплыў на марскую экосістэму і кам'юнітэты. Неабходна прыняць дзеянні для змяншэння выкарыстання парникавых газаў, а таксама зрабіць крокі ў парадакаванні гэтай праблемы, пакуль не затрымаўся час.
