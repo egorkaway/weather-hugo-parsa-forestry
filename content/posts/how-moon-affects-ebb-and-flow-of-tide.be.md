@@ -1,20 +1,17 @@
 +++
 aliases = ""
-categories = ["water"]
+categories = ["вада"]
 date = 2023-03-06T12:40:09Z
 description = ""
-draft = true
 image = "/images/moon-ebbpng.png"
-tags = ["moon", "ebb", "tide"]
-title = "How Moon affects Ebb and flow of Tide.be"
+tags = ["Месяц", "прылів", "адлів"]
+title = "Як Месяц уплывае на прылівы і адлівы"
 type = "post"
 url = ""
 
 +++
-The moon plays a significant role in the ebb and flow of the tides. As the moon orbits around the Earth, it exerts a gravitational force on the planet. This force creates a tidal bulge on the side of the Earth facing the moon, as well as a second bulge on the opposite side of the Earth.
+Месяц грае значную ролю ў падыманні і затапліванні паводкаў. Калі месяц аб'езжае Зямлю, ён стварае гравітацыйную сілу на планеце, якая паводзіць за сабой стварэнне дзвюх бакоўых валакноў, што вызывае рост узровня мора. Калі Зямля робіць паварот і месяц знаходзіцца ў іншым месцы, гравітацыйная сіла аслаблена, і вода вяртаецца ў акіян, вызываючы падыманне ўзроўню мора.
 
-The gravitational pull of the moon creates a "high tide" when the water is pulled towards the two bulges, causing a rise in sea level. When the Earth rotates and the moon moves to a different position, the gravitational force weakens, and the water flows back towards the middle of the ocean, creating a "low tide."
+Пазіцыя сонца таксама мае ўплыў на паводкі, але яго гравітацыйная сіла слабей за месяца. Калі сонца, месяц і Зямля адпавядаюць адзін аднаму, напрыклад, пры поўному ці новам месяцы, гравітацыйная сіла ўзмацняецца, што вызывае больш высокія паводкі (праўдзівыя паводкі) і нізкія паводкі (паўчасовыя паводкі).
 
-The position of the sun also has an effect on the tides, but its gravitational force is weaker than the moon's. When the sun, moon, and Earth are aligned, such as during a full or new moon, the gravitational pull is stronger, resulting in higher high tides (spring tides) and lower low tides (neap tides).
-
-Overall, the moon's gravitational force is the primary driver of the tides, with the sun playing a secondary role. The tide cycle repeats approximately every 12.5 hours, with two high tides and two low tides occurring during that time.
+У агульным, гравітацыйная сіла месяца ёсць асноўным механізмам паводкаў, а сонца грае другарольную ролю. Цыкл паводкаў паўтараецца прыкладна кожныя 12,5 гадзін, з двума паводкамі і дзвюма затапленнямі падчас гэтага часу.
