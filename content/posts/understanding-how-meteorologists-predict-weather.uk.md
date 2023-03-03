@@ -5,7 +5,7 @@ date = 2023-03-02T09:59:35Z
 description = ""
 image = "/images/meteorological-station.png"
 tags = ["наука ", "Метеорологія"]
-title = "Розуміння того, як метеорологи прогнозують погодуземля "
+title = "Як метеорологи прогнозують погоду "
 type = "post"
 url = ""
 
