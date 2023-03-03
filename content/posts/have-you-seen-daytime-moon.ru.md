@@ -1,6 +1,6 @@
 +++
 categories = ["Небо"]
-date = 2021-04-03T21:00:00Z
+date = 2022-04-08T21:00:00Z
 image = "/images/moon.png"
 tags = ["луна ", "всегда "]
 title = "Дневная луна"
