@@ -1,5 +1,5 @@
 +++
-date = 2021-04-10T21:00:00Z
+date = 2022-06-18T21:00:00Z
 image = "/images/rain_bow_n.png"
 tags = ["timeless"]
 title = "Скільки кольорів у веселки?"
