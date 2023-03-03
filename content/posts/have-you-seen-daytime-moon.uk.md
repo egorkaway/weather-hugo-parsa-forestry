@@ -1,6 +1,6 @@
 +++
 categories = ["Небо"]
-date = 2021-04-03T21:00:00Z
+date = 2022-06-17T21:00:00Z
 image = "/images/daytime_moon.jpg"
 tags = ["Місяць", "timeless"]
 title = "Від чого залежить денна поява Місяця?"
