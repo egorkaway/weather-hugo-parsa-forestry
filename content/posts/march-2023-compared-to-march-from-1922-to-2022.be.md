@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Зямля"]
-date = 2023-02-28T10:27:13Z
+date = 2023-03-02T10:27:13Z
 description = ""
 image = "/images/article-2023-march-by.png"
 tags = ["2023", "сакавік", "клiмат"]
