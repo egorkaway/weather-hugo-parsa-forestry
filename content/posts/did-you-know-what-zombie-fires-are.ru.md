@@ -1,6 +1,6 @@
 +++
 categories = ["Земля"]
-date = 2021-03-02T21:00:00Z
+date = 2022-08-13T20:00:00Z
 description = ""
 image = "/images/fire.jpg"
 tags = ["Аляска", "Канада", "Россия"]
