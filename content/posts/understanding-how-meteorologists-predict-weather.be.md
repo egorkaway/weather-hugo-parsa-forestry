@@ -5,7 +5,7 @@ date = 2023-03-02T09:59:35Z
 description = ""
 image = "/images/meteorologists-predict.png"
 tags = ["навука", "Метэаралогія", "надвор'е"]
-title = "Разуменне таго, як метэаролагі прадказваюць надвор'е"
+title = "Як метэаролагі прадказваюць надвор'е"
 type = "post"
 url = ""
 
