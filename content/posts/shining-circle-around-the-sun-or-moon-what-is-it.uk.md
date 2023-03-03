@@ -1,6 +1,6 @@
 +++
 categories = ["Небо"]
-date = 2021-04-06T21:00:00Z
+date = 2023-01-06T22:00:00Z
 image = "/images/halo_.jpg"
 tags = ["timeless", "гало"]
 title = "Кільце, що світиться навколо сонця, — що це таке?"
