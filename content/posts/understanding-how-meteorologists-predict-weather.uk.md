@@ -3,6 +3,7 @@ aliases = ""
 categories = ["земля "]
 date = 2023-03-02T09:59:35Z
 description = ""
+draft = true
 image = "/images/meteorological-station.png"
 tags = ["наука ", "Метеорологія"]
 title = "Як метеорологи прогнозують погоду "
