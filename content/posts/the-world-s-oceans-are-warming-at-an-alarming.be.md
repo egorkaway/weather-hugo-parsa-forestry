@@ -3,6 +3,7 @@ aliases = ""
 categories = ["Акiян"]
 date = 2023-01-31T07:20:18Z
 description = ""
+draft = true
 image = "/images/ocean.png"
 tags = ["акіян", "клiмат"]
 title = " Сусветныя акіяны падагрэваюцца з хуткасцю"
