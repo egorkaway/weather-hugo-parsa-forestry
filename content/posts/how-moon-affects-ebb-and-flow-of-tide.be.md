@@ -3,6 +3,7 @@ aliases = ""
 categories = ["вада"]
 date = 2023-03-06T12:40:09Z
 description = ""
+draft = true
 image = "/images/moon-ebbpng.png"
 tags = ["Месяц", "прылів", "адлів"]
 title = "Як Месяц уплывае на прылівы і адлівы"
