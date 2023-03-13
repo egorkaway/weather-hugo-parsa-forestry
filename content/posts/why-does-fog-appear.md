@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/fog-what-is-it-and-why-does-it-appear"
 categories = ["Sky"]
-date = 2022-12-30T21:00:00Z
+date = 2023-02-27T21:00:00Z
 description = ""
 image = "/images/fog_.png"
 tags = ["fog", "Dubai", "Florida", "timeless"]
@@ -14,4 +14,4 @@ From the scientific point of view, fog is the accumulation of water in the air a
 
 Fogs can vary in density and duration, from a couple of hours to several days.
 
-Coastal fogs can be dense and opaque, like cotton wool. For example, Dubai is almost completely hidden in fog twice a year, in spring and autumn. And in Florida in February 2012, the fog was so impenetrable that it was possible to photograph it only from above using helicopters.
+Coastal fogs can be dense and opaque, like cotton wool. For example, Dubai is almost completely hidden in fog twice a year, in spring and autumn. Another example would be Florida in February 2012 when the fog was so impenetrable that it was possible to photograph it only from above using helicopters.
