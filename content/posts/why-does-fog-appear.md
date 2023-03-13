@@ -18,4 +18,4 @@ Fogs can vary in density and duration, from a couple of hours to several days.
 
 Fogs can range from light and wispy, to dense. Coastal fogs can be quite opaque, like cotton wool. For example, Dubai is almost completely hidden in fog twice a year, in spring and autumn. Another example would be Florida in February 2012 when the fog was so impenetrable that it was possible to photograph it only from above using helicopters.  
   
-Next time you're caught in a fog, remember, it's not just a nuisance, it's a natural wonder
+Next time you're caught in a fog, remember, it's not just a nuisance, it's a natural wonder.
