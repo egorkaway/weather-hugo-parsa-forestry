@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Tierra"]
 date = 2023-03-02T09:59:35Z
 description = ""
-draft = true
 image = "/images/meteorological-station.png"
 tags = ["ciencia ", "Tiempo", "Meteorología"]
 title = "Cómo predicen el tiempo los meteorólogos"
