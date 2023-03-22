@@ -1,27 +1,27 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = []
 date = 2022-06-05T10:16:42Z
 description = ""
-draft = true
 image = "/images/white_n.png"
-tags = ["May", "July", "June", "Estonia", "USA", "Canada", "Russia", "Finland", "Iceland", "Scandinavia"]
-title = "What are \"White Nights\"?-(copy)"
+tags = ["Finlândia", "Islândia", "Escandinávia", "Estônia", "Grã-Bretanha", "Estados Unidos", "Canadá", "junho", "maio"]
+title = "O que são as \"Noites Brancas\"?"
 type = "post"
 url = ""
 
 +++
-What exactly are "White Nights" and what causes them?
+O que são exatamente as "Noites Brancas" e o que as causa?
 
-This is the name of the long twilight, which lasts all night. From an astronomical point of view, twilight is understood as a period of time when the Sun is shallow below the horizon.
+Este é o nome do longo crepúsculo que dura toda a noite. Do ponto de vista astronômico, o crepúsculo é entendido como um período de tempo em que o Sol está abaixo do horizonte.
 
-During the white nights, natural light remains high. The lightest night falls on June 21-22. In general, the period of white nights depends on the specific area and might start as early as May 25-26 ending as late as July 16-17.
+Durante as noites brancas, a luz natural permanece alta. A noite mais clara ocorre em 21-22 de junho. Em geral, o período das noites brancas depende da área específica e pode começar tão cedo quanto 25-26 de maio, terminando tão tarde quanto 16-17 de julho.
 
-This interesting phenomenon can be observed in temperate and high latitudes before and immediately after the summer solstice in a fairly large territory of Russia, as well as throughout Finland and Iceland, in most of Scandinavia, as well as in some regions of Estonia, Great Britain, the USA and Canada.
+Este interessante fenômeno pode ser observado em latitudes temperadas e elevadas antes e imediatamente após o solstício de verão em um território bastante grande da Rússia, bem como em toda a Finlândia e Islândia, na maior parte da Escandinávia, bem como em algumas regiões da Estônia, Grã-Bretanha, Estados Unidos e Canadá.
 
-A similar term that is often confused is "midnight sun", so here is the difference: 
+Um termo similar que é frequentemente confundido é "sol da meia-noite", então aqui está a diferença:
 
-* A "white night" is a natural phenomenon where the sun does not set below the horizon, resulting in a night that is not completely dark. 
-* While "midnight sun" is a natural phenomenon where the sun remains visible above the horizon 24 hours a day during the summer months in regions close to the poles. This means that even at midnight, the sun is still visible or just below the horizon, resulting in a continuous day.
+Uma "noite branca" é um fenômeno natural em que o sol não se põe abaixo do horizonte, resultando em uma noite que não é completamente escura.
 
-Have you ever seen "white nights" or may be even midnight sun?
+Enquanto o "sol da meia-noite" é um fenômeno natural em que o sol permanece visível acima do horizonte 24 horas por dia durante os meses de verão em regiões próximas aos polos. Isso significa que mesmo à meia-noite, o sol ainda é visível ou está logo abaixo do horizonte, resultando em um dia contínuo.
+
+Você já viu as "Noites Brancas" ou talvez até mesmo o sol da meia-noite?
