@@ -20,10 +20,9 @@ In general, the period of white nights depends on the specific area and varies f
 
 This interesting phenomenon can be observed in temperate and high latitudes before and immediately after the summer solstice in a fairly large territory of Russia, as well as throughout Finland and Iceland, in most of Scandinavia, as well as in some regions of Estonia, Great Britain, the USA and Canada.
 
-A similar term that is often confused is "midnight sun", so here is the difference:   
-  
-A "white night" is a natural phenomenon where the sun does not set below the horizon, resulting in a night that is not completely dark. 
+A similar term that is often confused is "midnight sun", so here is the difference: 
 
-While "midnight sun" is a natural phenomenon where the sun remains visible above the horizon 24 hours a day during the summer months in regions close to the poles. This means that even at midnight, the sun is still visible or just below the horizon, resulting in a continuous day.
+* "White night" is a natural phenomenon where the sun does not set below the horizon, resulting in a night that is not completely dark. 
+* While "midnight sun" is a natural phenomenon where the sun remains visible above the horizon 24 hours a day during the summer months in regions close to the poles. This means that even at midnight, the sun is still visible or just below the horizon, resulting in a continuous day.
 
 Have you ever seen "white nights" or may be even midnight sun?
