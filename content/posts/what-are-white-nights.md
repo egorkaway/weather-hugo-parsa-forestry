@@ -22,7 +22,7 @@ This interesting phenomenon can be observed in temperate and high latitudes befo
 
 A similar term that is often confused is "midnight sun", so here is the difference: 
 
-* "White night" is a natural phenomenon where the sun does not set below the horizon, resulting in a night that is not completely dark. 
+* A "white night" is a natural phenomenon where the sun does not set below the horizon, resulting in a night that is not completely dark. 
 * While "midnight sun" is a natural phenomenon where the sun remains visible above the horizon 24 hours a day during the summer months in regions close to the poles. This means that even at midnight, the sun is still visible or just below the horizon, resulting in a continuous day.
 
 Have you ever seen "white nights" or may be even midnight sun?
