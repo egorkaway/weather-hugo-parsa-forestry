@@ -5,7 +5,7 @@ date = 2023-03-25T10:06:57Z
 description = ""
 image = "/images/frl4unvwwaeywlo.jpeg"
 tags = ["USA", "hurricane"]
-title = "Did You Know that Hurricanes Never Cross the Equator"
+title = "Did You Know that Hurricanes Never Cross the Equator?"
 type = "post"
 url = ""
 
