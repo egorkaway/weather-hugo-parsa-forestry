@@ -1,22 +1,21 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = []
 date = 2023-03-25T10:06:57Z
 description = ""
-draft = true
 image = "/images/frl4unvwwaeywlo.jpeg"
-tags = ["USA", "hurricane"]
-title = "Did You Know that Hurricanes Never Cross the Equator?-(copy)"
+tags = ["ЗША", "ураган"]
+title = "Ці ведаеце вы, што ураганы ніколі не перасякаюць экватар?"
 type = "post"
 url = ""
 
 +++
-Tropical cyclones and hurricanes are powerful weather systems that can cause significant damage and destruction. These storms typically form in the tropics and move towards higher latitudes, affecting areas such as Gulf of Mexico, and the southeastern United States. However, one peculiar fact about these storms is that no tropical cyclone or hurricane has ever crossed the equator.
-
-The reason for this is the Coriolis effect, a phenomenon that causes fluids, such as air and water, to curve as they move across the Earth's surface. This effect is caused by the Earth's rotation and is more prominent at higher latitudes. In the Northern Hemisphere, objects tend to deflect to the right, while in the Southern Hemisphere, they deflect to the left. The Coriolis effect is the reason why hurricanes in the Northern Hemisphere rotate counterclockwise, while those in the Southern Hemisphere rotate clockwise.
-
-Tropical cyclones and hurricanes require a certain set of conditions to form, such as warm ocean temperatures, moist air, and low wind shear. These conditions are typically found in the tropics, where the Coriolis effect is not strong enough to cause a significant deflection of the storm's path. However, as the storm moves towards higher latitudes, the Coriolis effect becomes stronger, causing the storm to curve away from the equator.
-
-Additionally, the Coriolis effect is zero at the equator, which means that there is no deflection of the storm's path. As a result, any storm that approaches the equator will weaken and eventually dissipate. This is why no tropical cyclone or hurricane has ever crossed the equator.
-
-Image by: **Dr. Robert Rohde**
+Трапічныя цыклоны ды ўраганы - гэта магутныя пагодныя сістэмы, якія могуць нанесці значны урон і разбурэнні. Гэтыя штормы звычайна утвараюцца ў тропіках і перамяшчаюцца ў больш высокія шыроты, закранаючы такія раёны, як Мексіканскі заліў і паўднёвы усход ЗША. Аднак адзін асаблівы факт аб гэтых штормах заключаецца ў тым, што ні адзін трапічны цыклон або ураган ніколі не перасякаў экватар.  
+  
+Прычынай гэтага з'яўляецца эфект Карыёліса, з'ява, якая прымушае вадкасці, такія як паветра і вада, выгінацца падчас руху па паверхні Зямлі. Гэты эфект выкліканы кручэннем Зямлі і больш прыкметны ў больш высокіх шыротах. У паўночным паўшар'і аб'екты, як правіла, адхіляюцца направа, у той час як у паўднёвым паўшар'і яны адхіляюцца налева. Эфект Карыёліса з'яўляецца прычынай таго, што ураганы ў паўночным паўшар'і круцяцца супраць стрэлкі гадзінніка, а ў паўднёвым - па стрэлцы гадзінніка.  
+   
+Дзеля фарміравання трапічных цыклонаў і ураганаў неабходны пэўны набор умоў, такіх як высокая тэмпература акіяна, вільготнае паветра і слабы зрух ветру. Гэтыя ўмовы звычайна сустракаюцца ў тропіках, дзе эфект Карыёліса недастаткова моцны, каб выклікаць значнае адхіленне шляху шторму. Аднак, калі шторм рухаецца да больш высокіх шырот, эфект Карыёліса становіцца мацнейшым, у выніку чаго шторм адхіляецца ад экватара.  
+  
+Акрамя таго, эфект Карыёліса на экватары роўны нулю, што азначае, што няма і адхілення шляху шторму. У выніку любы шторм, які набліжаецца да экватара, аслабне і ў рэшце рэшт рассейваецца. Вось чаму ні адзіны трапічны цыклон або ураган ніколі не перасякалі экватар.  
+  
+Выява: доктар Роберт Род 
