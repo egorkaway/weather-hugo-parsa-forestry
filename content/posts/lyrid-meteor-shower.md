@@ -1,11 +1,13 @@
 +++
+aliases = ""
 categories = ["Sky"]
-date = 2021-04-17T21:00:00Z
+date = 2023-03-28T21:00:00Z
 description = ""
 image = "/images/ly_n.jpg"
 tags = ["April", "meteor "]
 title = "Lyrid Meteor Shower"
 type = "post"
+url = ""
 
 +++
 The first spring star rain on April 21-22.
