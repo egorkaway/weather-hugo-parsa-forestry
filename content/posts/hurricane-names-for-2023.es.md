@@ -10,4 +10,4 @@ type = "post"
 url = ""
 
 +++
-Storms and hurricane names for 2023 in Atlantic
+Tormentas y nombres de huracanes para 2023 en el Atlántico
