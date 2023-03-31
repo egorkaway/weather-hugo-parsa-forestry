@@ -1,22 +1,21 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2023-03-25T10:06:57Z
+categories = []
+date = 2023-03-31T09:06:57Z
 description = ""
-draft = true
 image = "/images/frl4unvwwaeywlo.jpeg"
-tags = ["USA", "hurricane"]
-title = "Did You Know that Hurricanes Never Cross the Equator?-(copy)"
+tags = ["tempestade", "ciclone ", "equador"]
+title = "Você sabia que furacões nunca cruzam o equador? 🌀🌪️🌍"
 type = "post"
 url = ""
 
 +++
-Tropical cyclones and hurricanes are powerful weather systems that can cause significant damage and destruction. These storms typically form in the tropics and move towards higher latitudes, affecting areas such as Gulf of Mexico, and the southeastern United States. However, one peculiar fact about these storms is that no tropical cyclone or hurricane has ever crossed the equator.
+Ciclones tropicais e furacões são poderosos sistemas meteorológicos que podem causar danos e destruição significativos. Essas tempestades geralmente se formam nos trópicos e se movem em direção a latitudes mais altas, afetando áreas como o Golfo do México e o sudeste dos Estados Unidos. No entanto, um fato peculiar sobre essas tempestades é que nenhum ciclone tropical ou furacão jamais cruzou o equador.
 
-The reason for this is the Coriolis effect, a phenomenon that causes fluids, such as air and water, to curve as they move across the Earth's surface. This effect is caused by the Earth's rotation and is more prominent at higher latitudes. In the Northern Hemisphere, objects tend to deflect to the right, while in the Southern Hemisphere, they deflect to the left. The Coriolis effect is the reason why hurricanes in the Northern Hemisphere rotate counterclockwise, while those in the Southern Hemisphere rotate clockwise.
+A razão para isso é o efeito Coriolis, um fenômeno que faz com que fluidos, como ar e água, curvem-se à medida que se movem sobre a superfície da Terra. Esse efeito é causado pela rotação da Terra e é mais proeminente em latitudes mais altas. No Hemisfério Norte, objetos tendem a se desviar para a direita, enquanto no Hemisfério Sul, se desviam para a esquerda. O efeito Coriolis é o motivo pelo qual os furacões no Hemisfério Norte giram no sentido anti-horário, enquanto os furacões no Hemisfério Sul giram no sentido horário.
 
-Tropical cyclones and hurricanes require a certain set of conditions to form, such as warm ocean temperatures, moist air, and low wind shear. These conditions are typically found in the tropics, where the Coriolis effect is not strong enough to cause a significant deflection of the storm's path. However, as the storm moves towards higher latitudes, the Coriolis effect becomes stronger, causing the storm to curve away from the equator.
+Ciclones tropicais e furacões requerem um conjunto específico de condições para se formarem, como temperaturas oceânicas quentes, ar úmido e baixo cisalhamento do vento. Essas condições são tipicamente encontradas nos trópicos, onde o efeito Coriolis não é forte o suficiente para causar uma deflexão significativa no caminho da tempestade. No entanto, à medida que a tempestade se move em direção a latitudes mais altas, o efeito Coriolis se torna mais forte, fazendo com que a tempestade se curve para longe do equador.
 
-Additionally, the Coriolis effect is zero at the equator, which means that there is no deflection of the storm's path. As a result, any storm that approaches the equator will weaken and eventually dissipate. This is why no tropical cyclone or hurricane has ever crossed the equator.
+Além disso, o efeito Coriolis é zero no equador, o que significa que não há deflexão no caminho da tempestade. Como resultado, qualquer tempestade que se aproxime do equador enfraquecerá e eventualmente se dissipará. É por isso que nenhum ciclone tropical ou furacão jamais cruzou o equador.
 
-Image by: **Dr. Robert Rohde**
+Imagem por: Dr. Robert Rohde
