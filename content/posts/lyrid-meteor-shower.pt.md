@@ -1,20 +1,19 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = []
 date = 2023-03-30T21:00:00Z
 description = ""
-draft = true
 image = "/images/ly_n.jpg"
-tags = ["April", "meteor "]
-title = "Lyrid Meteor Shower-(copy)"
+tags = ["abril", "primavera"]
+title = "Chuva de Meteoros Líridas"
 type = "post"
 url = ""
 
 +++
-Get ready for a meteor spectacle! The first spring star rain is on its way, and you won't want to miss it.
+Prepare-se para um espetáculo de meteoros! A primeira chuva de estrelas da primavera está a caminho e você não vai querer perder.
 
-On April 21 to 22, we will have a chance to observe the largest meteor shower in the Northern Hemisphere — the Lyrid shower, whose maximum will fall on this night.
+De 21 a 22 de abril, teremos a chance de observar a maior chuva de meteoros do Hemisfério Norte - a chuva de Líridas, cujo pico ocorrerá nessa noite.
 
-Astronomers say the number of meteors can reach 18-20 per hour. The radiant of this stream is located in the constellation Lyra. And it is best to observe it at night and before dawn, first over the northeastern horizon, and then in the eastern part of the night and morning sky.
+Astrônomos dizem que o número de meteoros pode chegar a 18-20 por hora. O radiante dessa corrente está localizado na constelação de Lyra. E é melhor observá-lo à noite e antes do amanhecer, primeiro sobre o horizonte nordeste e depois na parte leste do céu noturno e matutino.
 
-Look to the skies in the early hours of the morning of April 22, and catch the radiant stream in the constellation Lyra. Don't blink or you might miss it!
+Olhe para o céu nas primeiras horas da manhã de 22 de abril e pegue o radiante na constelação de Lyra. Não pisque ou você pode perder!
