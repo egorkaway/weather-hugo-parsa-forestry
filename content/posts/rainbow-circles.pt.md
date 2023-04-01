@@ -1,22 +1,19 @@
 +++
 aliases = ""
-categories = ["Sky"]
+categories = []
 date = 2023-03-28T09:29:22Z
 description = ""
-draft = true
 image = "/images/glo_n.png"
-tags = ["rainbow", "timeless"]
-title = "Rainbow Circles-(copy)"
+tags = ["arco-íris"]
+title = "Círculos de Arco-íris"
 type = "post"
 url = ""
 
 +++
-One of the most interesting and beautiful atmospheric phenomena is the rainbow circles, that has got a scientific name of "gloria".  
-  
-This is an optical effect that can be seen from an airplane or standing on top of a mountain above the clouds with the source of light behind you.  
-  
-Gloria is a rainbow-like colored ring that appears due to diffraction of light reflected in cloud droplets.  
-  
-In China, by the way, "gloria" has long been called "the light of the Buddha" and this beautiful optical phenomenon is associated with enlightenment.  
-  
-Have you ever seen the gloria's rainbow circles with your own eyes?
+Você já ouviu falar de algo chamado "gloria"? 
+
+É um termo científico para uma coisa bonita e interessante que acontece no céu. Quando você está em um avião ou no topo de uma montanha acima das nuvens com o sol atrás de você, pode ter a sorte de vê-lo. Parece um anel colorido de arco-íris no céu. Isso acontece por causa da forma como a luz reflete e se curva nas gotículas de água nas nuvens. 
+
+Na China, as pessoas chamam esse fenômeno de "a luz de Buda" há muito tempo, porque está associado à iluminação.
+
+Você já viu os círculos de arco-íris de gloria com seus próprios olhos?
