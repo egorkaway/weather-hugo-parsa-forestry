@@ -1,22 +1,21 @@
 +++
 aliases = ["/posts/not-just-simple-lightning"]
-categories = ["Earth"]
+categories = []
 date = 2022-06-17T21:00:00Z
 description = ""
-draft = true
 image = "/images/elm_n.jpg"
-tags = ["lightning", "timeless"]
-title = "Saint Elmo's Fire-(copy)"
+tags = ["tempestade"]
+title = "Fogo de Santelmo"
 type = "post"
 url = ""
 
 +++
-Not just a simple lightning.
+Não é apenas um raio simples.
 
-Lightning strikes can look not only frightening, but also unusual. This is exactly what can be said about the "Saint Elmo's fire".
+Os raios podem parecer não apenas assustadores, mas também incomuns. Isso é exatamente o que se pode dizer do "fogo de Santelmo".
 
-This type of lightning in the form of luminous beams or tassels appears usually during a severe thunderstorm at the ends of tall buildings, on spiers, ship masts, tops of high trees or rocks. Saint Elmo's fire appears because of the high electric power in the atmosphere.
+Esse tipo de raio na forma de feixes ou franjas luminosas aparece geralmente durante uma tempestade severa nas extremidades de prédios altos, em pináculos, mastros de navios, copas de árvores altas ou rochas. O fogo de Santelmo aparece devido à alta energia elétrica na atmosfera.
 
-Such a lightning got its name in honor of the Saint Elmo, whom sailors have long considered their patron and a sign of salvation.
+Esse tipo de raio recebeu seu nome em homenagem a São Elmo, a quem os marinheiros consideram há muito tempo seu patrono e um sinal de salvação.
 
-Have you ever witnessed these scary, but mesmerizing lights?
+Você já testemunhou essas luzes assustadoras, mas hipnotizantes?
