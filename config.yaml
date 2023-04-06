@@ -25,7 +25,7 @@ languages:
     languageName: Russian
     weight: "3"
     logo: images/weather_ru_w.png
-    address: Варшава / Батуми / Порту / Киев 
+    address: Варшава / Батуми / Порту / Киев
     title: 'Погода и Климат: сайт от climacam.com'
     read_more: Дальше...
     address_title: Где
@@ -50,7 +50,7 @@ languages:
     logo: images/weather_ru_w.png
     weight: "4"
     follow: Мережи
-    address: Київ / Несвіж / Порту 
+    address: Київ / Несвіж / Порту
     title: 'Погода і Клімат: сайт від climacam.com'
     read_more: Далi...
     address_title: Де
@@ -68,7 +68,7 @@ languages:
     languageName: Belarusian
     logo: images/weather_by.png
     weight: "5"
-    address: Порту / Батумi / Нясвiж 
+    address: Порту / Батумi / Нясвiж
     title: 'Пагода ды Клiмат: сайт ад climacam.com'
     read_more: Далей...
     address_title: Дзе
@@ -126,7 +126,7 @@ params:
     - link: plugins/search/search.js
     - link: plugins/smartbanner/smartbanner.js
   baseURL: https://weather-aware.com
-  logo: images/weather_a.png
+  logo: images/ogo_en_3.png
   home: Home
   layout: "1"
   description: Weather trivia for the changing world
