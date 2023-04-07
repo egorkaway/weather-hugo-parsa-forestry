@@ -25,7 +25,7 @@ languages:
   ru:
     languageName: Russian
     weight: "3"
-    logo: images/weather_ru_w.png
+    logo: images/ukr_.png
     address: Варшава / Батуми / Порту / Киев
     title: 'Погода и Климат: сайт от climacam.com'
     read_more: Дальше...
@@ -48,7 +48,7 @@ languages:
         weight: "1"
   uk:
     languageName: Ukranian
-    logo: images/weather_ru_w.png
+    logo: images/ukr_.png
     weight: "4"
     follow: Мережи
     address: Київ / Несвіж / Порту
