@@ -13,7 +13,7 @@ languages:
   es:
     languageName: Spanish
     weight: "2"
-    logo: images/weather_es_w.png
+    logo: images/es_.png
     title: Tiempo y Clima presentados por climacam.com
     address_title: Donde
     follow: Redes
@@ -67,7 +67,7 @@ languages:
     post_available_in: Пост також доступний наступними мовами
   be:
     languageName: Belarusian
-    logo: images/weather_by.png
+    logo: images/by_.png
     weight: "5"
     address: Порту / Батумi / Нясвiж
     title: 'Пагода ды Клiмат: сайт ад climacam.com'
