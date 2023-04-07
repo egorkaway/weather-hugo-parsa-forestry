@@ -126,7 +126,7 @@ params:
     - link: plugins/search/search.js
     - link: plugins/smartbanner/smartbanner.js
   baseURL: https://weather-aware.com
-  logo: images/en_03.png
+  logo: images/eng_01.png
   home: Home
   layout: "1"
   description: Weather trivia for the changing world
