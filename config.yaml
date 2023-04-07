@@ -8,6 +8,7 @@ languages:
     weight: "1"
   pt:
     languageName: Portuguese
+    logo: images/pt_.png
     weight: "6"
   es:
     languageName: Spanish
