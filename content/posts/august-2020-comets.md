@@ -1,3 +1,8 @@
+---
+_template: post
+---
+
+
 +++
 categories = ["Sky"]
 date = 2020-08-01T21:00:00Z

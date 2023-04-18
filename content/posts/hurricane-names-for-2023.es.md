@@ -1,3 +1,8 @@
+---
+_template: post
+---
+
+
 +++
 aliases = ""
 categories = ["Cielo "]
