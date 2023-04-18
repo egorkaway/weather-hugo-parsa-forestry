@@ -4,7 +4,6 @@ _template: post
 
 
 
-
 +++
 categories = ["Earth"]
 date = 2020-12-14T21:00:00Z

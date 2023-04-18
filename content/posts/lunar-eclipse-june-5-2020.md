@@ -4,7 +4,6 @@ _template: post
 
 
 
-
 +++
 aliases = "/posts/lunar-eclipse-june-5"
 categories = ["Sky"]

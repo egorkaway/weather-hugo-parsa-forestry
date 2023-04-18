@@ -4,7 +4,6 @@ _template: post
 
 
 
-
 +++
 aliases = "/posts/underwater-ice"
 categories = ["Earth"]

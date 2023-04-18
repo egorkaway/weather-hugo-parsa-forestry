@@ -4,7 +4,6 @@ _template: post
 
 
 
-
 +++
 aliases = "/posts/fog-what-is-it-and-why-does-it-appear"
 categories = ["Sky"]
