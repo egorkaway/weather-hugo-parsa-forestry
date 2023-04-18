@@ -3,7 +3,6 @@ _template: post
 ---
 
 
-
 +++
 aliases = ["/posts/not-just-simple-lightning"]
 categories = []

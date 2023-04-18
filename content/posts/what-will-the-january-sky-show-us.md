@@ -3,7 +3,6 @@ _template: post
 ---
 
 
-
 +++
 categories = ["Sky"]
 date = 2021-01-01T21:00:00Z

@@ -3,7 +3,6 @@ _template: post
 ---
 
 
-
 +++
 aliases = "/posts/the-shining-circle-around-the-sun-what-is-it"
 categories = ["Sky"]
