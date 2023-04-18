@@ -1,8 +1,3 @@
----
-_template: post
----
-
-
 +++
 aliases = ""
 categories = ["Вода"]
