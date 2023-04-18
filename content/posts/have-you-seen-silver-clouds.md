@@ -3,6 +3,7 @@ _template: post
 ---
 
 
+
 +++
 aliases = "/posts/silver-clouds"
 categories = ["Sky"]
