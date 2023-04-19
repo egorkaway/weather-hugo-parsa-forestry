@@ -41,33 +41,7 @@ export default defineConfig({
           },
           ...postFields(),
         ],
-      },
-      {
-        format: "yaml",
-        label: "Configuration",
-        name: "configuration",
-        path: ".",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "config",
-        },
-        fields: [
-          {
-            name: "dummy",
-            label: "Dummy field",
-            type: "string",
-            description:
-              "This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info",
-          },
-        ],
-      },
+      }
     ],
   },
 });
