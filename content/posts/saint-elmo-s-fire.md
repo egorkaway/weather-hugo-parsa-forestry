@@ -1,5 +1,5 @@
 +++
-aliases = [ "/posts/not-just-simple-lightning" ]
+aliases = "/posts/not-just-simple-lightning"
 categories = [ "Earth" ]
 date = 2022-06-17T21:00:00.000Z
 description = ""
