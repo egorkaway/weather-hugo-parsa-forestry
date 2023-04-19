@@ -1,3 +1,7 @@
+---
+_template: post
+---
+
 +++
 categories = ["Земля"]
 date = 2021-04-30T10:56:34Z

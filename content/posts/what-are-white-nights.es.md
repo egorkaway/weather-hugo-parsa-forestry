@@ -1,3 +1,7 @@
+---
+_template: post
+---
+
 +++
 aliases = "/es/posts/what-are-white-nights/"
 categories = ["Cielo"]

@@ -1,3 +1,7 @@
+---
+_template: post
+---
+
 +++
 categories = ["Небо"]
 date = 2020-09-26T21:00:00Z
