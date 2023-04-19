@@ -1,7 +1,3 @@
----
-_template: post
----
-
 +++
 aliases = ""
 categories = ["зямля"]
