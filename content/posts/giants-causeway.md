@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Earth"]
-date = 2022-02-08T21:00:00Z
+categories = [ "Earth" ]
+date = 2022-02-08T21:00:00.000Z
 description = ""
 image = "/images/giant_n.jpg"
-tags = ["Ireland", "coast", "timeless "]
+tags = [ "Ireland", "coast", "timeless " ]
 title = "Giants’ Causeway"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Amazing "Giants’ Causeway" in Northern Ireland  
   
 People have paved millions of roads, but nature has surpassed them here too, creating a unique "Giants’ Causeway". This extraordinary road consists of 40,000 interconnected flat basalt pillars which appeared as a result of an ancient volcanic eruption.  

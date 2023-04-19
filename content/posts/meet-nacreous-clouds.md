@@ -1,15 +1,23 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2022-07-03T20:00:00Z
+categories = [ "Sky" ]
+date = 2022-07-03T20:00:00.000Z
 description = ""
 image = "/images/cloudsss_n.png"
-tags = ["Canada", "Alaska", "Iceland", "Scandinavia", "clouds", "timeless"]
+tags = [
+  "Canada",
+  "Alaska",
+  "Iceland",
+  "Scandinavia",
+  "clouds",
+  "timeless"
+]
 title = "Meet Nacreous Clouds"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Nacreous clouds are a real miracle of the northern latitudes.
 
 Nacreous clouds are one of the most beautiful, unusual, and rare natural phenomena.

@@ -1,15 +1,24 @@
 +++
 aliases = "/posts/silver-clouds"
-categories = ["Sky"]
-date = 2022-05-02T21:00:00Z
+categories = [ "Sky" ]
+date = 2022-05-02T21:00:00.000Z
 description = ""
 image = "/images/silver_.jpg"
-tags = ["Europe", "Canada", "Russia", "clouds", "July", "June ", "May "]
+tags = [
+  "Europe",
+  "Canada",
+  "Russia",
+  "clouds",
+  "July",
+  "June ",
+  "May "
+]
 title = "Have You Seen Silver Clouds?"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Silver clouds are not just an art installation by Andy Warhol, these actual clouds can be usually observed in summer until the end of July.
 
 Until the end of the month, it will be possible to see silver or, as they are also called, polar clouds in the sky over Northern Europe, Canada and the northern regions of Russia.

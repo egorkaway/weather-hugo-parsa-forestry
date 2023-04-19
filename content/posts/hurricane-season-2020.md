@@ -1,13 +1,14 @@
 +++
-categories = ["Sky"]
-date = 2020-05-12T21:00:00Z
+categories = [ "Sky" ]
+date = 2020-05-12T21:00:00.000Z
 description = ""
 image = "/images/storm_n.jpg"
-tags = ["2020", "Atlantic", "hurricane", "June", "November", "NOAA"]
+tags = [ "2020", "Atlantic", "hurricane", "June", "November", "NOAA" ]
 title = "Hurricane Season 2020"
 type = "post"
-
+_template = "post"
 +++
+
 The current Atlantic hurricane season promises to be the strongest for the last few years.
 
 The annual hurricane season starts in the Atlantic Ocean on June 1 and it will last till the end of November. According to the forecast of the Climate Prediction Center of the National Oceanic and Atmospheric Administration (NOAA) the 2020 season will surpass previous years as for the strength and frequency of storms and hurricanes.

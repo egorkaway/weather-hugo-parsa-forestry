@@ -1,13 +1,21 @@
 +++
-categories = ["Sky"]
-date = 2020-05-02T21:00:00Z
+categories = [ "Sky" ]
+date = 2020-05-02T21:00:00.000Z
 description = ""
 image = "/images/supermoon_n.jpg"
-tags = ["moon ", "2020 ", "may ", "Florida", "California", "New York"]
+tags = [
+  "moon ",
+  "2020 ",
+  "may ",
+  "Florida",
+  "California",
+  "New York"
+]
 title = "Supermoon"
 type = "post"
-
+_template = "post"
 +++
+
 Already this week, May 7, we’ll be able to observe the last Super Moon of the year. This interesting and very beautiful natural phenomenon occurs when the distance between the Moon and the Earth is reduced to the minimum.  
   
 This is exactly what will happen on May 7 at 1:46 p.m., when the Moon will be clearly visible in the sky in daylight. The nocturnal appearance of the Earth satellite will take place at 20:30, and from that moment it will be possible to observe the unusually bright and large Moon.  

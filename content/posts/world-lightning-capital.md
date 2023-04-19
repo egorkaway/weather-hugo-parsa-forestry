@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2022-01-05T21:00:00Z
+categories = [ "Sky" ]
+date = 2022-01-05T21:00:00.000Z
 description = ""
 image = "/images/ai-2.png"
-tags = ["Venezuela", "lightning"]
+tags = [ "Venezuela", "lightning" ]
 title = "World Lightning Capital"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Do you know where the "World Lightning Capital" is?
 
 To visit it, you will have to go to Venezuela, to the municipality of Catatumbo. It was this area that got the title of the "World Lightning Capital" after the Guinness Book of Records recorded the world's highest concentration of lightning in this region. According to statistics, there are 250 electrical discharges per year for every square kilometer of this region.

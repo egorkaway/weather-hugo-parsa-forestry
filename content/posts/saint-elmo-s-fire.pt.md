@@ -1,15 +1,16 @@
 +++
-aliases = ["/posts/not-just-simple-lightning"]
-categories = []
-date = 2022-06-17T21:00:00Z
+aliases = [ "/posts/not-just-simple-lightning" ]
+categories = [ ]
+date = 2022-06-17T21:00:00.000Z
 description = ""
 image = "/images/elm_n.jpg"
-tags = ["tempestade"]
+tags = [ "tempestade" ]
 title = "Fogo de Santelmo"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Não é apenas um raio simples.
 
 Os raios podem parecer não apenas assustadores, mas também incomuns. Isso é exatamente o que se pode dizer do "fogo de Santelmo".

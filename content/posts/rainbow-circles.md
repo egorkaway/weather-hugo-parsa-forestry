@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2023-03-28T09:29:22Z
+categories = [ "Sky" ]
+date = 2023-03-28T09:29:22.000Z
 description = ""
 image = "/images/glo_n.png"
-tags = ["rainbow", "timeless"]
+tags = [ "rainbow", "timeless" ]
 title = "Rainbow Circles"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 One of the most interesting and beautiful atmospheric phenomena is the rainbow circles, that has got a scientific name of "gloria".  
   
 This is an optical effect that can be seen from an airplane or standing on top of a mountain above the clouds with the source of light behind you.  

@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2023-04-16T21:00:00Z
+categories = [ "Sky" ]
+date = 2023-04-16T21:00:00.000Z
 description = ""
 image = "/images/ly_n.jpg"
-tags = ["April", "meteor "]
+tags = [ "April", "meteor " ]
 title = "Lyrid Meteor Shower"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Get ready for a meteor spectacle! The first spring star rain is on its way, and you won't want to miss it.
 
 On April 21 to 22, we will have a chance to observe the largest meteor shower in the Northern Hemisphere — the Lyrid shower, whose maximum will fall on this night.

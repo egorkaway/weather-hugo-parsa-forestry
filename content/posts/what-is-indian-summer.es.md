@@ -1,15 +1,26 @@
 +++
 aliases = ""
-categories = ["Tierra"]
-date = 2022-09-01T21:00:00Z
+categories = [ "Tierra" ]
+date = 2022-09-01T21:00:00.000Z
 description = ""
 image = "/images/summer_.jpg"
-tags = ["Rusia", "Ucrania", "Alemania", "Bulgaria", "Francia", "Azores", "Europa", "América", "siempre"]
-title = "¿Qué es el \"verano indio\" y cuándo ocurre?"
+tags = [
+  "Rusia",
+  "Ucrania",
+  "Alemania",
+  "Bulgaria",
+  "Francia",
+  "Azores",
+  "Europa",
+  "América",
+  "siempre"
+]
+title = '¿Qué es el "verano indio" y cuándo ocurre?'
 type = "post"
 url = "/verano_indio"
-
+_template = "post"
 +++
+
 Mediados de otoño es el momento del "regreso del verano". Y aunque todos entendemos que un par de semanas cálidas y soleadas de otoño de todos modos serán reemplazadas por la primera helada, seguimos llamando «verano» a este período corto.  
   
 ¿Pero sabíais que en diferentes países este "verano" se llamaba de manera diferente? En Rusia, Ucrania y Bielorrusia se le llama «verano de mujeres", en Alemania — "verano de viejas", en Bulgaria — "verano gitano", en Francia — "verano de St. Denis", y en los Estados Unidos — "indio".  

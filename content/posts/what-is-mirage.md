@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Earth"]
-date = 2022-06-08T21:00:00Z
+categories = [ "Earth" ]
+date = 2022-06-08T21:00:00.000Z
 description = ""
 image = "/images/mirage_.jpg"
-tags = ["mirage", "timeless"]
+tags = [ "mirage", "timeless" ]
 title = "What is Mirage?"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 What is a mirage and where does it come from?  
   
 Mirage is undoubtedly one of the most mysterious atmospheric phenomena that has always been associated with secrets and legends. But in reality, the mirage is easily explained from a scientific point of view.

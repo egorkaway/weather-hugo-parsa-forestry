@@ -1,15 +1,16 @@
 +++
 aliases = "/posts/underwater-ice"
-categories = ["Earth"]
-date = 2021-11-26T21:00:00Z
+categories = [ "Earth" ]
+date = 2021-11-26T21:00:00.000Z
 description = ""
 image = "/images/bubble_ice_n.jpg"
-tags = ["Canada", "Siberia", "Arctic", "Russia", "timeless "]
+tags = [ "Canada", "Siberia", "Arctic", "Russia", "timeless " ]
 title = "Have You Seen These Underwater Bubbles?"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Icy underwater bubbles are one of the most curious natural phenomena.
 
 In the Canadian province of Alberta, there is Lake Abraham, which is known among scientists and nature lovers because of an unusual phenomenon: a large number of ice bubbles that have frozen under water.

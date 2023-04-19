@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Agua"]
-date = 2023-01-31T07:20:18Z
+categories = [ "Agua" ]
+date = 2023-01-31T07:20:18.000Z
 description = ""
 image = "/images/ocean.png"
-tags = ["Océano", "clima"]
+tags = [ "Océano", "clima" ]
 title = "Océanos se están calentando a un ritmo alarmante"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Los océanos del mundo se están calentando a un ritmo alarmante, con un aumento de las temperaturas de 0,13 grados Fahrenheit (0,07 grados Celsius) por década desde los años setenta. Este calentamiento se debe principalmente a la quema de combustibles fósiles, que libera grandes cantidades de gases de efecto invernadero a la atmósfera. Estos gases atrapan el calor del sol, provocando el aumento de la temperatura de la Tierra.  
   
 Uno de los efectos más significativos del calentamiento de los océanos es el blanqueamiento de los arrecifes de coral. Cuando aumenta la temperatura del agua, los arrecifes de coral expulsan las algas simbióticas que viven en su interior, lo que hace que los arrecifes se vuelvan blancos. Este proceso, conocido como blanqueamiento del coral, puede llevar a la muerte del coral si el agua no se enfría lo suficientemente rápido. Los arrecifes de coral son importantes ecosistemas que proporcionan hábitat a una gran variedad de vida marina, y su pérdida tendría graves consecuencias para la biodiversidad marina.  

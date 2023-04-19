@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2023-03-19T21:00:00Z
+categories = [ "Sky" ]
+date = 2023-03-19T21:00:00.000Z
 description = ""
 image = "/images/spring_n.png"
-tags = ["equinox", "Sun", "spring", "2021", "astronomy", "March "]
+tags = [ "equinox", "Sun", "spring", "2021", "astronomy", "March " ]
 title = "Astronomical Spring"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 March 20 is the day of the vernal equinox, after which the length of the day will gradually become longer than that of the night.
 
 On the equinox day the Sun will cross the celestial equator and equalize day and night. That will start an astronomical spring in the northern hemisphere. Accordingly, an astronomical autumn will come in the southern one.

@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2021-11-01T21:00:00Z
+categories = [ "Sky" ]
+date = 2021-11-01T21:00:00.000Z
 description = ""
 image = "/images/meteor_.png"
-tags = ["Leonids", "November", "meteor"]
+tags = [ "Leonids", "November", "meteor" ]
 title = "Leonid Meteor Shower"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Watching the Leonid meteor shower on November 16-18   
   
 The Leonids are a starfall known for its bright and abundant flashes. Every year it can be seen in November, and this year is not an exception.  

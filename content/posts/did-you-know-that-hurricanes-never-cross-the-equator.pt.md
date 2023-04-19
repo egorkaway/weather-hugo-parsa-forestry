@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = []
-date = 2023-03-30T09:06:57Z
+categories = [ ]
+date = 2023-03-30T09:06:57.000Z
 description = ""
 image = "/images/frl4unvwwaeywlo.jpeg"
-tags = ["tempestade", "ciclone ", "equador"]
+tags = [ "tempestade", "ciclone ", "equador" ]
 title = "Você sabia que furacões nunca cruzam o equador? 🌀🌪️🌍"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Ciclones tropicais e furacões são poderosos sistemas meteorológicos que podem causar danos e destruição significativos. Essas tempestades geralmente se formam nos trópicos e se movem em direção a latitudes mais altas, afetando áreas como o Golfo do México e o sudeste dos Estados Unidos. No entanto, um fato peculiar sobre essas tempestades é que nenhum ciclone tropical ou furacão jamais cruzou o equador.
 
 A razão para isso é o efeito Coriolis, um fenômeno que faz com que fluidos, como ar e água, curvem-se à medida que se movem sobre a superfície da Terra. Esse efeito é causado pela rotação da Terra e é mais proeminente em latitudes mais altas. No Hemisfério Norte, objetos tendem a se desviar para a direita, enquanto no Hemisfério Sul, se desviam para a esquerda. O efeito Coriolis é o motivo pelo qual os furacões no Hemisfério Norte giram no sentido anti-horário, enquanto os furacões no Hemisfério Sul giram no sentido horário.

@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Cielo"]
-date = 2022-12-31T10:29:22Z
+categories = [ "Cielo" ]
+date = 2022-12-31T10:29:22.000Z
 description = ""
 image = "/images/glo_n.png"
-tags = ["siempre"]
+tags = [ "siempre" ]
 title = "Círculos del arco íris"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Uno de los fenómenos atmosféricos más interesantes y bellos son los círculos del arco iris, que llevan el nombre científico de "gloria".  
   
 Este es un efecto óptico que se puede ver desde un avión o desde la cima de una montaña sobre las nubes, de espaldas a la fuente de luz.  

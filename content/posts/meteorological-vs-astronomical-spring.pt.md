@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Terra"]
-date = 2023-03-01T09:51:35Z
+categories = [ "Terra" ]
+date = 2023-03-01T09:51:35.000Z
 description = ""
 image = "/images/meteorological-vs-astronomical-spring01.png"
-tags = ["primavera", "Terra", "Sol", "Março", "Setembro"]
+tags = [ "primavera", "Terra", "Sol", "Março", "Setembro" ]
 title = "Primavera Meteorológica vs Astronómica"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 A primavera meteorológica e a primavera astronómica são duas formas de definir o início da primavera, mas baseiam-se em critérios diferentes.
 
 A primavera meteorológica refere-se aos três meses civis de Março, Abril e Maio no Hemisfério Norte (ou Setembro, Outubro, e Novembro no Hemisfério Sul). Estes meses são considerados primavera porque geralmente têm temperaturas mais amenas e mais chuvas do que os meses de inverno anteriores, e os dias começam a ser mais longos.

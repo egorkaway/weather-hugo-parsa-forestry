@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Agua"]
-date = 2023-02-15T09:04:00Z
+categories = [ "Agua" ]
+date = 2023-02-15T09:04:00.000Z
 description = ""
 image = "/images/the-patagonian-glacier.png"
-tags = ["clima", "glaciar"]
+tags = [ "clima", "glaciar" ]
 title = "Los glaciares de la UNESCO corren el riesgo de desaparecer a mediados de siglo "
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Algunos de los glaciares inscritos en la Lista del Patrimonio Mundial de la UNESCO podrían desaparecer a mediados de siglo debido al calentamiento global y a otros factores como la contaminación y la actividad humana.  
   
 Uno de los glaciares más conocidos de la Lista del Patrimonio Mundial de la UNESCO que está amenazado de desaparición es el glaciar de la Patagonia, en Chile. Este glaciar se está derritiendo actualmente a un ritmo increíble, y los científicos predicen que para 2030 podría disminuir en un 90%.  

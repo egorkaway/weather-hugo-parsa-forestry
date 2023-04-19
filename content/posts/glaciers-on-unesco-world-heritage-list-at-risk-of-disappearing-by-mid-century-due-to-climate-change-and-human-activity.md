@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["water"]
-date = 2023-02-15T09:04:00Z
+categories = [ "water" ]
+date = 2023-02-15T09:04:00.000Z
 description = ""
 image = "/images/patagonian-glacier.png"
-tags = ["climate", "glacier"]
+tags = [ "climate", "glacier" ]
 title = "UNESCO-listed Glaciers at Risk of Disappearing by Mid-century "
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Some of the glaciers on the UNESCO World Heritage List may disappear by mid-century due to global warming and other factors such as pollution and human activity.
 
 One of the most well-known glaciers on the UNESCO World Heritage List that is under threat of disappearing is the Patagonian glacier in Chile. This glacier is currently melting at an incredible rate, and scientists predict that by 2030 it could decrease by 90%.

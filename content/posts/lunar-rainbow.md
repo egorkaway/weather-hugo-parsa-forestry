@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2022-05-13T10:45:20Z
+categories = [ "Sky" ]
+date = 2022-05-13T10:45:20.000Z
 description = ""
 image = "/images/lun.png"
-tags = ["rainbow", "timeless", "USA", "Canada"]
+tags = [ "rainbow", "timeless", "USA", "Canada" ]
 title = "Lunar Rainbow"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Did you know that apart from the usual rainbow, there is also a lunar one?
 
 Lunar (or night) rainbows are really rare. The reason is an exact combination of obligatory factors that must coincide in order for a lunar rainbow to appear in the night sky.

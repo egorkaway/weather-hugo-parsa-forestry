@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2020-05-02T21:00:00Z
+categories = [ "Sky" ]
+date = 2020-05-02T21:00:00.000Z
 description = ""
 image = "/images/saturn_n.png"
-tags = ["May", "Jupiter ", "2020", "Saturn", "astronomy"]
+tags = [ "May", "Jupiter ", "2020", "Saturn", "astronomy" ]
 title = "Jupiter and Saturn"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 The nights in May are almost the shortest of the year, however, one can see a lot of interesting things in the sky even in such short night hours.  
   
 For example, you can even observe two planets right in the East without any telescope: these are Jupiter and Saturn.  

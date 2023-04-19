@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Tierra"]
-date = 2021-07-12T14:50:00Z
+categories = [ "Tierra" ]
+date = 2021-07-12T14:50:00.000Z
 description = ""
 image = "/images/hot_n.jpg"
-tags = ["Irán"]
+tags = [ "Irán" ]
 title = "Lugar más caluroso de Tierra"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Este año, el calor está batiendo récords tanto en temperatura como en duración. Hemos decidido averiguar dónde está el punto más caliente de nuestro planeta.  
   
 Resultó ser el desierto de Deshte-Lut en el Medio Oriente. Este desierto arenoso-salino se encuentra en Irán, su longitud es de aproximadamente 550 km y su anchura es de 100 a 200 km.  

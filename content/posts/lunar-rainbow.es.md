@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Cielo"]
-date = 2022-04-06T10:45:20Z
+categories = [ "Cielo" ]
+date = 2022-04-06T10:45:20.000Z
 description = ""
 image = "/images/lun.png"
-tags = ["Canadá", "siempre"]
+tags = [ "Canadá", "siempre" ]
 title = "Arco íris lunar"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 ¿Sabíais que además del arcoíris habitual, también hay un arco íris lunar?
 
 Los arcoíris lunares (o nocturnos) son realmente raros. Y la razón es toda una combinación de factores obligatorios que deben coincidir para que aparezca un arco iris lunar en el cielo nocturno.

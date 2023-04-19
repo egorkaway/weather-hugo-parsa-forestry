@@ -1,15 +1,16 @@
 +++
 aliases = "/posts/fog-what-is-it-and-why-does-it-appear"
-categories = []
-date = 2023-03-03T21:00:00Z
+categories = [ ]
+date = 2023-03-03T21:00:00.000Z
 description = ""
 image = "/images/fog_.png"
-tags = ["Dubai", "Flórida", "nevoeiro", "água"]
+tags = [ "Dubai", "Flórida", "nevoeiro", "água" ]
 title = "Porque é que o nevoeiro aparece?"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 O nevoeiro não é apenas um simples fenômeno meteorológico, é uma obra-prima científica.
 
 Do ponto de vista científico, o nevoeiro é a acumulação de água no ar e a formação adicional de pequenos produtos de condensação do vapor de água. Além disso, quanto mais baixa for a temperatura, mais cristais de gelo haverá no nevoeiro em vez de gotas de água.

@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Tierra"]
-date = 2022-09-01T08:30:36Z
+categories = [ "Tierra" ]
+date = 2022-09-01T08:30:36.000Z
 description = ""
 image = "/images/fall_n.jpg"
-tags = ["septiembre"]
+tags = [ "septiembre" ]
 title = "Otoño astronómico"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 Esperando el otoño astronómico el 22 de septiembre.  
   
 Ya la semana que viene, el 22 de septiembre, tendrá lugar el equinoccio de otoño, es decir, comenzará el otoño según el calendario astronómico. Es en este día que las partes clara y oscura del día se igualarán, y a partir de esta fecha las horas de luz comenzarán a disminuirse.  

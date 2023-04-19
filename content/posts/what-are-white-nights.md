@@ -1,15 +1,27 @@
 +++
 aliases = ""
-categories = ["Sky"]
-date = 2022-06-05T10:16:42Z
+categories = [ "Sky" ]
+date = 2022-06-05T10:16:42.000Z
 description = ""
 image = "/images/white_n.png"
-tags = ["May", "July", "June", "Estonia", "USA", "Canada", "Russia", "Finland", "Iceland", "Scandinavia"]
-title = "What are \"White Nights\"?"
+tags = [
+  "May",
+  "July",
+  "June",
+  "Estonia",
+  "USA",
+  "Canada",
+  "Russia",
+  "Finland",
+  "Iceland",
+  "Scandinavia"
+]
+title = 'What are "White Nights"?'
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 What exactly are "White Nights" and what causes them?
 
 This is the name of the long twilight, which lasts all night. From an astronomical point of view, twilight is understood as a period of time when the Sun is shallow below the horizon.

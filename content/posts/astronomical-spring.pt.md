@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = []
-date = 2023-03-19T21:00:00Z
+categories = [ ]
+date = 2023-03-19T21:00:00.000Z
 description = ""
 image = "/images/spring_n.png"
-tags = ["equinócio", "março", "sol", "primavera"]
+tags = [ "equinócio", "março", "sol", "primavera" ]
 title = "Primavera Astronómica"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 20 de Março é o dia do equinócio vernal, após o qual a duração do dia se tornará gradualmente mais longa do que a da noite.
 
 No dia do equinócio, o Sol atravessará o equador celestial e equalizará dia e noite. Isso iniciará uma primavera astronómica no hemisfério norte. Consequentemente, um Outono astronómico virá no hemisfério sul.

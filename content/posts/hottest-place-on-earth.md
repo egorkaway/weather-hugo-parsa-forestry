@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Earth"]
-date = 2022-07-04T14:50:00Z
+categories = [ "Earth" ]
+date = 2022-07-04T14:50:00.000Z
 description = ""
 image = "/images/hot_n.jpg"
-tags = ["heat", "Iran"]
+tags = [ "heat", "Iran" ]
 title = "Hottest Place on Earth"
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 This year the heat is breaking records in both temperature and duration. Thus we decided to find out where the hottest point of our planet is.
 
 It turned out to be the Deshte-Lut desert in the Middle East. This

@@ -1,13 +1,14 @@
 +++
-categories = ["Sky"]
-date = 2021-01-01T21:00:00Z
+categories = [ "Sky" ]
+date = 2021-01-01T21:00:00.000Z
 description = ""
 image = "/images/january_n.jpg"
-tags = ["2021", "January", "Sirius"]
+tags = [ "2021", "January", "Sirius" ]
 title = "What Will The January Sky Show Us?"
 type = "post"
-
+_template = "post"
 +++
+
 The night sky in January is traditionally considered the most beautiful and generous for astronomical observations’ lovers.
 
 The bright constellations of Orion, Taurus and Auriga will be clearly visible above the southern horizon. In addition, it will also be possible to perfectly see the Horsehead and Orion nebulae, as well as the most beautiful star clusters of the Pleiades and Hyades.

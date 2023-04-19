@@ -1,15 +1,16 @@
 +++
 aliases = ""
-categories = ["Water"]
-date = 2023-01-31T07:20:18Z
+categories = [ "Water" ]
+date = 2023-01-31T07:20:18.000Z
 description = ""
 image = "/images/ocean.png"
-tags = ["ocean", "climate"]
+tags = [ "ocean", "climate" ]
 title = "World's Oceans Are Warming at Alarming Rate "
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 World's oceans are warming at an alarming rate, with temperatures rising at a rate of 0.13 degrees Fahrenheit (0.07 degrees Celsius) per decade since the 1970s. This warming is primarily caused by the burning of fossil fuels, which releases large amounts of greenhouse gases into the atmosphere. These gases trap heat from the sun, causing the Earth's temperature to rise.
 
 One of the most significant impacts of ocean warming is the bleaching of coral reefs. When water temperatures rise, coral reefs expel the symbiotic algae that live within them, causing the reefs to turn white. This process, known as coral bleaching, can lead to the death of the coral if the water does not cool down quickly enough. Coral reefs are important ecosystems that provide habitat for a wide variety of marine life, and their loss would have severe consequences for marine biodiversity.

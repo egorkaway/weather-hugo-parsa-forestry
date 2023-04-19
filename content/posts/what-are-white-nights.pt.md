@@ -1,15 +1,26 @@
 +++
 aliases = ""
-categories = []
-date = 2022-06-05T10:16:42Z
+categories = [ ]
+date = 2022-06-05T10:16:42.000Z
 description = ""
 image = "/images/white_n.png"
-tags = ["Finlândia", "Islândia", "Escandinávia", "Estônia", "Grã-Bretanha", "Estados Unidos", "Canadá", "junho", "maio"]
-title = "O que são as \"Noites Brancas\"?"
+tags = [
+  "Finlândia",
+  "Islândia",
+  "Escandinávia",
+  "Estônia",
+  "Grã-Bretanha",
+  "Estados Unidos",
+  "Canadá",
+  "junho",
+  "maio"
+]
+title = 'O que são as "Noites Brancas"?'
 type = "post"
 url = ""
-
+_template = "post"
 +++
+
 O que são exatamente as "Noites Brancas" e o que as causa?
 
 Este é o nome do longo crepúsculo que dura toda a noite. Do ponto de vista astronômico, o crepúsculo é entendido como um período de tempo em que o Sol está abaixo do horizonte.
