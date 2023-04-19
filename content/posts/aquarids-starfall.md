@@ -2,7 +2,7 @@
 aliases = ""
 categories = [ "Sky" ]
 date = 2023-04-17T23:00:00.000Z
-description = ""
+description = "Aquarids Starfall. The peak of its activity will be on May 6-7, but overall the shower is visible from about April 19 to about May 28 each year."
 image = "/images/meteor_n.jpg"
 tags = [ "Aquarids", "May", "April", "meteor", "astronomy" ]
 title = "Aquarids Starfall"
