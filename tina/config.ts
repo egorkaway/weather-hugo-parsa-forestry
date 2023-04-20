@@ -46,7 +46,7 @@ export default defineConfig({
         format: "yaml",
         label: "Configuration",
         name: "configuration",
-        path: "content/posts",
+        path: "content/",
         frontmatterFormat: "toml",
         frontmatterDelimiters: "+++",
         ui: {
