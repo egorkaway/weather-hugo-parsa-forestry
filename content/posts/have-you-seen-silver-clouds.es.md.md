@@ -14,6 +14,6 @@ Hasta el final del mes, será posible ver nubes plateadas o, como también se le
 
 Estas nubes se consideran las más altas entre todos los fenómenos de nubes: se forman a una altitud de 70-95 km. Para comparar: por lo general, las nubes no se elevan por encima de los 12 km.
 
-Además, las nubes plateadas también se distinguen por su enorme área, ocupando a veces varios millones de kilómetros cuadrados de espacio aéreo. 
+Además, las nubes plateadas también se distinguen por su enorme área, ocupando a veces varios millones de kilómetros cuadrados de espacio aéreo.
 
 Con mayor frecuencia, las nubes polares aparecen en el cielo 1,5-2 horas antes de la medianoche y son realmente impresionantes.
