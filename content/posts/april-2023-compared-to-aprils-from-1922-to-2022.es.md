@@ -8,6 +8,6 @@ tags = [ "2023", "clima", "abril" ]
 title = " Abril 2023 comparado con abriles de 1922 a 2022"
 type = "post"
 url = ""
-_template = "post"
 +++
 
+ Abril 2023
