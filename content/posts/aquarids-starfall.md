@@ -10,7 +10,7 @@ type = "post"
 url = ""
 +++
 
-In the first dates of May we will be able to watch the Aquarids Starfall. The peak of its activity will be on May 6-7, but overall the shower is visible from about April 19 to about May 28 each year.
+In the first dates of May we will be able to watch the Eta Aquariids Starfall. The peak of its activity will be on May 6-7, but overall the shower is visible from about April 19 to about May 28 each year.
 
 It will be seen brighter in the Southern Hemisphere, although the residents of the Northern half of the Earth will also be able to watch the starfall.
 
