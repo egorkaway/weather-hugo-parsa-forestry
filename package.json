@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/egorkaway/weather-hugo-parsa-forestry#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.5.8",
+    "@tinacms/cli": "^1.5.1",
     "tinacms": "^1.5.1"
   }
 }
