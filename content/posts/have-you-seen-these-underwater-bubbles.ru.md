@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Земля " ]
-date = 2020-12-12T21:00:00.000Z
+date = "2020-12-12T21:00:00.000Z"
 description = ""
 image = "/images/bubble_ice_n.jpg"
 tags = [ "всегда ", "Канада ", "Россия " ]
 title = "Ледяные подводные пузыри"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Ледяные подводные пузыри - одно из самых любопытных явлений природы.  
   
