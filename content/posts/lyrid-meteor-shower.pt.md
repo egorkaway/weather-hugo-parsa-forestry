@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ ]
-date = 2023-03-30T21:00:00.000Z
+date = "2023-03-30T21:00:00.000Z"
 description = ""
 image = "/images/ly_n.jpg"
 tags = [ "abril", "primavera" ]
 title = "Chuva de Meteoros Líridas"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Prepare-se para um espetáculo de meteoros! A primeira chuva de estrelas da primavera está a caminho e você não vai querer perder.
 
