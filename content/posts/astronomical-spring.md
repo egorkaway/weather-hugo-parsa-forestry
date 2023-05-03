@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2023-03-19T21:00:00.000Z
+date = "2023-03-19T21:00:00.000Z"
 description = ""
 image = "/images/spring_n.png"
 tags = [ "equinox", "Sun", "spring", "2021", "astronomy", "March " ]
 title = "Astronomical Spring"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 March 20 is the day of the vernal equinox, after which the length of the day will gradually become longer than that of the night.
 
