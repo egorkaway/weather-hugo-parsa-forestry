@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-03-24T21:00:00.000Z
+date = "2021-03-24T21:00:00.000Z"
 description = ""
 image = "/images/rain_bow_n.png"
 tags = [ "радуга" ]
 title = "Какая форма у радуги?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 А вы знали, что на самом деле радуга — это полный круг?  
   
