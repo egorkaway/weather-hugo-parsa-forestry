@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Tierra " ]
-date = 2020-12-15T21:00:00.000Z
+date = "2020-12-15T21:00:00.000Z"
 description = ""
 image = "/images/ice_.png"
 tags = [ "siempre", "nieve" ]
 title = "Agujas de hielo"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Agujas de hielo en lugar de nieve.  
   
