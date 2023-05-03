@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2022-05-12T20:00:00.000Z
+date = "2022-05-12T20:00:00.000Z"
 description = ""
 image = "/images/rain_bow_n.png"
 tags = [ "rainbow", "timeless" ]
 title = "What is the Real Form of the Rainbow?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Did you know that a full rainbow is actually a complete circle?
 
