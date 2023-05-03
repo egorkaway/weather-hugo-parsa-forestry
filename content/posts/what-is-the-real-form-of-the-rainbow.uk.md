@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-03-24T21:00:00.000Z
+date = "2021-03-24T21:00:00.000Z"
 description = ""
 image = "/images/rain_bow_n.png"
 tags = [ "завжди", "веселка" ]
 title = "Веселка — це коло?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 А ви знали, що насправді веселка — це повне коло?  
   
