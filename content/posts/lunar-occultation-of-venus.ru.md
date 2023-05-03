@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2020-06-14T15:06:20.000Z
+date = "2020-06-14T15:06:20.000Z"
 description = ""
 image = "/images/lunar_n.png"
 tags = [ "2020 ", "Венера ", "Луна ", "июнь" ]
 title = "Затмение Венеры Луной"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Затмение Венеры Луной 19 июня 2020 - не пропустите.  
   
