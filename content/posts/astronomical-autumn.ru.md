@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-09-12T08:30:36.000Z
+date = "2021-09-12T08:30:36.000Z"
 description = ""
 image = "/images/fall_n.jpg"
 tags = [ "сентябрь", "осень" ]
 title = "Астрономическая осень"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Встречаем астрономическую осень 22 сентября.  
   
