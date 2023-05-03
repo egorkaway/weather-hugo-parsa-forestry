@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2022-03-26T11:13:01.000Z
+date = "2022-03-26T11:13:01.000Z"
 description = ""
 image = "/images/glory_n.png"
 tags = [ "clouds", "Australia" ]
 title = "What is Morning Glory?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Morning glory — what is it and where can you see it?
 
