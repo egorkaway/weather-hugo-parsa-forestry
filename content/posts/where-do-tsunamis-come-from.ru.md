@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Океан" ]
-date = 2021-11-03T21:00:00.000Z
+date = "2021-11-03T21:00:00.000Z"
 description = ""
 image = "/images/tsu_.jpg"
 tags = [ "цунами", "Аляска", "всегда" ]
 title = "Откуда приходят цунами?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Откуда берутся цунами?  
   
