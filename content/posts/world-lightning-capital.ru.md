@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2022-09-14T20:00:00.000Z
+date = "2022-09-14T20:00:00.000Z"
 description = ""
 image = "/images/ai-2.png"
 tags = [ "молния ", "всегда" ]
 title = "Мировая столица молний"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Знаете ли вы, где находится «Мировая столица молний»?   
   
