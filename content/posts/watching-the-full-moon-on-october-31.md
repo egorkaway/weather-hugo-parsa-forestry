@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2020-10-17T21:00:00.000Z
+date = "2020-10-17T21:00:00.000Z"
 description = ""
 image = "/images/bridge_moon_n.png"
 tags = [ "moon", "2020", "October" ]
 title = "Watching the full moon on October 31, 2020"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 On the last day of the month, one can observe the full moon in the sky. The ideal observation time is 14:51 (UTC).
 
