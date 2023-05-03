@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Неба" ]
-date = 2022-11-07T21:00:00.000Z
+date = "2022-11-07T21:00:00.000Z"
 description = ""
 image = "/images/polar_.png"
 tags = [ "Канада", "сакавік" ]
 title = "А вы бачылі палярнае ззянне?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Палярнае ззянне — адна з самых выдатных прыродных з'яў Зямлі  
   
