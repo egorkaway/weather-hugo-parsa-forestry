@@ -1,13 +1,13 @@
 +++
 categories = [ "Небо" ]
-date = 2020-09-26T21:00:00.000Z
+date = "2020-09-26T21:00:00.000Z"
 description = ""
 image = "/images/convergence_n.jpg"
 tags = [ "2020 ", "Марс" ]
 title = "Зближення Марса і Землі"
 type = "post"
-_template = "post"
 +++
+
 
 Зближення Марса і Землі на початку жовтня  
   
