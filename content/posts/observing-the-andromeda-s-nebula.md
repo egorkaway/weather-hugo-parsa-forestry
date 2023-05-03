@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2020-09-07T19:05:42.000Z
+date = "2020-09-07T19:05:42.000Z"
 description = ""
 image = "/images/andromeda_n.jpg"
 tags = [ "astronomy", "2020 ", "September" ]
 title = "Observing the Andromeda's Nebula"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Already in mid-September, immediately after sunset, it will be possible to observe the galaxy beautifully named as "Andromeda's Nebula" (M31). It will be possible to see it more clearly through binoculars, and if you also have a telescope, then you will be able to see its satellites - compact elliptical galaxies M 32 and M 110.  
   
