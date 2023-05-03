@@ -1,12 +1,12 @@
 +++
-categories = ["Tierra"]
-date = 2021-04-05T21:00:00Z
+categories = [ "Tierra" ]
+date = "2021-04-05T21:00:00.000Z"
 image = "/images/elm_n.jpg"
-tags = ["relámpago", "tormenta", "siempre"]
+tags = [ "relámpago", "tormenta", "siempre" ]
 title = "Fuego de San Elmo"
 type = "post"
-
 +++
+
 No es un simple relámpago.  
   
 Los relámpagos pueden parecer no solo aterradores, sino también inusuales. Esto es lo que se puede decir sobre el "Fuego de San Elmo".  
