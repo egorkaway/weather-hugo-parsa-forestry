@@ -1,12 +1,12 @@
 +++
-categories = ["Cielo"]
-date = 2020-05-03T21:00:00Z
+categories = [ "Cielo" ]
+date = "2020-05-03T21:00:00.000Z"
 image = "/images/supermoon_n.jpg"
-tags = ["Luna", "2020 ", "mayo", "Florida", "California"]
+tags = [ "Luna", "2020 ", "mayo", "Florida", "California" ]
 title = "Súper Luna"
 type = "post"
-
 +++
+
 Ya esta semana, 7 de mayo, podremos observar la última Súper Luna de este año. Este interesante y muy hermoso fenómeno natural ocurre cuando la distancia entre la Luna y la Tierra se reduce a lо mínimo posible.  
   
 Esto es exactamente lo que sucederá el 7 de mayo a las 13.46, cuando la Luna será claramente visible en el cielo a la luz del día. La aparición nocturna del satélite de la Tierra tendrá lugar a las 20.30, y desde ese momento será posible observar la Luna inusualmente brillante y grande.  
