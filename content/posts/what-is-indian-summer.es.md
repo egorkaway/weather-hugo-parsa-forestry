@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2022-09-01T21:00:00.000Z
+date = "2022-09-01T21:00:00.000Z"
 description = ""
 image = "/images/summer_.jpg"
 tags = [
@@ -18,8 +18,8 @@ tags = [
 title = '¿Qué es el "verano indio" y cuándo ocurre?'
 type = "post"
 url = "/verano_indio"
-_template = "post"
 +++
+
 
 Mediados de otoño es el momento del "regreso del verano". Y aunque todos entendemos que un par de semanas cálidas y soleadas de otoño de todos modos serán reemplazadas por la primera helada, seguimos llamando «verano» a este período corto.  
   
