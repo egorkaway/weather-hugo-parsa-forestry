@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-06-14T10:45:20.000Z
+date = "2021-06-14T10:45:20.000Z"
 description = ""
 image = "/images/lun.png"
 tags = [ "радуга", "всегда", "США ", "Канада " ]
 title = "Лунная радуга"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 А вы знали, что кроме обычной радуги, есть еще и лунная?  
   
