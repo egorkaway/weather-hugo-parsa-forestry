@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Неба" ]
-date = 2020-06-14T15:06:20.000Z
+date = "2020-06-14T15:06:20.000Z"
 description = ""
 image = "/images/lunar_n.png"
 tags = [ "2020 ", "Венера ", "Месяц" ]
 title = "Зацьменне Венеры Месяцам"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Зацьменне Венеры Месяцам 19 чэрвеня 2020 - не прапусціце.  
   
