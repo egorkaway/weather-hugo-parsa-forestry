@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Cielo" ]
-date = 2022-07-19T06:24:11.000Z
+date = "2022-07-19T06:24:11.000Z"
 description = ""
 image = "/images/pers_n.png"
 tags = [ "agosto", "meteoros" ]
 title = "Lluvia de estrellas de las Perseidas"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Lluvia de estrellas de las Perseidas del 10 al 20 de agosto.  
   
