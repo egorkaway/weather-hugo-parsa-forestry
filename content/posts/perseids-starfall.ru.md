@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-08-02T06:24:11.000Z
+date = "2021-08-02T06:24:11.000Z"
 description = ""
 image = "/images/pers_n.png"
 tags = [ "метеор ", "астрономия ", "август " ]
 title = "Персеиды"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Звездопад Персеид с 10 по 20 августа.
 

@@ -1,12 +1,12 @@
 +++
-categories = ["Tierra"]
-date = 2021-03-09T21:00:00Z
+categories = [ "Tierra" ]
+date = "2021-03-09T21:00:00.000Z"
 image = "/images/giant_n.jpg"
-tags = ["Irlanda", "siempre"]
+tags = [ "Irlanda", "siempre" ]
 title = "Calzada de los Gigantes"
 type = "post"
-
 +++
+
 Increíble "Calzada de los Gigantes" en Irlanda del Norte.
 
 La gente ha pavimentado millones de caminos, pero la naturaleza los ha superado en esto también, creando la única Calzada de los Gigantes. Este extraordinario camino consta de 40,000 pilares de basalto interconectados que fueron creados por una antigua erupción volcánica.

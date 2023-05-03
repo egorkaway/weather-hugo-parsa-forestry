@@ -1,12 +1,12 @@
 +++
-categories = ["Cielo"]
-date = 2020-11-10T21:00:00Z
+categories = [ "Cielo" ]
+date = "2020-11-10T21:00:00.000Z"
 image = "/images/meteor_.png"
-tags = ["meteorito", "noviembre", "2020"]
+tags = [ "meteorito", "noviembre", "2020" ]
 title = "Lluvia de meteoritos de Leónidas"
 type = "post"
-
 +++
+
 Observando la lluvia de meteoritos de Leónidas el 16-18 de noviembre   
   
 Las Leónidas son una caída de estrellas conocida por sus llamaradas brillantes y abundantes. Todos los años se puede ver en noviembre, y este año no es una excepción.  

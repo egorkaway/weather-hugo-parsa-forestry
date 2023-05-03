@@ -1,13 +1,13 @@
 +++
 categories = [ "Акiян" ]
-date = 2021-03-25T21:00:00.000Z
+date = "2021-03-25T21:00:00.000Z"
 description = ""
 image = "/images/tsu_.jpg"
 tags = [ "цунамі" ]
 title = "Адкуль бяруцца цунамі?"
 type = "post"
-_template = "post"
 +++
+
 
 Адкуль бяруцца цунамі?  
   

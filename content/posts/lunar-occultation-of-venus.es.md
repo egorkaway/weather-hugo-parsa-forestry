@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Cielo" ]
-date = 2020-06-14T15:06:20.000Z
+date = "2020-06-14T15:06:20.000Z"
 description = ""
 image = "/images/lunar_n.png"
 tags = [ "Venus", "2020 ", "eclipse", "Luna" ]
 title = "Eclipse lunar de Venus"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Eclipse lunar de Venus el 19 de junio - no te lo pierdas.  
   

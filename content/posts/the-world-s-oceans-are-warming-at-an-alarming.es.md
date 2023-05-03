@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Agua" ]
-date = 2023-01-31T07:20:18.000Z
+date = "2023-01-31T07:20:18.000Z"
 description = ""
 image = "/images/ocean.png"
 tags = [ "Océano", "clima" ]
 title = "Océanos se están calentando a un ritmo alarmante"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Los océanos del mundo se están calentando a un ritmo alarmante, con un aumento de las temperaturas de 0,13 grados Fahrenheit (0,07 grados Celsius) por década desde los años setenta. Este calentamiento se debe principalmente a la quema de combustibles fósiles, que libera grandes cantidades de gases de efecto invernadero a la atmósfera. Estos gases atrapan el calor del sol, provocando el aumento de la temperatura de la Tierra.  
   

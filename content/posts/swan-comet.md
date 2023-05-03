@@ -1,13 +1,13 @@
 +++
 categories = [ "Sky" ]
-date = 2020-05-09T21:00:00.000Z
+date = "2020-05-09T21:00:00.000Z"
 description = ""
 image = "/images/swan_n.jpg"
 tags = [ "2020 ", "comet " ]
 title = "SWAN Comet"
 type = "post"
-_template = "post"
 +++
+
 
 A new comet will pass its closest to the Earth on May 13, 2020   
   

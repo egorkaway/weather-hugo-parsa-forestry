@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Cielo" ]
-date = 2022-11-30T21:00:00.000Z
+date = "2022-11-30T21:00:00.000Z"
 description = ""
 image = "/images/polar_.png"
 tags = [ "septiembre", "marzo", "Canadá", "Islandia", "Rusia" ]
 title = "Aurora boreal "
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Aurora boreal es uno de los fenómenos naturales más bellos de la Tierra  
   

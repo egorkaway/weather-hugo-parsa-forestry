@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2020-06-14T15:06:20.000Z
+date = "2020-06-14T15:06:20.000Z"
 description = ""
 image = "/images/lunar_n.png"
 tags = [ "2020 ", "Венера ", "Місяц" ]
 title = "Затемнення Венери Місяцем"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Затемнення Венери Місяцем 19 червня 2020 - не пропустить.  
   

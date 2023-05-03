@@ -1,15 +1,15 @@
 +++
 aliases = "/posts/not-just-simple-lightning"
 categories = [ "Earth" ]
-date = 2022-06-17T21:00:00.000Z
+date = "2022-06-17T21:00:00.000Z"
 description = ""
 image = "/images/elm_n.jpg"
 tags = [ "lightning", "timeless" ]
 title = "Saint Elmo's Fire"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Not just a simple lightning.
 

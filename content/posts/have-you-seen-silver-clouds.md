@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/silver-clouds"
 categories = [ "Sky" ]
-date = 2022-05-02T21:00:00.000Z
+date = "2022-05-02T21:00:00.000Z"
 description = ""
 image = "/images/silver_.jpg"
 tags = [
@@ -16,8 +16,8 @@ tags = [
 title = "Have You Seen Silver Clouds?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Silver clouds are not just an art installation by Andy Warhol, these actual clouds can be usually observed in summer until the end of July.
 

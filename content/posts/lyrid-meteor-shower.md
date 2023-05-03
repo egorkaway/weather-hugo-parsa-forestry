@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2023-04-16T21:00:00.000Z
+date = "2023-04-16T21:00:00.000Z"
 description = ""
 image = "/images/ly_n.jpg"
 tags = [ "April", "meteor " ]
@@ -9,6 +9,7 @@ title = "Lyrid Meteor Shower"
 type = "post"
 url = ""
 +++
+
 
 Get ready for a meteor spectacle! The first spring star rain is on its way, and you won't want to miss it.
 

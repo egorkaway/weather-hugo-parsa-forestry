@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2023-03-12T11:56:34.000Z
+date = "2023-03-12T11:56:34.000Z"
 description = ""
 image = "/images/island_n.jpg"
 tags = [ "siempre" ]
 title = "¿Se puede mover una isla?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 ¿Se puede mover una isla? Sí, pero sólo si es una inusual isla flotante situada en el lago Lake Pond en Massachusetts.  
   

@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Cielo" ]
-date = 2021-03-24T21:00:00.000Z
+date = "2021-03-24T21:00:00.000Z"
 description = ""
 image = "/images/rain_bow_n.png"
 tags = [ "siempre" ]
 title = "¿Arco iris es un círculo?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 ¿Sabíais que arco iris es en realidad un círculo completo?  
   

@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2023-01-30T07:25:51.000Z
+date = "2023-01-30T07:25:51.000Z"
 description = ""
 image = "/images/record-1.png"
 tags = [ "climate", "record", "2023", "January ", "Europe" ]
 title = "Warm January in Europe"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 On January 1st, 2023, Europe experienced a record-breaking high temperature, with some countries reaching temperatures that were significantly above the average for this time of year. This extreme weather event was likely influenced by climate change, as rising global temperatures have led to more frequent and intense heatwaves in many parts of the world.
 

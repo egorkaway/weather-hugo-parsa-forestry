@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ ]
-date = 2023-03-30T09:06:57.000Z
+date = "2023-03-30T09:06:57.000Z"
 description = ""
 image = "/images/frl4unvwwaeywlo.jpeg"
 tags = [ "tempestade", "ciclone ", "equador" ]
 title = "Você sabia que furacões nunca cruzam o equador? 🌀🌪️🌍"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Ciclones tropicais e furacões são poderosos sistemas meteorológicos que podem causar danos e destruição significativos. Essas tempestades geralmente se formam nos trópicos e se movem em direção a latitudes mais altas, afetando áreas como o Golfo do México e o sudeste dos Estados Unidos. No entanto, um fato peculiar sobre essas tempestades é que nenhum ciclone tropical ou furacão jamais cruzou o equador.
 

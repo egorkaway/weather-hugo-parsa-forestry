@@ -1,13 +1,13 @@
 +++
 categories = [ "Sky" ]
-date = 2020-07-11T21:00:00.000Z
+date = "2020-07-11T21:00:00.000Z"
 description = ""
 image = "/images/meteor_.png"
 tags = [ "meteor" ]
 title = "Delta Aquarids Meteor Shower"
 type = "post"
-_template = "post"
 +++
+
 
 Meteor shower on July 29th — don't miss it!
 

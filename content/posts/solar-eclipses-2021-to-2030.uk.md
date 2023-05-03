@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2022-08-25T09:10:19.000Z
+date = "2022-08-25T09:10:19.000Z"
 description = ""
 image = "/images/seworldmap2021w.jpg"
 tags = [ "Затемнення" ]
 title = "Сонячні затемнення: з 2021 по 2030 рік"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Сонячні затемнення в усьому світі з 2021 по 2030 рік.
 

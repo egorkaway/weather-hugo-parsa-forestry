@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Agua" ]
-date = 2023-02-15T09:04:00.000Z
+date = "2023-02-15T09:04:00.000Z"
 description = ""
 image = "/images/the-patagonian-glacier.png"
 tags = [ "clima", "glaciar" ]
 title = "Los glaciares de la UNESCO corren el riesgo de desaparecer a mediados de siglo "
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Algunos de los glaciares inscritos en la Lista del Patrimonio Mundial de la UNESCO podrían desaparecer a mediados de siglo debido al calentamiento global y a otros factores como la contaminación y la actividad humana.  
   

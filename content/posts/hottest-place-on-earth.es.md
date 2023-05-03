@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2021-07-12T14:50:00.000Z
+date = "2021-07-12T14:50:00.000Z"
 description = ""
 image = "/images/hot_n.jpg"
 tags = [ "Irán" ]
 title = "Lugar más caluroso de Tierra"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Este año, el calor está batiendo récords tanto en temperatura como en duración. Hemos decidido averiguar dónde está el punto más caliente de nuestro planeta.  
   

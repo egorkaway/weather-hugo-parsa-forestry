@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Cielo" ]
-date = 2020-06-01T14:41:09.000Z
+date = "2020-06-01T14:41:09.000Z"
 description = ""
 image = "/images/dance_n.jpg"
 tags = [ "2020 ", "Júpiter", "Saturno", "Luna" ]
 title = "Danza de los Planetas"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Los días 7 y 8 de junio Júpiter, Saturno y la Luna aparecerán juntos en el cielo nocturno.  
   

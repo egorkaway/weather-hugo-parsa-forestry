@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Cielo" ]
-date = 2020-09-07T19:05:42.000Z
+date = "2020-09-07T19:05:42.000Z"
 description = ""
 image = "/images/andromeda_n.jpg"
 tags = [ "2020 ", "septiembre" ]
 title = "Observamos la Nebulosa de Andrómeda"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Ya a mediados de septiembre, inmediatamente después de la puesta del sol, será posible observar la galaxia, que lleva el nombre de "Nebulosa de Andrómeda" (M31). Será posible verla más claramente a través de binoculares, y con telescopio incluso se podrá ver sus satélites: las compactas galaxias elípticas M 32 y M 110.  
   

@@ -1,13 +1,13 @@
 +++
 categories = [ "Sky" ]
-date = 2021-01-01T21:00:00.000Z
+date = "2021-01-01T21:00:00.000Z"
 description = ""
 image = "/images/january_n.jpg"
 tags = [ "2021", "January", "Sirius" ]
 title = "What Will The January Sky Show Us?"
 type = "post"
-_template = "post"
 +++
+
 
 The night sky in January is traditionally considered the most beautiful and generous for astronomical observations’ lovers.
 

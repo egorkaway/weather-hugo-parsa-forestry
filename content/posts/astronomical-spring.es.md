@@ -1,12 +1,12 @@
 +++
-categories = ["Cielo"]
-date = 2023-02-27T21:00:00Z
+categories = [ "Cielo" ]
+date = "2023-02-27T21:00:00.000Z"
 image = "/images/spring_n.png"
-tags = ["primavera", "Sol", "equinoccio", "2021"]
+tags = [ "primavera", "Sol", "equinoccio", "2021" ]
 title = "Celebrando una primavera astronómica"
 type = "post"
-
 +++
+
 El 20 de marzo es el día del equinoccio de primavera, después del cual la duración del día se volverá gradualmente más larga que la noche.
 
 El día del equinoccio, el Sol cruzará el ecuador celeste e igualará el día y la noche, lo que será el comienzo de una primavera astronómica en el hemisferio norte de la Tierra. En consecuencia, llegará un otoño astronómico en el hemisferio sur.

@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2023-03-30T09:06:57.000Z
+date = "2023-03-30T09:06:57.000Z"
 description = ""
 image = "/images/frl4unvwwaeywlo.jpeg"
 tags = [ "USA", "hurricane" ]
 title = "Did You Know that Hurricanes Never Cross the Equator?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Tropical cyclones and hurricanes are powerful weather systems that can cause significant damage and destruction. These storms typically form in the tropics and move towards higher latitudes, affecting areas such as Gulf of Mexico, and the southeastern United States. However, one peculiar fact about these storms is that no tropical cyclone or hurricane has ever crossed the equator.
 

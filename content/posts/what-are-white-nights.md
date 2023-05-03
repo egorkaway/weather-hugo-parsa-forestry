@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2022-06-05T10:16:42.000Z
+date = "2022-06-05T10:16:42.000Z"
 description = ""
 image = "/images/white_n.png"
 tags = [
@@ -19,8 +19,8 @@ tags = [
 title = 'What are "White Nights"?'
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 What exactly are "White Nights" and what causes them?
 

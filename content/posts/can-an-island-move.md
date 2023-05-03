@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2023-03-11T11:56:34.000Z
+date = "2023-03-11T11:56:34.000Z"
 description = ""
 image = "/images/island_n.jpg"
 tags = [ "timeless", "USA" ]
 title = "Can an island move?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Can an island move? Yes, but only if it’s an unusual floating island located in the Lake Pond in Massachusetts.  
   

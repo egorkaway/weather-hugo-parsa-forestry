@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2021-10-13T21:00:00.000Z
+date = "2021-10-13T21:00:00.000Z"
 description = ""
 image = "/images/mirage_.jpg"
 tags = [ "siempre" ]
 title = "¿Qué es un espejismo y de dónde viene?"
 type = "post"
 url = "/espejismo"
-_template = "post"
 +++
+
 
 El espejismo es sin duda uno de los fenómenos atmosféricos más misteriosos que siempre se ha asociado con secretos y leyendas. Pero en realidad, el espejismo se explica fácilmente desde un punto de vista científico.  
   

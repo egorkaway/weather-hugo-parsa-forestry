@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-02-07T21:00:00.000Z
+date = "2021-02-07T21:00:00.000Z"
 description = ""
 image = "/images/polar_.png"
 tags = [ "март", "Канада" ]
 title = "А вы видели полярное сияние?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Полярное сияние — одно из самых прекрасных природных явлений Земли  
   

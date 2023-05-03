@@ -1,6 +1,6 @@
 +++
 categories = [ "Cielo" ]
-date = 2020-05-16T21:00:00.000Z
+date = "2020-05-16T21:00:00.000Z"
 description = ""
 image = "/images/more_moon.png"
 tags = [
@@ -15,8 +15,8 @@ tags = [
 ]
 title = "Segundo eclipse lunar de 2020"
 type = "post"
-_template = "post"
 +++
+
 
 El 5 de junio 2020 se observará en el cielo el segundo eclipse lunar de este año, que también coincidirá con la luna llena.  
   

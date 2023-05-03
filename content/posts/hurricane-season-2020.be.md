@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Неба" ]
-date = 2020-05-12T21:00:00.000Z
+date = "2020-05-12T21:00:00.000Z"
 description = ""
 image = "/images/storm_n.jpg"
 tags = [ "2020", "NOAA", "ураган" ]
 title = "Cезон ураганаў 2020"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Цяперашні сезон ураганаў ў Атлантыцы абяцае быць самым моцным за апошнія некалькі гадоў.  
   

@@ -1,13 +1,13 @@
 +++
 categories = [ "Earth" ]
-date = 2020-12-14T21:00:00.000Z
+date = "2020-12-14T21:00:00.000Z"
 description = ""
 image = "/images/glacier_n.jpg"
 tags = [ "Italy", "glacier", "Alps", "timeless" ]
 title = "Glacier Covered with Tarpaulin"
 type = "post"
-_template = "post"
 +++
+
 
 In Italy a glacier was covered with tarpaulin to protect it from melting.
 

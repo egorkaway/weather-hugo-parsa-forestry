@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2023-04-17T23:00:00.000Z
+date = "2023-04-17T23:00:00.000Z"
 description = "Aquarids Starfall. The peak of its activity will be on May 6-7, but overall the shower is visible from about April 19 to about May 28 each year."
 image = "/images/meteor_n.jpg"
 tags = [ "Aquarids", "May", "April", "meteor", "astronomy" ]
@@ -9,6 +9,7 @@ title = "Aquarids Starfall"
 type = "post"
 url = ""
 +++
+
 
 In the first dates of May we will be able to watch the Eta Aquariids Starfall. The peak of its activity will be on May 6-7, but overall the shower is visible from about April 19 to about May 28 each year.
 

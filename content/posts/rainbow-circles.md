@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2023-03-28T09:29:22.000Z
+date = "2023-03-28T09:29:22.000Z"
 description = ""
 image = "/images/glo_n.png"
 tags = [ "rainbow", "timeless" ]
 title = "Rainbow Circles"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 One of the most interesting and beautiful atmospheric phenomena is the rainbow circles, that has got a scientific name of "gloria".  
   

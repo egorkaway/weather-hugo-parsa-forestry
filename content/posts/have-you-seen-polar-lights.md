@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2022-11-25T20:00:00.000Z
+date = "2022-11-25T20:00:00.000Z"
 description = ""
 image = "/images/polar_.png"
 tags = [
@@ -20,8 +20,8 @@ tags = [
 title = "Have You Seen Polar Lights?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Polar lights are one of the most beautiful natural phenomena on Earth
 

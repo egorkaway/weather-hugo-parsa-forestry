@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2023-01-30T07:25:51.000Z
+date = "2023-01-30T07:25:51.000Z"
 description = ""
 image = "/images/record_es.png"
 tags = [ "clima", "2023 ", "enero ", "Europa" ]
 title = "Un enero cálido en Europa"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 El 1 de enero de 2023, Europa experimentó temperaturas máximas sin precedentes, y algunos países registraron temperaturas muy superiores a la media para esta época del año. Este fenómeno meteorológico extremo estuvo probablemente influido por el cambio climático, ya que el aumento de las temperaturas globales provocó olas de calor más frecuentes e intensas en muchas partes del mundo.  
   

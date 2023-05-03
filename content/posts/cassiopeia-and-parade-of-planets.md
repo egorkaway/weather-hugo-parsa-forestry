@@ -1,13 +1,13 @@
 +++
 categories = [ "Sky" ]
-date = 2021-02-06T21:00:00.000Z
+date = "2021-02-06T21:00:00.000Z"
 description = ""
 image = "/images/stars.jpg"
 tags = [ "Mercury", "Venus", "Jupiter", "Saturn", "2021" ]
 title = "Cassiopeia and Parade of Planets"
 type = "post"
-_template = "post"
 +++
+
 
 On Sunday, February 14, 2021 we recommend you to find in the sky a bright variable star of V Cassiopeia, which will reach its maximum brightness exactly by St Valentine's Day  
   

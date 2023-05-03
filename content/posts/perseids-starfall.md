@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2022-07-19T06:24:11.000Z
+date = "2022-07-19T06:24:11.000Z"
 description = ""
 image = "/images/pers_n.png"
 tags = [ "August", "starfall", "meteor ", "astronomy" ]
 title = "Perseids Starfall "
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Perseids starfall from 10 to 20 August.
 

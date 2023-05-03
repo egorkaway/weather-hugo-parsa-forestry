@@ -1,13 +1,13 @@
 +++
 categories = [ "Cielo" ]
-date = 2020-09-26T21:00:00.000Z
+date = "2020-09-26T21:00:00.000Z"
 description = ""
 image = "/images/convergence_n.jpg"
 tags = [ "2020 ", "Marte" ]
 title = "Convergencia del Marte y la Tierra"
 type = "post"
-_template = "post"
 +++
+
 
 Convergencia del Marte y la Tierra a principios de octubre.  
   

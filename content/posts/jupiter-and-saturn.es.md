@@ -1,12 +1,12 @@
 +++
-categories = ["Cielo"]
-date = 2020-05-02T21:00:00Z
+categories = [ "Cielo" ]
+date = "2020-05-02T21:00:00.000Z"
 image = "/images/saturn_n.png"
-tags = ["Júpiter", "Saturno", "mayo", "2020 "]
+tags = [ "Júpiter", "Saturno", "mayo", "2020 " ]
 title = "Júpiter y Saturno"
 type = "post"
-
 +++
+
 Las noches de mayo son de las más cortas del año, sin embargo, durante las horas nocturnas se pueden ver muchas cosas interesantes en el cielo.  
   
 Por ejemplo, en el Este podéis observar dos planetas sin ningún telescopio: Júpiter y Saturno.  

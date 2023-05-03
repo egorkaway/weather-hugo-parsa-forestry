@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2023-03-02T09:59:35.000Z
+date = "2023-03-02T09:59:35.000Z"
 description = ""
 image = "/images/meteorological-station.png"
 tags = [ "ciencia ", "Tiempo", "Meteorología" ]
 title = "Cómo predicen el tiempo los meteorólogos"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Los meteorólogos utilizan diversas herramientas y técnicas para predecir el tiempo. Una de las más importantes es la estación meteorológica, que mide la temperatura, la humedad, la presión atmosférica, la velocidad y dirección del viento y otras condiciones atmosféricas. Los datos de estas estaciones se recogen y analizan para crear previsiones meteorológicas.  
   

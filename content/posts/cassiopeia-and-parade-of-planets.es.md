@@ -1,12 +1,12 @@
 +++
-categories = ["Cielo"]
-date = 2021-02-08T21:00:00Z
+categories = [ "Cielo" ]
+date = "2021-02-08T21:00:00.000Z"
 image = "/images/stars.jpg"
-tags = ["Mercurio", "Venus", "Júpiter", "Saturno", "2021"]
+tags = [ "Mercurio", "Venus", "Júpiter", "Saturno", "2021" ]
 title = "Desfile planetario y estrella de Cassiopeia esta semana ya"
 type = "post"
-
 +++
+
 Seguimos contándoos sobre los fenómenos astronómicos más interesantes.  
   
 El domingo 14 de febrero, os recomendamos encontrar en el cielo una brillante estrella variable V Cassiopeia, que alcanzará su brillo máximo para el mismo día de San Valentín.  

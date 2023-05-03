@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Cielo" ]
-date = 2022-08-25T10:13:01.000Z
+date = "2022-08-25T10:13:01.000Z"
 description = ""
 image = "/images/glory_n.png"
 tags = [ "Australia", "nubes" ]
 title = "¿Qué es Gloria de la Mañana?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Gloria de la Mañana — ¿qué es y dónde se puede verlo?  
   

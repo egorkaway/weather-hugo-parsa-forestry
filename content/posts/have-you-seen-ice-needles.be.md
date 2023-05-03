@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Зямля" ]
-date = 2020-12-15T21:00:00.000Z
+date = "2020-12-15T21:00:00.000Z"
 description = ""
 image = "/images/ice_.png"
 tags = [ "снег", "заўжды" ]
 title = "Ледзяныя іголкі"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Ледзяныя іголкі замест снегу.  
   

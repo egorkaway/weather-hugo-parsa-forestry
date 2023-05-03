@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ ]
-date = 2023-03-28T09:29:22.000Z
+date = "2023-03-28T09:29:22.000Z"
 description = ""
 image = "/images/glo_n.png"
 tags = [ "arco-íris" ]
 title = "Círculos de Arco-íris"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Você já ouviu falar de algo chamado "gloria"? 
 

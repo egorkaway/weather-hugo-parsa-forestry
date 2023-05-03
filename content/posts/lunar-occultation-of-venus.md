@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2020-06-14T15:06:20.000Z
+date = "2020-06-14T15:06:20.000Z"
 description = ""
 image = "/images/lunar_n.png"
 tags = [ "Venus", "2020 ", "June", "Moon", "eclipse" ]
 title = "Lunar Occultation of Venus"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Lunar occultation of Venus on June 19, 2020 - don’t forget to see.  
   

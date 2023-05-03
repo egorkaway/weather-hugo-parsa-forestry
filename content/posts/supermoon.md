@@ -1,6 +1,6 @@
 +++
 categories = [ "Sky" ]
-date = 2020-05-02T21:00:00.000Z
+date = "2020-05-02T21:00:00.000Z"
 description = ""
 image = "/images/supermoon_n.jpg"
 tags = [
@@ -13,8 +13,8 @@ tags = [
 ]
 title = "Supermoon"
 type = "post"
-_template = "post"
 +++
+
 
 Already this week, May 7, we’ll be able to observe the last Super Moon of the year. This interesting and very beautiful natural phenomenon occurs when the distance between the Moon and the Earth is reduced to the minimum.  
   

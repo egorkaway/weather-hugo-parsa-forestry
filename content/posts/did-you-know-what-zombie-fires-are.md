@@ -1,14 +1,14 @@
 +++
 aliases = "/posts/zombie-fires"
-categories = ["Earth"]
-date = 2022-10-12T20:00:00Z
+categories = [ "Earth" ]
+date = "2022-10-12T20:00:00.000Z"
 description = ""
 image = "/images/fire.jpg"
-tags = ["Canada", "Russia", "Greenland", "Alaska", "Arctic", "fire"]
-title = "Did You Know What \"Zombie Fires\" Are?"
+tags = [ "Canada", "Russia", "Greenland", "Alaska", "Arctic", "fire" ]
+title = 'Did You Know What "Zombie Fires" Are?'
 type = "post"
-
 +++
+
 An increasing number of “zombie fires” have been recorded recently in the Arctic zone.
 
 A “zombie fire” is a fire that slowly burns underground and then appears on the surface after a while.

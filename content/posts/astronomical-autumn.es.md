@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2022-09-01T08:30:36.000Z
+date = "2022-09-01T08:30:36.000Z"
 description = ""
 image = "/images/fall_n.jpg"
 tags = [ "septiembre" ]
 title = "Otoño astronómico"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Esperando el otoño astronómico el 22 de septiembre.  
   

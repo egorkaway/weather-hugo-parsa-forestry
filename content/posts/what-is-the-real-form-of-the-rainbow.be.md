@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Неба" ]
-date = 2021-03-24T21:00:00.000Z
+date = "2021-03-24T21:00:00.000Z"
 description = ""
 image = "/images/rain_bow_n.png"
 tags = [ "вясёлка", "заўжды" ]
 title = "Вясёлка — гэта кола?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 А вы ведалі, што на самой справе вясёлка — гэта поўнае кола?  
   

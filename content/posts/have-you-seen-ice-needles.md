@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2021-12-14T21:00:00.000Z
+date = "2021-12-14T21:00:00.000Z"
 description = ""
 image = "/images/ice_.png"
 tags = [ "ice ", "snow ", "Siberia", "timeless" ]
 title = "Have You Seen Ice Needles?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Ice needles instead of snow.
 

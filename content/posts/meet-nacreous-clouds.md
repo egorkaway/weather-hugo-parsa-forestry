@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2022-07-03T20:00:00.000Z
+date = "2022-07-03T20:00:00.000Z"
 description = ""
 image = "/images/cloudsss_n.png"
 tags = [
@@ -15,8 +15,8 @@ tags = [
 title = "Meet Nacreous Clouds"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Nacreous clouds are a real miracle of the northern latitudes.
 

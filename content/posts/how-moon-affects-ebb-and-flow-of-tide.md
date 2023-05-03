@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "water" ]
-date = 2023-02-26T12:40:09.000Z
+date = "2023-02-26T12:40:09.000Z"
 description = ""
 image = "/images/moon-ebbpng.png"
 tags = [ "moon", "ebb", "tide" ]
 title = "How Moon affects Ebb and flow of Tide"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 The moon plays a significant role in the ebb and flow of the tides. As the moon orbits around the Earth, it exerts a gravitational force on the planet. This force creates a tidal bulge on the side of the Earth facing the moon, as well as a second bulge on the opposite side of the Earth.
 

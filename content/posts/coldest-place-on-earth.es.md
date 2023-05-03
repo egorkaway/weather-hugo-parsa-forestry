@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2021-08-11T07:57:44.000Z
+date = "2021-08-11T07:57:44.000Z"
 description = ""
 image = "/images/ice_n.jpg"
 tags = [ "Antártida", "siempre", "frío" ]
 title = "Lugar más frío de Tierra"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Hace poco os contamos sobre la ubicación del lugar más caluroso del planeta. Hoy estamos listos para contaros dónde en la Tierra es el lugar más frío.  
   

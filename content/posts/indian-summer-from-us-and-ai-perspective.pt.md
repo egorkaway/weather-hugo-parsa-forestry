@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ ]
-date = 2021-09-11T07:38:29.000Z
+date = "2021-09-11T07:38:29.000Z"
 description = ""
 image = "/images/ai-1.png"
 tags = [ "AI", "Outubro", "América do Norte" ]
 title = "Verão indiano da perspectiva dos EUA (e da IA)"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 _NB: este post foi gerado por AI, não podemos garantir 100% sua precisão. Este é apenas um experimento e não deve ser tomado como escrita científica._
 

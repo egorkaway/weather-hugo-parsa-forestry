@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2023-01-17T08:57:44.000Z
+date = "2023-01-17T08:57:44.000Z"
 description = ""
 image = "/images/ice_n.jpg"
 tags = [ "Antarctica", "timeless" ]
 title = "Coldest Place on Earth"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 In 2018, record cold temperature was registered at -98.6 °C. This happened in the eastern part of the Queen Maud Land in Antarctica. Several cracks from 2 to 4 meters deep are located there accumulating icy air. If you breathe at this temperature it may easily provoke rather serious burns.
 

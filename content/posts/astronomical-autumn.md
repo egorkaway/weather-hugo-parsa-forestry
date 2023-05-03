@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2022-08-31T08:30:36.000Z
+date = "2022-08-31T08:30:36.000Z"
 description = ""
 image = "/images/fall_n.jpg"
 tags = [ "September" ]
 title = "Astronomical Autumn"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Meeting the astronomical autumn on September 22.
 

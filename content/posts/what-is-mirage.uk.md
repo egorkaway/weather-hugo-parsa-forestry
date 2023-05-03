@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ ]
-date = 2021-04-11T21:00:00.000Z
+date = "2021-04-11T21:00:00.000Z"
 description = ""
 image = "/images/mirage_.jpg"
 tags = [ "завжди" ]
 title = "Що таке міраж і звідки він береться?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
   
   
