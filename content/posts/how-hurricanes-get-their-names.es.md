@@ -1,13 +1,13 @@
 +++
-categories = ["Cielo"]
-date = 2021-04-21T21:00:00Z
+categories = [ "Cielo" ]
+date = "2021-04-21T21:00:00.000Z"
 description = ""
 image = "/images/hur_n.jpg"
-tags = ["EEUU", "siempre"]
+tags = [ "EEUU", "siempre" ]
 title = "¿Cómo huracanes obtienen nombres?"
 type = "post"
-
 +++
+
 ¿Sabéis cómo los huracanes y tifones obtienen sus nombres?  
   
 Anteriormente, no existía ningún sistema; los nombres de los huracanes dependían de la fecha (por ejemplo, el huracán Santa Anna, que sucedió el día de Santa Ana) o la forma (como sucedió con el huracán «Pin»).  
