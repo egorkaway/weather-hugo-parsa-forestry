@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Cielo" ]
-date = 2022-09-15T20:00:00.000Z
+date = "2022-09-15T20:00:00.000Z"
 description = ""
 image = "/images/ai-2.png"
 tags = [ "Venezuela", "relámpago", "siempre" ]
 title = "Capital mundial de relámpagos"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 ¿Sabéis dónde está la "Capital Mundial de Relámpagos"?  
   
