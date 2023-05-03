@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-06-14T10:45:20.000Z
+date = "2021-06-14T10:45:20.000Z"
 description = ""
 image = "/images/lun.png"
 tags = [ "веселка", "США" ]
 title = "Місячна веселка"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 А ви знали, що крім звичайної веселки, є ще і місячна?
 
