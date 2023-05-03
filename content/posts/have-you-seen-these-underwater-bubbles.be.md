@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Зямля" ]
-date = 2021-05-09T21:00:00.000Z
+date = "2021-05-09T21:00:00.000Z"
 description = ""
 image = "/images/bubble_ice_n.jpg"
 tags = [ "Канада ", "заўжды" ]
 title = "Ледзяныя падводныя бурбалкі"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Ледзяныя падводныя бурбалкі — адно з самых цікаўных з'яў прыроды.  
   
