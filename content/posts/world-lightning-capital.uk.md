@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2022-09-15T20:00:00.000Z
+date = "2022-09-15T20:00:00.000Z"
 description = ""
 image = "/images/ai-2.png"
 tags = [ ]
 title = "Світова столиця блискавок"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Чи знаєте ви, де знаходиться «Світова столиця блискавок»?  
   
