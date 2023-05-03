@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Неба" ]
-date = 2022-07-19T06:24:11.000Z
+date = "2022-07-19T06:24:11.000Z"
 description = ""
 image = "/images/pers_n.png"
 tags = [ "зарапад" ]
 title = "Зарапад Персеід "
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Зарапад Персеід з 10 па 20 жніўня.  
   
