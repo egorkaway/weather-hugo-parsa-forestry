@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = 2022-05-13T10:45:20.000Z
+date = "2022-05-13T10:45:20.000Z"
 description = ""
 image = "/images/lun.png"
 tags = [ "rainbow", "timeless", "USA", "Canada" ]
 title = "Lunar Rainbow"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Did you know that apart from the usual rainbow, there is also a lunar one?
 
