@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2022-02-08T21:00:00.000Z
+date = "2022-02-08T21:00:00.000Z"
 description = ""
 image = "/images/giant_n.jpg"
 tags = [ "Ireland", "coast", "timeless " ]
 title = "Giants’ Causeway"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Amazing "Giants’ Causeway" in Northern Ireland  
   
