@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-05-13T21:00:00.000Z
+date = "2021-05-13T21:00:00.000Z"
 description = ""
 image = "/images/silver_.jpg"
 tags = [ "май ", "июнь", " облака" ]
 title = "Cеребристые облака"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Редкие серебристые облака можно будет наблюдать до конца июля.  
   
