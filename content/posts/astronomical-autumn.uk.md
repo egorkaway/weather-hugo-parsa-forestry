@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2022-08-31T08:30:36.000Z
+date = "2022-08-31T08:30:36.000Z"
 description = ""
 image = "/images/fall_n.jpg"
 tags = [ "осінь" ]
 title = "Зустрічаємо астрономічну осінь 22 вересня"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Зустрічаємо астрономічну осінь 22 вересня.  
   
