@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-10-13T10:13:01.000Z
+date = "2021-10-13T10:13:01.000Z"
 description = ""
 image = "/images/glory_n.png"
 tags = [ "облака", "сентябрь", "октябрь", "ноябрь" ]
 title = "Утренняя глория"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Утренняя глория — что это такое и где можно ее увидеть?  
   
