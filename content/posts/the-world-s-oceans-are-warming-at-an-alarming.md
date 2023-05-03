@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Water" ]
-date = 2023-01-31T07:20:18.000Z
+date = "2023-01-31T07:20:18.000Z"
 description = ""
 image = "/images/ocean.png"
 tags = [ "ocean", "climate" ]
 title = "World's Oceans Are Warming at Alarming Rate "
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 World's oceans are warming at an alarming rate, with temperatures rising at a rate of 0.13 degrees Fahrenheit (0.07 degrees Celsius) per decade since the 1970s. This warming is primarily caused by the burning of fossil fuels, which releases large amounts of greenhouse gases into the atmosphere. These gases trap heat from the sun, causing the Earth's temperature to rise.
 
