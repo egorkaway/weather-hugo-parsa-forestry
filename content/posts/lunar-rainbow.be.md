@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Неба" ]
-date = 2021-06-14T10:45:20.000Z
+date = "2021-06-14T10:45:20.000Z"
 description = ""
 image = "/images/lun.png"
 tags = [ "ЗША", "вясёлка" ]
 title = "Месяцовая вясёлка"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 А вы ведалі, што акрамя звычайнай вясёлкі, ёсць яшчэ і месяцовая?
 
