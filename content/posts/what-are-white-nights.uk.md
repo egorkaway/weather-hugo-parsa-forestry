@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-05-05T10:16:42.000Z
+date = "2021-05-05T10:16:42.000Z"
 description = ""
 image = "/images/white_n.png"
 tags = [ "США" ]
 title = "Що таке «білі ночі»?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Що таке «білі ночі»?
 
