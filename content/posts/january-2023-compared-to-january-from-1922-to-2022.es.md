@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = "2023-01-03T10:00:00.000Z"
+date = 2023-01-03T10:00:00.000Z
 description = ""
 image = "/images/article-2023-january-es.png"
 tags = [ "2023", "clima", "enero" ]
@@ -10,4 +10,4 @@ type = "post"
 url = ""
 +++
 
-
+ Enero de 2023 
