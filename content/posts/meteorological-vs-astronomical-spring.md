@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2023-03-01T09:51:35.000Z
+date = "2023-03-01T09:51:35.000Z"
 description = ""
 image = "/images/meteorological-vs-astronomical-spring01.png"
 tags = [ "spring", "March", "Equinox", "September ", "sun" ]
 title = "Meteorological vs Astronomical Spring"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Meteorological Spring and Astronomical Spring are two ways of defining the start of spring, but they are based on different criteria.
 
