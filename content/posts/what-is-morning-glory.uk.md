@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2021-06-25T10:13:01.000Z
+date = "2021-06-25T10:13:01.000Z"
 description = ""
 image = "/images/glory_n.png"
 tags = [ "хмари" ]
 title = "Ранкова глорія — що це таке?"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Ранкова глорія — що це таке і де можна її побачити?  
   
