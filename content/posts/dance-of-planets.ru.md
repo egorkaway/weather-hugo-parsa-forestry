@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2020-06-01T14:41:09.000Z
+date = "2020-06-01T14:41:09.000Z"
 description = ""
 image = "/images/dance_n.jpg"
 tags = [ "2020 ", "Юпитер", "Сатурн", "Луна" ]
 title = "Танец планет"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 7 и 8 июня в ночном небе появятся рядом Юпитер, Сатурн и Луна.  
   
