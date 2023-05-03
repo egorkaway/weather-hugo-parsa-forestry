@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/what-is-indian-summer-and-when-does-it-happen"
 categories = [ "Earth" ]
-date = 2022-09-01T21:00:00.000Z
+date = "2022-09-01T21:00:00.000Z"
 description = ""
 image = "/images/summer_.jpg"
 tags = [
@@ -22,8 +22,8 @@ tags = [
 title = 'What is "Indian summer"?'
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 What is "Indian summer" and when does it happen?  
   
