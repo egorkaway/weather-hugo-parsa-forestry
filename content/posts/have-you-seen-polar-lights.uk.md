@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2023-01-06T21:00:00.000Z
+date = "2023-01-06T21:00:00.000Z"
 description = ""
 image = "/images/polar_.png"
 tags = [ "Канада", "березень" ]
 title = "Полярне сяйво"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Полярне сяйво — одне з найпрекрасніших природних явищ Землі  
   
