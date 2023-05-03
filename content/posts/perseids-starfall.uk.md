@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Небо" ]
-date = 2022-07-19T06:24:11.000Z
+date = "2022-07-19T06:24:11.000Z"
 description = ""
 image = "/images/pers_n.png"
 tags = [ "зорепад" ]
 title = "Персеїди"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Зорепад Персеїд з 10 по 20 серпня.  
   
