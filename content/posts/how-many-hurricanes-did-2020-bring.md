@@ -1,13 +1,13 @@
 +++
-categories = ["Earth"]
-date = 2020-12-11T23:00:00Z
+categories = [ "Earth" ]
+date = "2020-12-11T23:00:00.000Z"
 description = ""
 image = "/images/storm_2020.jpg"
-tags = ["America", "USA", "Caribbean", "hurricane"]
+tags = [ "America", "USA", "Caribbean", "hurricane" ]
 title = "How Many Hurricanes Did 2020 Bring?"
 type = "post"
-
 +++
+
 2020 hurricane season breaks a historic record.
 
 This year, the maximum recorded number of named hurricanes during the hurricane season reached 30. They mostly took place in the southeast coast of the United States, the Caribbean and Central America.
