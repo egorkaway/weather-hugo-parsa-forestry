@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Неба" ]
-date = 2020-06-01T14:41:09.000Z
+date = "2020-06-01T14:41:09.000Z"
 description = ""
 image = "/images/dance_n.jpg"
 tags = [ "2020 ", "Сатурн", "Юпітэр", "Месяц" ]
 title = "Танец трох планет"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 7 і 8 чэрвеня ў начным небе з'явяцца побач Юпітэр, Сатурн і Месяц.  
   
