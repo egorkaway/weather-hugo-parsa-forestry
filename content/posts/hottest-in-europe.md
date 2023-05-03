@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2023-04-05T08:33:45.000Z
+date = "2023-04-05T08:33:45.000Z"
 description = ""
 image = "/images/hottest.png"
 tags = [ "Europe", "climate " ]
 title = "Hottest in Europe"
 type = "post"
 url = ""
-_template = "post"
 +++
+
 
 Hottest temperatures ever recorded in Europe.
 
