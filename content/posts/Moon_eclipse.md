@@ -2,7 +2,7 @@
 title = "Upcoming Penumbral Lunar Eclipse: A Subtle Yet Fascinating Astronomical Event"
 date = 2023-05-04T22:00:00.000Z
 image = "https://assets.tina.io/13e8a745-1dee-4e77-8fc9-cb9d575ad6d4/moon1.png"
-categories = [ "SKY" ]
+categories = [ "" ]
 tags = [ "eclipse", "lunareclipse", "moon", "sky" ]
 url = ""
 type = "post"
