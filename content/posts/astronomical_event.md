@@ -1,7 +1,7 @@
 +++
 title = "Lunar Eclipse on May 5, 2023"
 date = 2023-05-04T22:00:00.000Z
-image = ""
+image = "https://assets.tina.io/13e8a745-1dee-4e77-8fc9-cb9d575ad6d4/images/more_moon.png"
 categories = [ "" ]
 tags = [ "eclipse", "sky" ]
 type = "posts"
