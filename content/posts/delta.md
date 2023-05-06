@@ -1,6 +1,6 @@
 +++ categories = [ "Sky" ] date = "2023-05-05T21:00:00.000Z" description = "" image = "/images/meteor_.png" tags = [ "meteor" ] title = "Delta Aquarids Meteor Shower 2023" type = "post" +++
 
-Meteor shower on July 30th — don't miss it!
+Meteor shower on July 30th 2023 — don't miss it!
 
 A meteor shower of Southern Delta Aquarids is expected to get the maximum force in the night sky on July 29. Scientists believe that the number of meteors can reach 25 per hour, and one will be able to observe them with the naked eye, provided the night is cloudless. The residents of southern latitudes will be the luckiest - the farther to the south, the brighter and more noticeable the meteors will be.
 
