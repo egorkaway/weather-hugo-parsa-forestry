@@ -3,10 +3,11 @@ title = "Nubes plateadas"
 date = 2023-05-06T23:00:00.000Z
 image = "/images/silver_.jpg"
 description = ""
-categories = [ "" ]
+categories = [ "Cielo" ]
 type = "post"
 aliases = ""
 url = ""
+tags = [ "junio", "julio", "nubes" ]
 +++
 
 Las nubes plateadas no son solo una instalación artística de Andy Warhol, sino que estas nubes reales se pueden observar habitualmente en verano hasta finales de julio.
