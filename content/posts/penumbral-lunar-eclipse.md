@@ -1,8 +1,8 @@
 +++
-title = "Penumbral Lunar Eclipse: A Subtle Yet Fascinating Astronomical Event"
-date = 2023-05-04T22:00:00.000Z
+title = "Penumbral Lunar Eclipse"
+date = 2023-05-01T23:00:00.000Z
 image = "/images/Lunar.png"
-categories = [ "SKY" ]
+categories = [ "Sky" ]
 tags = [ "moon", "eclipse" ]
 type = "post"
 +++
