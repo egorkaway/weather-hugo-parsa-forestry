@@ -1,10 +1,10 @@
 +++
-title = "Upcoming Penumbral Lunar Eclipse: A Subtle Yet Fascinating Astronomical Event"
+title = "Penumbral Lunar Eclipse: A Subtle Yet Fascinating Astronomical Event"
 date = 2023-05-04T22:00:00.000Z
 image = "/images/Lunar.png"
 categories = [ "SKY" ]
-tags = [ "moon", "lunareclipse", "eclipse" ]
-type = "posts"
+tags = [ "moon", "eclipse" ]
+type = "post"
 +++
 
 On Friday, May 5, the Moon will enter the Earth's outer shadow, creating a celestial event known as a penumbral lunar eclipse. During the eclipse, observers will see the Moon darken, but it won't disappear completely.
