@@ -10,7 +10,7 @@ languages:
     languageName: Portuguese
     logo: images/pt_.png
     weight: "6"
-    address: Porto / Tbilisi
+    address: Porto & Tbilisi
     title: 'Tempo e Clima: site da climacam.com'
     read_more: Mais...
     address_title: Onde
@@ -28,7 +28,7 @@ languages:
     languageName: Spanish
     weight: "2"
     logo: images/es_.png
-    address: Porto / Tbilisi 
+    address: Porto & Tbilisi 
     title: Tiempo y Clima presentados por climacam.com
     address_title: Donde
     follow: Redes
