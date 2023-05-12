@@ -10,6 +10,20 @@ languages:
     languageName: Portuguese
     logo: images/pt_.png
     weight: "6"
+    address: Porto / Tbilisi
+    title: 'Tempo e Clima: site da climacam.com'
+    read_more: Mais...
+    address_title: Onde
+    contact_info: Contato
+    follow: Redes sociais
+    previous: "« Avançar"
+    next: Voltar »
+    post_by: Publicado por
+    tag: Etiqueta
+    tags: Etiquetas
+    categories: Categorias
+    category: Categoria
+    post_available_in: Também está disponível nos seguintes idiomas
   es:
     languageName: Spanish
     weight: "2"
