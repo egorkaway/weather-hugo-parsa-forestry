@@ -26,8 +26,27 @@ export default defineConfig({
         label: "Posts",
         name: "posts",
         path: "content/posts",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
+        match: {
+          include: "**/*",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+          ...postFields(),
+        ],
+      },
+      {
+        format: "md",
+        label: "Clear",
+        name: "clear",
+        path: "content/clear",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -46,9 +65,8 @@ export default defineConfig({
         format: "yaml",
         label: "Configuration",
         name: "configuration",
-        path: "content/",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        path: "/",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,

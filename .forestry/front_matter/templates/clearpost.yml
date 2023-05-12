@@ -1,0 +1,322 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: file
+  name: image
+  label: image
+- type: text
+  name: description
+  label: description
+- type: list
+  name: categories
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- type: text
+  name: type
+  label: type
+  default: post
+  description: 'type: clear post or featured'
+- name: aliases
+  type: text
+  config:
+    required: false
+  label: aliases
+- name: url
+  type: text
+  config:
+    required: false
+  label: url
+pages:
+- content/posts/.uk-1.md
+- content/posts/.uk.md
+- content/posts/2022-temperatures-1920-to-2020.es.md
+- content/posts/2022-temperatures-1920-to-2020.md
+- content/posts/2023-temperatures-forecast-compared-with-1922-to-2022.be.md
+- content/posts/2023-temperatures-forecast-compared-with-1922-to-2022.es.md
+- content/posts/2023-temperatures-forecast-compared-with-1922-to-2022.md
+- content/posts/2023-temperatures-forecast-compared-with-1922-to-2022.uk.md
+- content/posts/a-warm-january-in-europe.es.md
+- content/posts/a-warm-january-in-europe.md
+- content/posts/april-2021-compared-1920-to-2020.md
+- content/posts/april-2021-compared-1920-to-2020.ru.md
+- content/posts/april-2022-compared-1920-2020.md
+- content/posts/april-2023-compared-to-aprils-from-1922-to-2022.be.md
+- content/posts/april-2023-compared-to-aprils-from-1922-to-2022.es.md
+- content/posts/april-2023-compared-to-aprils-from-1922-to-2022.md
+- content/posts/april-2023-compared-to-aprils-from-1922-to-2022.uk.md
+- content/posts/aquarids-starfall.md
+- content/posts/astronomical-autumn.be.md
+- content/posts/astronomical-autumn.es.md
+- content/posts/astronomical-autumn.md
+- content/posts/astronomical-autumn.ru.md
+- content/posts/astronomical-autumn.uk.md
+- content/posts/astronomical-spring.md
+- content/posts/astronomical-spring.pt.md
+- content/posts/august-2020-comets.md
+- content/posts/august-2023-compared-to-august-from-1922-to-2022.es.md
+- content/posts/august-2023-compared-to-august-from-1922-to-2022.md
+- content/posts/august-2023-compared-to-august-from-1922-to-2022.uk.md
+- content/posts/august-2023-compared-to-augusts-from-1922-to-2022.be.md
+- content/posts/brightest-celestial-body-of-july-jupiter.md
+- content/posts/brightest-celestial-body-of-july-jupiter.ru.md
+- content/posts/can-an-island-move.be.md
+- content/posts/can-an-island-move.es.md
+- content/posts/can-an-island-move.md
+- content/posts/can-an-island-move.ru.md
+- content/posts/can-an-island-move.uk.md
+- content/posts/cassiopeia-and-parade-of-planets.md
+- content/posts/coldest-place-on-earth.be.md
+- content/posts/coldest-place-on-earth.es.md
+- content/posts/coldest-place-on-earth.md
+- content/posts/coldest-place-on-earth.ru.md
+- content/posts/coldest-place-on-earth.uk.md
+- content/posts/dance-of-planets.be.md
+- content/posts/dance-of-planets.es.md
+- content/posts/dance-of-planets.md
+- content/posts/dance-of-planets.ru.md
+- content/posts/dance-of-planets.uk.md
+- content/posts/december-2023-compared-to-december-from-1922-to-2022.es.md
+- content/posts/december-2023-compared-to-december-from-1922-to-2022.md
+- content/posts/december-2023-compared-to-december-from-1922-to-2022.uk.md
+- content/posts/december-2023-compared-to-december-months-from-1922-to-2022.be.md
+- content/posts/december2021.md
+- content/posts/delta-aquarids-meteor-shower.md
+- content/posts/did-you-know-that-hurricanes-never-cross-the-equator.be.md
+- content/posts/did-you-know-that-hurricanes-never-cross-the-equator.es.md
+- content/posts/did-you-know-that-hurricanes-never-cross-the-equator.md
+- content/posts/did-you-know-that-hurricanes-never-cross-the-equator.pt.md
+- content/posts/do-you-know-what-lenticualr-clouds-are.be.md
+- content/posts/do-you-know-what-lenticualr-clouds-are.es.md
+- content/posts/do-you-know-what-lenticualr-clouds-are.md
+- content/posts/do-you-know-what-lenticualr-clouds-are.ru.md
+- content/posts/do-you-know-what-lenticualr-clouds-are.uk.md
+- content/posts/draconid-meteor-shower.be.md
+- content/posts/draconid-meteor-shower.es.md
+- content/posts/draconid-meteor-shower.md
+- content/posts/draconid-meteor-shower.ru.md
+- content/posts/draconid-meteor-shower.uk.md
+- content/posts/february-2021-compared-to-februarys-from-1920-to-2020.md
+- content/posts/february-2023-compared-to-february-from-1922-to-2022.be.md
+- content/posts/february-2023-compared-to-february-from-1922-to-2022.es.md
+- content/posts/february-2023-compared-to-february-from-1922-to-2022.md
+- content/posts/february-2023-compared-to-february-from-1922-to-2022.uk.md
+- content/posts/forecast-aug-2021.es.md
+- content/posts/forecast-aug-2021.md
+- content/posts/forecast-july-2021-compared-to-julys-from-1920-to-2020.es.md
+- content/posts/forecast-july-2021-compared-to-julys-from-1920-to-2020.md
+- content/posts/forecast-july-2021-compared-to-julys-from-1920-to-2020.ru.md
+- content/posts/forecast-sept-2021.es.md
+- content/posts/forecast-sept-2021.md
+- content/posts/frosty-days-per-year-in-europe.md
+- content/posts/giants-causeway.be.md
+- content/posts/giants-causeway.md
+- content/posts/glacier-covered-with-tarpaulin.md
+- content/posts/glaciers-on-unesco-world-heritage-list-at-risk-of-disappearing-by-mid-century-due-to-climate-change-and-human-activity.es.md
+- content/posts/glaciers-on-unesco-world-heritage-list-at-risk-of-disappearing-by-mid-century-due-to-climate-change-and-human-activity.md
+- content/posts/glaciers-on-unesco-world-heritage-list-at-risk-of-disappearing-by-mid-century-due-to-climate-change-and-human-activity.uk.md
+- content/posts/have-you-seen-ice-needles.be.md
+- content/posts/have-you-seen-ice-needles.es.md
+- content/posts/have-you-seen-ice-needles.md
+- content/posts/have-you-seen-ice-needles.ru.md
+- content/posts/have-you-seen-ice-needles.uk.md
+- content/posts/have-you-seen-polar-lights.be.md
+- content/posts/have-you-seen-polar-lights.es.md
+- content/posts/have-you-seen-polar-lights.md
+- content/posts/have-you-seen-polar-lights.ru.md
+- content/posts/have-you-seen-polar-lights.uk.md
+- content/posts/have-you-seen-silver-clouds.md
+- content/posts/have-you-seen-silver-clouds.ru.md
+- content/posts/have-you-seen-these-underwater-bubbles.be.md
+- content/posts/have-you-seen-these-underwater-bubbles.md
+- content/posts/have-you-seen-these-underwater-bubbles.ru.md
+- content/posts/hottest-in-europe.md
+- content/posts/hottest-in-europe.ru.md
+- content/posts/hottest-place-on-earth.be.md
+- content/posts/hottest-place-on-earth.es.md
+- content/posts/hottest-place-on-earth.md
+- content/posts/hottest-place-on-earth.ru.md
+- content/posts/hottest-place-on-earth.uk.md
+- content/posts/how-hurricanes-get-their-names.md
+- content/posts/how-moon-affects-ebb-and-flow-of-tide.be.md
+- content/posts/how-moon-affects-ebb-and-flow-of-tide.es.md
+- content/posts/how-moon-affects-ebb-and-flow-of-tide.md
+- content/posts/how-moon-affects-ebb-and-flow-of-tide.uk.md
+- content/posts/hurricane-names-for-2022.md
+- content/posts/hurricane-names-for-2023.es.md
+- content/posts/hurricane-names-for-2023.md
+- content/posts/hurricane-season-2020.be.md
+- content/posts/hurricane-season-2020.md
+- content/posts/indian-summer-from-us-and-ai-perspective.md
+- content/posts/indian-summer-from-us-and-ai-perspective.pt.md
+- content/posts/ios_app.uk.md
+- content/posts/january-2023-compared-to-january-from-1922-to-2022.be.md
+- content/posts/january-2023-compared-to-january-from-1922-to-2022.es.md
+- content/posts/january-2023-compared-to-january-from-1922-to-2022.md
+- content/posts/january-2023-compared-to-january-from-1922-to-2022.uk.md
+- content/posts/july-2023-compared-to-july-from-1922-to-2022.be.md
+- content/posts/july-2023-compared-to-july-from-1922-to-2022.es.md
+- content/posts/july-2023-compared-to-july-from-1922-to-2022.md
+- content/posts/july-2023-compared-to-july-from-1922-to-2022.uk.md
+- content/posts/june-2021-1920-to-2020.es.md
+- content/posts/june-2021-1920-to-2020.md
+- content/posts/june-2023-compared-to-june-from-1922-to-2022.be.md
+- content/posts/june-2023-compared-to-june-from-1922-to-2022.es.md
+- content/posts/june-2023-compared-to-june-from-1922-to-2022.md
+- content/posts/june-2023-compared-to-june-from-1922-to-2022.uk.md
+- content/posts/jupiter-and-saturn.be.md
+- content/posts/jupiter-and-saturn.md
+- content/posts/leonid-meteor-shower.be.md
+- content/posts/leonid-meteor-shower.md
+- content/posts/lunar-eclipse-june-5-2020.be.md
+- content/posts/lunar-eclipse-june-5-2020.es.md
+- content/posts/lunar-eclipse-june-5-2020.md
+- content/posts/lunar-eclipse-june-5-2020.ru.md
+- content/posts/lunar-eclipse-june-5-2020.uk.md
+- content/posts/lunar-occultation-of-venus.be.md
+- content/posts/lunar-occultation-of-venus.es.md
+- content/posts/lunar-occultation-of-venus.md
+- content/posts/lunar-occultation-of-venus.ru.md
+- content/posts/lunar-occultation-of-venus.uk.md
+- content/posts/lunar-rainbow.be.md
+- content/posts/lunar-rainbow.es.md
+- content/posts/lunar-rainbow.md
+- content/posts/lunar-rainbow.ru.md
+- content/posts/lunar-rainbow.uk.md
+- content/posts/lyrid-meteor-shower.md
+- content/posts/lyrid-meteor-shower.pt.md
+- content/posts/march-2021-compared-to-marches-from-1920-to-2020.md
+- content/posts/march-2021-compared-to-marches-from-1920-to-2020.ru.md
+- content/posts/march-2022.md
+- content/posts/march-2023-compared-to-march-from-1922-to-2022.be.md
+- content/posts/march-2023-compared-to-march-from-1922-to-2022.es.md
+- content/posts/march-2023-compared-to-march-from-1922-to-2022.md
+- content/posts/march-2023-compared-to-march-from-1922-to-2022.uk.md
+- content/posts/mars-and-earth-convergence.be.md
+- content/posts/mars-and-earth-convergence.es.md
+- content/posts/mars-and-earth-convergence.md
+- content/posts/mars-and-earth-convergence.ru.md
+- content/posts/mars-and-earth-convergence.uk.md
+- content/posts/may-2020-watch-the-sky.md
+- content/posts/may-2021-compared-to-mays-from-1920-to-2020.md
+- content/posts/may-2022-compared-to-may-from-1922-to-2022.md
+- content/posts/may-2023-compared-to-may-from-1922-to-2022.es.md
+- content/posts/may-2023-compared-to-may-from-1922-to-2022.uk.md
+- content/posts/may-2023-compared-to-may-months-from-1922-to-2022.be.md
+- content/posts/meet-nacreous-clouds.md
+- content/posts/mercury-in-may-2020.es.md
+- content/posts/mercury-in-may-2020.md
+- content/posts/mercury-in-may-2020.ru.md
+- content/posts/mercury-in-may-2020.uk.md
+- content/posts/meteorological-vs-astronomical-spring.be.md
+- content/posts/meteorological-vs-astronomical-spring.es.md
+- content/posts/meteorological-vs-astronomical-spring.md
+- content/posts/meteorological-vs-astronomical-spring.pt.md
+- content/posts/meteorological-vs-astronomical-spring.uk.md
+- content/posts/november-2021.md
+- content/posts/november-2023-compared-to-november-from-1922-to-2022.es.md
+- content/posts/november-2023-compared-to-november-from-1922-to-2022.md
+- content/posts/november-2023-compared-to-november-from-1922-to-2022.uk.md
+- content/posts/november-2023-compared-to-novembers-from-1922-to-2022.be.md
+- content/posts/observing-the-andromeda-s-nebula.be.md
+- content/posts/observing-the-andromeda-s-nebula.es.md
+- content/posts/observing-the-andromeda-s-nebula.md
+- content/posts/observing-the-andromeda-s-nebula.ru.md
+- content/posts/observing-the-andromeda-s-nebula.uk.md
+- content/posts/october-2021.es.md
+- content/posts/october-2021.md
+- content/posts/october-2023-compared-to-october-from-1922-to-2022.be.md
+- content/posts/october-2023-compared-to-october-from-1922-to-2022.es.md
+- content/posts/october-2023-compared-to-october-from-1922-to-2022.md
+- content/posts/october-2023-compared-to-october-from-1922-to-2022.uk.md
+- content/posts/orionids-starfall.be.md
+- content/posts/orionids-starfall.es.md
+- content/posts/orionids-starfall.md
+- content/posts/orionids-starfall.ru.md
+- content/posts/orionids-starfall.uk.md
+- content/posts/perseids-starfall.be.md
+- content/posts/perseids-starfall.es.md
+- content/posts/perseids-starfall.md
+- content/posts/perseids-starfall.ru.md
+- content/posts/perseids-starfall.uk.md
+- content/posts/rainbow-circles.be.md
+- content/posts/rainbow-circles.es.md
+- content/posts/rainbow-circles.md
+- content/posts/rainbow-circles.pt.md
+- content/posts/rainbow-circles.ru.md
+- content/posts/rainbow-circles.uk.md
+- content/posts/saint-elmo-s-fire.md
+- content/posts/saint-elmo-s-fire.pt.md
+- content/posts/september-2023-compared-to-september-from-1922-to-2022.es.md
+- content/posts/september-2023-compared-to-september-from-1922-to-2022.md
+- content/posts/september-2023-compared-to-september-from-1922-to-2022.uk.md
+- content/posts/september-2023-compared-to-septembers-from-1922-to-2022.be.md
+- content/posts/shining-circle-around-the-sun-or-moon-what-is-it.be.md
+- content/posts/shining-circle-around-the-sun-or-moon-what-is-it.md
+- content/posts/solar-eclipses-2021-to-2030.es.md
+- content/posts/solar-eclipses-2021-to-2030.md
+- content/posts/solar-eclipses-2021-to-2030.uk.md
+- content/posts/supermoon.md
+- content/posts/swan-comet.md
+- content/posts/the-world-s-oceans-are-warming-at-an-alarming.be.md
+- content/posts/the-world-s-oceans-are-warming-at-an-alarming.es.md
+- content/posts/the-world-s-oceans-are-warming-at-an-alarming.md
+- content/posts/the-world-s-oceans-are-warming-at-an-alarming.uk.md
+- content/posts/understanding-how-meteorologists-predict-weather.be.md
+- content/posts/understanding-how-meteorologists-predict-weather.es.md
+- content/posts/understanding-how-meteorologists-predict-weather.md
+- content/posts/understanding-how-meteorologists-predict-weather.uk.md
+- content/posts/watching-the-full-moon-on-october-31.md
+- content/posts/what-are-white-nights.es.md
+- content/posts/what-are-white-nights.md
+- content/posts/what-are-white-nights.pt.md
+- content/posts/what-are-white-nights.ru.md
+- content/posts/what-are-white-nights.uk.md
+- content/posts/what-is-indian-summer.be.md
+- content/posts/what-is-indian-summer.es.md
+- content/posts/what-is-indian-summer.md
+- content/posts/what-is-indian-summer.ru.md
+- content/posts/what-is-indian-summer.uk.md
+- content/posts/what-is-mirage.be.md
+- content/posts/what-is-mirage.es.md
+- content/posts/what-is-mirage.md
+- content/posts/what-is-mirage.ru.md
+- content/posts/what-is-mirage.uk.md
+- content/posts/what-is-morning-glory.be.md
+- content/posts/what-is-morning-glory.es.md
+- content/posts/what-is-morning-glory.md
+- content/posts/what-is-morning-glory.ru.md
+- content/posts/what-is-morning-glory.uk.md
+- content/posts/what-is-the-real-form-of-the-rainbow.be.md
+- content/posts/what-is-the-real-form-of-the-rainbow.es.md
+- content/posts/what-is-the-real-form-of-the-rainbow.md
+- content/posts/what-is-the-real-form-of-the-rainbow.ru.md
+- content/posts/what-is-the-real-form-of-the-rainbow.uk.md
+- content/posts/what-will-the-january-sky-show-us.be.md
+- content/posts/what-will-the-january-sky-show-us.md
+- content/posts/where-do-tsunamis-come-from.be.md
+- content/posts/where-do-tsunamis-come-from.es.md
+- content/posts/where-do-tsunamis-come-from.md
+- content/posts/where-do-tsunamis-come-from.ru.md
+- content/posts/where-do-tsunamis-come-from.uk.md
+- content/posts/why-does-fog-appear.be.md
+- content/posts/why-does-fog-appear.es.md
+- content/posts/why-does-fog-appear.md
+- content/posts/why-does-fog-appear.pt.md
+- content/posts/why-does-fog-appear.ru.md
+- content/posts/why-does-fog-appear.uk.md
+- content/posts/world-lightning-capital.be.md
+- content/posts/world-lightning-capital.es.md
+- content/posts/world-lightning-capital.md
+- content/posts/world-lightning-capital.ru.md
+- content/posts/world-lightning-capital.uk.md
