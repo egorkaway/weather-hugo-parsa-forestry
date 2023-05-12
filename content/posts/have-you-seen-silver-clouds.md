@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 aliases = "/posts/silver-clouds"
 categories = [ "Sky" ]

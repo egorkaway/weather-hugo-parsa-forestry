@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 aliases = "lenticular-clouds"
 categories = [ "Sky" ]

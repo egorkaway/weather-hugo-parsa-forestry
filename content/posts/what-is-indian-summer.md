@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 aliases = "/posts/what-is-indian-summer-and-when-does-it-happen"
 categories = [ "Earth" ]

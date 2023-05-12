@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 categories = [ ]
 date = "2021-04-30T10:56:34.000Z"

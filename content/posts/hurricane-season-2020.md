@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 categories = [ "Sky" ]
 date = "2020-05-12T21:00:00.000Z"

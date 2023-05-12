@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 categories = [ "Небо" ]
 date = "2020-07-01T14:54:28.000Z"

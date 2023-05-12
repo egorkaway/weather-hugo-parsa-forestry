@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 categories = [ "Earth" ]
 date = "2020-12-14T21:00:00.000Z"

@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 aliases = "/es/posts/what-are-white-nights/"
 categories = [ "Cielo" ]

@@ -1,8 +1,3 @@
----
-_template: clearpost
----
-
-
 +++
 aliases = "/posts/not-just-simple-lightning"
 categories = [ ]
