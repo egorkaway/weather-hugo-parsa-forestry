@@ -120,7 +120,6 @@ MyEnrichedFormat:
   baseName: myindex
   isPlainText: true
   mediaType: text/enriched
-  protocol: bep://
 outputs:
   home:
   - HTML
