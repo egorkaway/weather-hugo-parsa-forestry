@@ -46,7 +46,7 @@ export default defineConfig({
         format: "md",
         label: "Clearposts",
         name: "clearposts",
-        path: "content/posts",
+        path: "content/clearposts",
         frontmatterFormat: "toml",
         frontmatterDelimiters: "+++",
         match: {
