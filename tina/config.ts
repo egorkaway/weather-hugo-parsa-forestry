@@ -1,5 +1,6 @@
 import { defineConfig } from "tinacms";
 import { postFields } from "./templates";
+import { clearpostFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
@@ -60,7 +61,7 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
-          ...postFields(),
+          ...clearpostFields(),
         ],
       },
       {
