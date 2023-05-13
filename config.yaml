@@ -116,6 +116,11 @@ module:
       target: static/images
 summaryLength: "39"
 paginate: "12"
+MyEnrichedFormat:   
+  baseName: myindex
+  isPlainText: true
+  mediaType: text/enriched
+  protocol: bep://
 outputs:
   home:
   - HTML
@@ -183,8 +188,3 @@ menu:
     name: About
     weight: "1"
     outputFormats:
-  MyEnrichedFormat:
-    baseName: myindex
-    isPlainText: true
-    mediaType: text/enriched
-    protocol: bep://
