@@ -43,6 +43,27 @@ export default defineConfig({
         ],
       },
       {
+        format: "md",
+        label: "Clearposts",
+        name: "clearposts",
+        path: "content/posts",
+        frontmatterFormat: "toml",
+        frontmatterDelimiters: "+++",
+        match: {
+          include: "**/*",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+          ...postFields(),
+        ],
+      },
+      {
         format: "yaml",
         label: "Configuration",
         name: "configuration",
