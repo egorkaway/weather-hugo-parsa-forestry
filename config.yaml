@@ -116,10 +116,6 @@ module:
       target: static/images
 summaryLength: "39"
 paginate: "12"
-MyEnrichedFormat:   
-  baseName: myindex
-  isPlainText: true
-  mediaType: text/enriched
 outputs:
   home:
   - HTML
