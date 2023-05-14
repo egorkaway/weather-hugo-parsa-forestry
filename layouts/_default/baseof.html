@@ -2,9 +2,18 @@
 <html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     {{- partial "head.html" . -}}
     <body>
+        {{ if or (eq .Section "clearposts") (eq .Section "clearpost") }}
+
+        {{- partial "preloader.html" . -}}
+        {{- block "main" . }}{{- end }}
+
+        {{ else }}
+
         {{- partial "preloader.html" . -}}
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}
+
+        {{ end }}
     </body>
 </html>
