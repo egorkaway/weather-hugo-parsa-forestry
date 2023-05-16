@@ -1,7 +1,7 @@
 +++
 aliases = "/es/posts/what-are-white-nights/"
 categories = [ "Cielo" ]
-date = "2021-05-08T10:16:42.000Z"
+date = 2023-05-14T23:00:00.000Z
 description = ""
 image = "/images/white_n.png"
 tags = [
@@ -18,7 +18,6 @@ title = '¿Qué son "las noches blancas"?'
 type = "post"
 url = "/p/noches_blancas"
 +++
-
 
 Este es el nombre del crepúsculo, que dura toda la noche. Desde un punto de vista astronómico, el crepúsculo se entiende como un período de tiempo en el que el Sol se encuentra a poca profundidad bajo el horizonte.
 
