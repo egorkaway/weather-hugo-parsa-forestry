@@ -135,9 +135,9 @@ outputs:
   - RSS
 outputFormats:
   printFormat:
-    name: print
+    name: mini
     mediaType: text/html
-    baseName: print
+    baseName: mini
     isPlainText: false
     rel: alternate
     isHTML: false
