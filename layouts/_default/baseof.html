@@ -2,7 +2,7 @@
 <html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     {{- partial "head.html" . -}}
     <body>
-        {{ if or (eq .Section "clearposts") (eq .Section "clearpost") }}
+        {{ if or (eq .Section "c") }}
 
         {{- partial "preloader.html" . -}}
         {{- block "main" . }}{{- end }}

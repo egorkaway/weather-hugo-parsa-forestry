@@ -53,7 +53,7 @@ export function postFields() {
     },
   ] as TinaField[];
 }
-export function clearpostFields() {
+export function cFields() {
   return [
     {
       type: "string",

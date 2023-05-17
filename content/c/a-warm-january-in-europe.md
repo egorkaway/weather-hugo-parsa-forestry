@@ -6,7 +6,7 @@ description = ""
 image = "/images/record-1.png"
 tags = [ "climate", "record", "2023", "January ", "Europe" ]
 title = "Warm January in Europe"
-type = "clearpost"
+type = "c"
 url = ""
 +++
 
