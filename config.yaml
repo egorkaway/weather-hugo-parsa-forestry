@@ -121,6 +121,16 @@ outputs:
   - HTML
   - RSS
   - JSON
+outputFormats:
+  printFormat:
+    name: print
+    mediaType: text/html
+    baseName: print
+    isPlainText: false
+    rel: alternate
+    isHTML: false
+    noUgly: true
+    permalinkable: false
 params:
   plugins:
     css:
