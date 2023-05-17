@@ -1,6 +1,5 @@
 import { defineConfig } from "tinacms";
 import { postFields } from "./templates";
-import { cFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
@@ -41,27 +40,6 @@ export default defineConfig({
             isBody: true,
           },
           ...postFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "C",
-        name: "c",
-        path: "content/c",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
-        match: {
-          include: "**/*",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...cFields(),
         ],
       },
       {
