@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ ]
-date = "2022-06-05T10:16:42.000Z"
+date = 2023-05-14T23:00:00.000Z
 description = ""
 image = "/images/white_n.png"
 tags = [
@@ -19,7 +19,6 @@ title = 'O que são as "Noites Brancas"?'
 type = "post"
 url = ""
 +++
-
 
 O que são exatamente as "Noites Brancas" e o que as causa?
 
