@@ -121,6 +121,18 @@ outputs:
   - HTML
   - RSS
   - JSON
+  page:
+  - HTML
+  - print
+  section:
+  - HTML
+  - RSS
+  taxonomy:
+  - HTML
+  - RSS
+  term:
+  - HTML
+  - RSS
 outputFormats:
   printFormat:
     name: print
