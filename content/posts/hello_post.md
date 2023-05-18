@@ -5,6 +5,7 @@ image = "/IMG_6117.JPG"
 description = "Hello"
 type = "post"
 aliases = "hello"
+categories = [ "hello" ]
 +++
 
 Hello
