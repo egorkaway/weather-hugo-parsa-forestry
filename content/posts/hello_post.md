@@ -6,6 +6,7 @@ description = "Hello"
 type = "post"
 aliases = "hello"
 categories = [ "hello" ]
+url = ""
 +++
 
 Hello
