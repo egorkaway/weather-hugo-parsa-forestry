@@ -7,4 +7,4 @@ tags = [ "hurricane", "storm" ]
 type = "post"
 +++
 
-The Atlantic hurricane names for the year 2023 are as follows: Alberto, Beryl, Chris, Debby, Ernesto, Francine, Gordon, Helene, Isaac, Joyce, Kirk, Leslie, Milton, Nadine, Oscar, Patty, Rafael, Sara, Tony, Valerie, William.
+The Atlantic hurricane names for the year 2024 are as follows: Alberto, Beryl, Chris, Debby, Ernesto, Francine, Gordon, Helene, Isaac, Joyce, Kirk, Leslie, Milton, Nadine, Oscar, Patty, Rafael, Sara, Tony, Valerie, William.
