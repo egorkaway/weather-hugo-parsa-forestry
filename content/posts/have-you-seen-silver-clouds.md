@@ -20,7 +20,7 @@ url = ""
 
 Silver clouds are not just an art installation by Andy Warhol, these actual clouds can be usually observed in summer until the end of July.
 
-Until the end of the month, it will be possible to see silver or, as they are also called, polar clouds in the sky over Northern Europe, Canada and the northern regions of Russia.
+Starting late May the end of the month of July it might be possible to see silver or, as they are also called, "polar" clouds in the sky over Northern Europe, Canada and the northern regions of Russia.
 
 These clouds are considered the highest among all cloud phenomena: they form at an altitude of 70-95 km. For comparison: usually the clouds do not rise above 12 km.
 
