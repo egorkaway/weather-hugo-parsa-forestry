@@ -2,7 +2,7 @@
 title = "Shoes that Fight Climate Change?"
 date = 2023-05-18T23:00:00.000Z
 image = "/images/z_on_instagram.png"
-type = "posts"
+type = "post"
 +++
 
 Would you be alright if we start writing about products and services that help us mitigate climate emergency? 
