@@ -11,4 +11,4 @@ Of course you would, so here is a shoe brand from Portugal that does exactly thi
 \
 They collect plastic waste from beaches of the North of Portugal and use fabric made from pineapple leaves instead of leather, so that the resulting shoes are if not 100% sustainable - still telling the story of how we can do better. \
 \
-[Here is more in their pwn words.](https://www.zouri-shoes.com/Home/About)
+[Here is more in their own words.](https://www.zouri-shoes.com/Home/About)
