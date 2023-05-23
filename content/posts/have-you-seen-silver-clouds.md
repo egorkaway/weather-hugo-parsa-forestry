@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/silver-clouds"
 categories = [ "Sky" ]
-date = 2023-05-06T23:00:00.000Z
+date = 2023-05-21T23:00:00.000Z
 description = ""
 image = "/images/silver_.jpg"
 tags = [
