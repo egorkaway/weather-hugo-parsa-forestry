@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Земля" ]
-date = "2023-06-01T10:46:28.000Z"
+date = 2023-05-30T23:00:00.000Z
 description = ""
 image = "/images/article-2023-june-ua.png"
 tags = [ "2023", "червень", "клiмат" ]
@@ -9,5 +9,4 @@ title = "Червень 2023 року порівняно з червневими
 type = "post"
 url = ""
 +++
-
 
