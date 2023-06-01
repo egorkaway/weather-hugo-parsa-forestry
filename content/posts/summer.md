@@ -3,6 +3,7 @@ title = "Meteorological vs Astronomical Summer"
 date = 2023-05-31T23:00:00.000Z
 tags = [ "summer" ]
 type = "post"
+image = "/images/egor-kunovsky-1cpf9j__9jg-unsplash.jpg"
 +++
 
 Meteorological summer and astronomical summer are two different ways of defining the summer season.
