@@ -6,6 +6,9 @@ languages:
   en:
     languageName: English
     weight: "1"
+  fr:
+    languageName: French
+    weight: "7"
   pt:
     languageName: Portuguese
     logo: images/pt_.png
