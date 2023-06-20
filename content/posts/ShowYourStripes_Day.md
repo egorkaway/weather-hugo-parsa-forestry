@@ -1,7 +1,7 @@
 +++
 title = "#ShowYourStripes Day"
 date = 2023-06-19T23:00:00.000Z
-image = "/images/i_2.png"
+image = "/images/Iphone02-min.png"
 tags = [ "climate" ]
 type = "post"
 +++
