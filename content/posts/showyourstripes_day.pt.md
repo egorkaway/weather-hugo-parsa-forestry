@@ -14,4 +14,4 @@ A gravidade da crise climática não pode ser exagerada. O planeta está aquecen
 
 Ao participar do dia #ShowYourStripes, podemos ajudar a aumentar a conscientização sobre a urgência da crise climática e inspirar outros a agir. Juntos, podemos construir um futuro mais sustentável para nós mesmos e para as gerações futuras.
 
-Para aqueles que usam dispositivos iPhone ou iPad, uma maneira divertida de participar pode ser instalando um aplicativo de clima que exibiria os gráficos "climate stripes" para cada local onde o usuário verifica a previsão do tempo.
+Para aqueles que usam dispositivos iPhone ou iPad, uma maneira divertida de participar pode ser instalando um [aplicativo de clima que exibiria os gráficos "climate stripes" para cada local](https://climacam.com/) onde o usuário verifica a previsão do tempo.
