@@ -18,7 +18,7 @@ type = "post"
 url = ""
 +++
 
-Silver clouds are not just an art installation by Andy Warhol, these actual clouds can be usually observed in summer until the end of July.
+Silver clouds are not just an art installation by Andy Warhol, these actual clouds (also called NLC or noctilucent clouds) can be usually observed in summer until the end of July.
 
 Starting late May the end of the month of July it might be possible to see silver or, as they are also called, "polar" clouds in the sky over Northern Europe, Canada and the northern regions of Russia.
 
