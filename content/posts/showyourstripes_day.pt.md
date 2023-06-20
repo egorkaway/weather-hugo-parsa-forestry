@@ -6,7 +6,7 @@ tags = [ "clima" ]
 type = "post"
 +++
 
-O dia 21 de junho é o dia #ShowYourStripes, uma iniciativa global que tem como objetivo aumentar a conscientização sobre as mudanças climáticas. O dia recebeu esse nome em homenagem aos icônicos gráficos "climate stripes", que retratam o aquecimento da superfície terrestre ao longo do tempo, utilizando um esquema de cores simples, com o azul representando temperaturas mais frias e o vermelho representando temperaturas mais quentes.
+O dia 21 de junho é o dia [#ShowYourStripes](https://showyourstripes.info/), uma iniciativa global que tem como objetivo aumentar a conscientização sobre as mudanças climáticas. O dia recebeu esse nome em homenagem aos icônicos gráficos "climate stripes", que retratam o aquecimento da superfície terrestre ao longo do tempo, utilizando um esquema de cores simples, com o azul representando temperaturas mais frias e o vermelho representando temperaturas mais quentes.
 
 Os "climate stripes" foram desenvolvidos pela primeira vez pelo cientista climático Ed Hawkins em 2018 e, desde então, têm sido amplamente utilizados para mostrar o impacto das mudanças climáticas de uma maneira visualmente marcante e fácil de entender. No dia #ShowYourStripes, indivíduos e organizações ao redor do mundo são encorajados a compartilhar seus próprios gráficos "climate stripes" nas redes sociais, usando a hashtag #ShowYourStripes para espalhar a mensagem sobre a necessidade urgente de ação sobre as mudanças climáticas.
 
