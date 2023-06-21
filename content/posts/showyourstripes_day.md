@@ -6,7 +6,7 @@ tags = [ "june", "climate" ]
 type = "post"
 +++
 
-June 21st is [#ShowYourStripes](https://showyourstripes.info "Show Your Stripes ") day, a global initiative aimed at raising awareness about climate change. The day is named after the iconic "climate stripes" graphics, which depict the warming of the earth's surface over time using a simple color scheme, with blue representing cooler temperatures and red representing warmer temperatures.
+June 21st is [#ShowYourStripes](https://showyourstripes.info "Show Your Stripes ") day, a global initiative aimed at raising awareness about climate change. The day is named after the iconic "climate stripes" graphics, which depict the warming of the earth's surface over time using a simple color scheme, with 🟦 blue representing cooler temperatures and 🟥 red representing warmer temperatures.
 
 The climate stripes were first developed by climate scientist Ed Hawkins in 2018, and have since been widely used to show the impact of climate change in a visually striking and easy-to-understand way. On #ShowYourStripes day, individuals and organizations around the world are encouraged to share their own climate stripes graphics on social media, using the hashtag #ShowYourStripes to spread the message about the urgent need for action on climate change.
 
