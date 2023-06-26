@@ -1,5 +1,5 @@
 +++
-title = "How many Colors does Rainbow have?"
+title = "How Many Colors does Rainbow have?"
 date = 2021-09-25T21:00:00.000Z
 image = "/images/rain_bow_n.png"
 categories = [ "SKY" ]
