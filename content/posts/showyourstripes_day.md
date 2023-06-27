@@ -4,6 +4,7 @@ date = 2023-06-19T23:00:00.000Z
 image = "/images/Iphone02new.png"
 tags = [ "june", "climate" ]
 type = "post"
+categories = [ "Earth" ]
 +++
 
 June 21st is [#ShowYourStripes](https://showyourstripes.info "Show Your Stripes ") day, a global initiative aimed at raising awareness about climate change. The day is named after the iconic "climate stripes" graphics, which depict the warming of the earth's surface over time using a simple color scheme, with 🟦 blue representing cooler temperatures and 🟥 red representing warmer temperatures.
