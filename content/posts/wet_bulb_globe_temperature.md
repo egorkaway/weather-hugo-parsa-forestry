@@ -2,6 +2,7 @@
 title = "What is Wet Bulb Globe Temperature? "
 date = 2023-06-21T23:00:00.000Z
 image = "/images/pexels-alex-azabache-3264722.jpg"
+type = "post"
 +++
 
 In order keep safe when it's hot outside, it's important to know how hot it really feels. Scientists created something called the Wet Bulb Globe Temperature or [WBGT]() to measure the heat stress in the air.
