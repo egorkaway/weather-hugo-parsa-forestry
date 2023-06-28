@@ -9,6 +9,21 @@ languages:
   fr:
     languageName: French
     weight: "7"
+    title: 'Météo et Climat: climacam.com'
+    address: 'Tbilisi / Warsaw / Porto'
+    read_more: Lire la suite
+    address_title: Où
+    contact_info: Informations de contact
+    follow: Suivre
+    previous: "« Précédent"
+    next: Suivant »
+    post_by: Article par
+    latest_post: DERNIERS ARTICLES
+    tag: MOT-CLÉ
+    tags: MOTS-CLÉ
+    categories: CATÉGORIES
+    category: CATÉGORIE
+    post_available_in: Cet article est également disponible en
   pt:
     languageName: Portuguese
     logo: images/pt_.png
