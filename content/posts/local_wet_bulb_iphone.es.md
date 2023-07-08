@@ -12,5 +12,5 @@ A medida que aumenta la temperatura de bulbo húmedo, disminuye la capacidad del
 
 Se espera que el cambio climático aumente la frecuencia y gravedad de los eventos de calor extremo, lo que aumentará el riesgo de estrés térmico y enfermedades relacionadas con el calor. Por lo tanto, comprender y monitorear la temperatura de bulbo húmedo es importante para predecir y mitigar los impactos del estrés térmico y para desarrollar estrategias para adaptarse a un clima cambiante.
 
-¿Quieres mantener bajo control la temperatura de bulbo húmedo?
-Hay una aplicación para iPhone y iPad para eso.
+[¿Quieres mantener bajo control la temperatura de bulbo húmedo?
+Hay una aplicación para iPhone y iPad para eso.](https://climacam.com)
