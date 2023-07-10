@@ -1,7 +1,7 @@
 +++
 title = "Rastrea la temperatura de bulbo húmedo local con una aplicación de iPhone"
 date = 2023-07-07T23:00:00.000Z
-image = "/images/wet_2139.JPG"
+image = "/images/hum_2145.JPG"
 tags = [ "iPhone" ]
 type = "post"
 +++
