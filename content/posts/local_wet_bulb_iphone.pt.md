@@ -1,5 +1,5 @@
 +++
-title = "Acompanhe a temperatura de bulbo úmido com um aplicativo para iPhone."
+title = "Acompanhe a temperatura de bulbo úmido com um aplicativo para iPhone"
 date = 2023-07-08T23:00:00.000Z
 image = "/images/hum_2145.JPG"
 tags = [ "iPhone" ]
