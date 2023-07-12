@@ -118,6 +118,7 @@ languages:
     category: Категорыя
     post_available_in: Гэты пост таксама ёсць на наступных мовах
 title: 'Weather Aware and Climate Ready: a site by ClimaCam'
+twitterSite: @clima_cam
 module:
   imports:
   - path: github.com/themefisher/parsa-hugo
