@@ -1,7 +1,7 @@
 +++
 title = "Suivez la température de bulbe humide avec une application iPhone"
 date = 2023-07-08T23:00:00.000Z
-image = "/images/hum_2145.JPG"
+image = "/images/2023-07-12 10.22.37.jpg"
 description = "Suivez la température de bulbe humide avec une application iPhone"
 tags = [ "iPhone" ]
 type = "post"
