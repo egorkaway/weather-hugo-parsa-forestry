@@ -14,4 +14,4 @@ La température de bulbe humide est une mesure importante du climat de la Terre 
 Le changement climatique devrait augmenter la fréquence et la gravité des événements de chaleur extrême, ce qui augmentera le risque de stress thermique et de maladies liées à la chaleur. Par conséquent, comprendre et surveiller la température de bulbe humide est important pour prédire et atténuer les impacts du stress thermique et pour développer des stratégies d'adaptation à un climat changeant.
 
 [Vous voulez garder la température de bulbe humide sous contrôle?
-Il existe une application pour iPhone et iPad pour cela.](<> "https://climacam.com")
+Il existe une application pour iPhone et iPad pour cela.](https://climacam.com)
