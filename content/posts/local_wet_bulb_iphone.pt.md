@@ -1,7 +1,7 @@
 +++
 title = "Acompanhe a temperatura de bulbo úmido com um aplicativo para iPhone"
 date = 2023-07-08T23:00:00.000Z
-image = "/images/hum_2145.JPG"
+image = "/images/2023-07-12 10.24.32.jpg"
 tags = [ "iPhone" ]
 type = "post"
 +++
