@@ -6,12 +6,15 @@ languages:
   en:
     languageName: English
     weight: "1"
+  de:
+    languageName: German
+    weight: "8"
   fr:
     languageName: French
     weight: "7"
     title: 'Météo et Climat: climacam.com'
     address: 'Tbilisi / Warsaw / Porto'
-    read_more: Lire la suite
+    read_more: Lire...
     address_title: Où
     contact_info: Informations de contact
     follow: Suivre
@@ -132,7 +135,7 @@ module:
       target: assets/images
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "39"
+summaryLength: "49"
 paginate: "12"
 outputs:
   home:
@@ -214,9 +217,9 @@ params:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
   - icon: ti-facebook
-    link: https://www.facebook.com/weathergizmo/
+    link: https://www.facebook.com/weather.awareness
   - icon: ti-twitter-alt
-    link: https://twitter.com/gizmoweather
+    link: https://twitter.com/clima_cam
 menu:
   main:
   - URL: about
