@@ -1,5 +1,5 @@
 +++
-title = "Track Local Wet-Bulb Temperature With an iPhone App"
+title = "Track Local Wet-Bulb Temperature With an iPhone📱 App"
 date = 2023-07-07T23:00:00.000Z
 image = "/images/wet_2139.JPG"
 type = "post"
