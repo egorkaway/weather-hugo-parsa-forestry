@@ -1,8 +1,8 @@
 +++
-title = "Suivez la température de bulbe humide avec une application iPhone"
+title = "Suivez la température de bulbe humide avec une application iPhone📱"
 date = 2023-07-08T23:00:00.000Z
 image = "/images/2023-07-12 10.22.37.jpg"
-description = "Suivez la température de bulbe humide avec une application iPhone"
+description = "La température de bulbe humide est une mesure importante du climat de la Terre et est utilisée pour déterminer le risque de stress thermique et de maladies liées à la chaleur chez les humains et les animaux."
 tags = [ "iPhone" ]
 type = "post"
 +++
