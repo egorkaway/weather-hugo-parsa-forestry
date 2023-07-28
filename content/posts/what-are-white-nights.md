@@ -5,6 +5,7 @@ date = 2023-05-17T23:00:00.000Z
 description = ""
 image = "/images/white_n.png"
 tags = [
+  "Portugal",
   "May",
   "July",
   "June",
@@ -34,4 +35,6 @@ A similar term that is often confused is "midnight sun", so here is the differen
 * A "white night" is a natural phenomenon where the sun does not set below the horizon, resulting in a night that is not completely dark.
 * While "midnight sun" is a natural phenomenon where the sun remains visible above the horizon 24 hours a day during the summer months in regions close to the poles. This means that even at midnight, the sun is still visible or just below the horizon, resulting in a continuous day.
 
-Have you ever seen "white nights" or may be even midnight sun?
+Have you ever seen "white nights" or may be even midnight sun?\
+\
+Another thing to note might be that "White Nights" is also a festival that takes place in Braga, Portugal each September. The famous White Night of Braga  will take place on September 8, 9 and 10 of 2023. The city center will become a pole for concerts, exhibitions, artistic installations and street animation. 
