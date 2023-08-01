@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Earth" ]
-date = 2023-07-29T23:00:00.000Z
+date = 2023-07-30T23:00:00.000Z
 description = ""
 image = "/images/article-2023-august.png"
 tags = [ "climate", "2023", "August" ]
