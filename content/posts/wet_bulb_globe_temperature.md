@@ -1,7 +1,7 @@
 +++
 title = "What is Wet Bulb Globe Temperature? "
 date = 2023-06-21T23:00:00.000Z
-image = "/images/pexels-alex-azabache-3264722.jpg"
+image = "/images/a.jpg"
 type = "post"
 categories = [ "Earth" ]
 +++
