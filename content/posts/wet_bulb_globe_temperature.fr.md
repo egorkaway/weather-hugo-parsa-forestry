@@ -1,7 +1,7 @@
 +++
 title = "Qu'est-ce que la température de thermomètre mouillé ?"
 date = 2023-06-21T23:00:00.000Z
-image = "/wet danger.jpg"
+image = "/images/Image1.png"
 categories = [ "" ]
 type = "post"
 +++
