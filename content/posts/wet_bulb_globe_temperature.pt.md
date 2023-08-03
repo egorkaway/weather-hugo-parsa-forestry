@@ -1,7 +1,7 @@
 +++
 title = "O que é a Temperatura de Bulbo Úmido?"
 date = 2023-06-21T23:00:00.000Z
-image = "/images/pexels-alex-azabache-3264722.jpg"
+image = "/images/Image1.png"
 categories = [ "" ]
 type = "post"
 +++
