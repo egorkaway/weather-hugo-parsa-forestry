@@ -1,20 +1,20 @@
 +++
-title = "Самая большая полная Луна в 2023 году"
+title = "Largest Full Moon in 2023"
 date = 2023-08-30T22:00:00.000Z
 image = "/images/1m.png"
-categories = [ "Небо" ]
-tags = [ "август", "суперлуние", "луна", "2023" ]
+categories = [ "SKY" ]
+tags = [ "Bluemoon", "Supermoon", "Moon", "August", "2023" ]
 type = "post"
 +++
 
-Вечер 31 августа 2023 года мы сможем наблюдать одно из самых значимых астрономических событий - суперлуние. В этот вечер полная луна приблизится к Земле на минимальное расстояние в этом году, предоставляя завораживающее небесное явление. Сопровождать наш естественный спутник будут две великие планеты - Сатурн и Юпитер.
+On the evening of August 31, 2023, we will have the opportunity to witness one of the most significant astronomical events - a supermoon. On this evening, the full moon will approach the Earth at its closest distance this year, offering a mesmerizing celestial spectacle. Our natural satellite will be accompanied by two great planets - Saturn and Jupiter.
 
-Суперлуние - это явление, при котором Луна, приближаясь к Земле, достигает фазы полнолуния. Это создаёт впечатляное и яркое небесное зрелище. В это время полная Луна всегда привлекает внимание наблюдателей своей выдающейся яркостью и размером, особенно при наблюдении у горизонта.
+A supermoon is a phenomenon in which the Moon, as it approaches the Earth, reaches the phase of full moon. This creates an impressive and luminous celestial display. During this time, the full moon always captures observers' attention with its remarkable brightness and size, especially when observed near the horizon.
 
-Важное отличие суперлуния от обычного полнолуния заключается в его близости к перигею - наиближайшей точке Луны к Земле. Это феноменальное сближение делает Луну на 14% больше и более чем на 30% ярче, чем полнолуние в апогее - наиболее удаленной точке Луны от Земли.
+A key difference between a supermoon and a regular full moon lies in its proximity to perigee - the closest point of the Moon's orbit to Earth. This phenomenal approach makes the Moon appear about 14% larger and more than 30% brighter than a full moon at apogee - the farthest point of the Moon's orbit from Earth.
 
-Дополнительно удивительно то, что полнолуние 31 августа также будет Голубой Луной. Этот термин означает наличие двух полнолуний в одном календарном месяце. Название "голубая" не имеет ничего общего с цветом Луны, а лишь подчеркивает редкость этого события. Объяснение происхождения термина связано с народной мифологией и фольклором, а не с цветом Луны. 
+Additionally, what adds to the wonder is that the full moon on August 31 will also be a Blue Moon. This term signifies the occurrence of two full moons within a single calendar month. The term "blue" has nothing to do with the Moon's color; it simply underscores the rarity of this event. The origin of the term is linked to folk mythology and folklore, rather than the Moon's hue.
 
-Суперлуние - это не только потрясающее зрелище для наблюдения, но и важное событие для астрономов. Оно предоставляет уникальную возможность более детального изучения поверхности Луны и проведения более точных наблюдений.
+A supermoon is not only a captivating spectacle for observation but also a significant event for astronomers. It provides a unique opportunity for a more detailed examination of the Moon's surface and for conducting more precise observations.
 
-Не упустите этот уникальный шанс наблюдать за этим явлением.
+Do not miss this exceptional chance to witness this phenomenon.
