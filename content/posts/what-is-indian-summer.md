@@ -1,7 +1,7 @@
 +++
 aliases = "/posts/what-is-indian-summer-and-when-does-it-happen"
 categories = [ "Earth" ]
-date = "2022-09-01T21:00:00.000Z"
+date = 2023-08-30T23:00:00.000Z
 description = ""
 image = "/images/summer_.jpg"
 tags = [
@@ -24,9 +24,8 @@ type = "post"
 url = ""
 +++
 
+What is "Indian summer" and when does it happen?
 
-What is "Indian summer" and when does it happen?  
-  
 Mid-autumn is the time for the "return of summer". Though all of us understand pretty well that a couple of warm and sunny autumn weeks will soon be replaced by the first frost, we continue calling this short period as summer.
 
 But do you know that in different countries this "summer" is called differently? In Russia, Ukraine, and Belarus it is called "woman's summer", in Germany — "summer of old women", in Bulgaria — "gypsy summer", in France — "summer of St. Denis", and in the USA — "Indian summer".
