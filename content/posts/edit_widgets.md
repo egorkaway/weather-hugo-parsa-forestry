@@ -6,3 +6,4 @@ tags = [ "ipad ", "ipados ", "iphone ", "ios " ]
 type = "post"
 +++
 
+Did you know that you can long tap on any widget not only to remove but also to check whether there are editing options available? 
