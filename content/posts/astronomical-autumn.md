@@ -3,7 +3,7 @@ aliases = ""
 categories = [ "Earth" ]
 date = 2023-07-31T23:00:00.000Z
 description = ""
-image = "/images/fall_n.jpg"
+image = "/images/1a.png"
 tags = [ "November", "October", "March", "September" ]
 title = "Astronomical Autumn vs. Meteorological Autumn"
 type = "post"
@@ -18,4 +18,4 @@ Astronomical Autumn: Astronomical seasons are based on the tilt of the Earth's a
 
 While meteorological autumn is based on calendar months, astronomical autumn is based on specific celestial events like the equinox. The meteorological definition is more practical for data analysis and forecasting, while the astronomical definition is tied to astronomical phenomena and the Earth's position in its orbit.\
 \
-Different cultures use different ways to talk about seasons. When does autumn start for you? 
+Different cultures use different ways to talk about seasons. When does autumn start for you?
