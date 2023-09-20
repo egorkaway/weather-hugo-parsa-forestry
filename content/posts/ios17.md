@@ -6,4 +6,6 @@ type = "post"
 url = ""
 +++
 
-Subj
+**Interactive Widgets: **\
+![](/images/_u/i_w.jpeg)\
+Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
