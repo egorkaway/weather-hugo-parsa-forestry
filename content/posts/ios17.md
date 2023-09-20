@@ -22,4 +22,4 @@ Turn your phone on a side while charging and you will see a new kind wigets.
 
 ### Live Activities on iPad
 
-Live Activity that show dangerous and important weather situations now also show on iPad
+Live Activity that show dangerous and important weather situations now also show on iPad.
