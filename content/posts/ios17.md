@@ -1,7 +1,7 @@
 +++
 title = "What new brings iOS 17 for weather apps? "
 date = 2023-09-17T23:00:00.000Z
-image = "/images/_u/ios-17.jpg"
+image = "/images/_u/line.png"
 type = "post"
 url = ""
 +++
