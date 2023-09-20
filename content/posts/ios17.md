@@ -27,4 +27,4 @@ Not showing them just it case this makes you more curious.
 
 ![](/images/_u/la.jpg)
 
-Live Activity that show dangerous and important weather situations now also shows on iPad.
+Live Activity that shows dangerous and important weather situations is now also available on iPad.
