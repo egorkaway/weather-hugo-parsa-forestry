@@ -8,4 +8,7 @@ url = ""
 
 **Interactive Widgets: **\
 ![](/images/_u/i_w.jpeg)\
-Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
+Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.\
+\
+**Lock Screen Widgets for iPad**\
+![](/images/_u/ipad_rect.jpg)
