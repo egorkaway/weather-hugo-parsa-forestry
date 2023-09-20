@@ -13,5 +13,5 @@ Latest version of our app uses interactive widgets so that you can report actual
 
 ### Lock Screen Widgets for iPad
 
-![Lock Screen Widgets for iPad](/images/_u/ipad_rect.jpg)
+![Lock Screen Widgets for iPad](/images/_u/ipad_rect.jpg)\
 We hope you enjoyed the lock screen widgets on iPhone already, iPadOS 17 also brings them to the iPad alongs with the new and bigger widget options.
