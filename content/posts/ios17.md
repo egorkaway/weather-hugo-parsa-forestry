@@ -1,5 +1,5 @@
 +++
-title = "What new brings iOS 17 for weather apps? "
+title = "What new comes to weather apps with iOS 17? "
 date = 2023-09-17T23:00:00.000Z
 image = "/images/_u/line.png"
 type = "post"
