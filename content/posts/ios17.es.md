@@ -21,7 +21,7 @@ Esperamos que ya hayas disfrutado de los widgets de pantalla de bloqueo en el iP
 ###### Widgets SnandBy para iPhone
 
 Coloca tu teléfono de costado mientras se carga y verás un nuevo tipo de widgets.
-No los mostramos solo por si acaso esto te genera más curiosidad.
+![](/images/_u/standby.png)
 
 ###### Actividades en vivo en iPad
 
