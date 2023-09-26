@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [ "Tierra" ]
-date = 2022-09-01T08:30:36.000Z
+date = 2023-08-30T23:00:00.000Z
 description = ""
 image = "/images/1a.png"
 tags = [ "septiembre" ]
