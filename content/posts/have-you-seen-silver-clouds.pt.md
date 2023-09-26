@@ -6,7 +6,7 @@ description = ""
 categories = [ "" ]
 type = "post"
 aliases = ""
-url = ""
+url = "/nuvens_prateadas"
 +++
 
 Nuvens prateadas não são apenas uma instalação de arte de Andy Warhol, essas nuvens reais podem ser observadas geralmente no verão até o final de julho.
