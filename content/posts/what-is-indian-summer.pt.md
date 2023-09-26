@@ -7,7 +7,7 @@ categories = [ "" ]
 tags = [ " Alemanha", "Portugal", "Espanha", "verão" ]
 type = "post"
 aliases = ""
-url = ""
+url = "/veranillo_san_miguel"
 +++
 
 O meio do outono é o momento do "retorno do verão". E embora todos saibamos que algumas semanas quentes e ensolaradas de outono serão substituídas pela primeira geada, continuamos chamando esse período curto de "verão".
