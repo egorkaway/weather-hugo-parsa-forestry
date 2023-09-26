@@ -21,7 +21,7 @@ Esperamos que você já tenha desfrutado dos widgets de tela de bloqueio no iPho
 ###### Widgets em StandBy para iPhone
 
 Coloque seu telefone de lado enquanto carrega e você verá um novo tipo de widgets.
-Não estamos mostrando-os apenas para deixá-lo mais curioso.
+![](/images/_u/standby.png)
 
 ###### Atividades ao Vivo no iPad
 
