@@ -21,7 +21,6 @@ We hope you enjoyed the lock screen widgets on iPhone already, iPadOS 17 also br
 ###### StandBy Widgets for iPhone
 
 Turn your phone on a side while charging and you will see a new kind widgets.
-Not showing them just it case this makes you more curious.
 
 ![](/images/_u/standby.png)
 
