@@ -1,7 +1,7 @@
 +++
 title = "Qu'est-ce que l'\"été indien\" et quand cela se produit-il ?"
 date = 2023-08-30T23:00:00.000Z
-image = "/images/summer_.jpg"
+image = "/images/Indian summer.png"
 description = ""
 categories = [ "" ]
 tags = [ "Portugal", "Allemagne", "Espagne" ]
