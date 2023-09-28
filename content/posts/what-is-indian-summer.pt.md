@@ -1,7 +1,7 @@
 +++
 title = 'O que é o "verão indiano" e quando ocorre?'
 date = 2023-08-30T23:00:00.000Z
-image = "/images/summer_.jpg"
+image = "/images/Indian summer.png"
 description = ""
 categories = [ "" ]
 tags = [ " Alemanha", "Portugal", "Espanha", "verão" ]
