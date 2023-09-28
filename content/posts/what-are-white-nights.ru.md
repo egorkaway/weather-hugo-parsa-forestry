@@ -3,7 +3,7 @@ aliases = ""
 categories = [ "Небо" ]
 date = 2023-05-14T23:00:00.000Z
 description = ""
-image = "/images/white_n.png"
+image = "/images/0001.png"
 tags = [
   "Великобритания",
   "Эстония ",
