@@ -1,7 +1,7 @@
 +++
 title = "Qu'est-ce que les \" Nuits Blanches \" ?"
 date = 2023-05-17T23:00:00.000Z
-image = "/images/white_n.png"
+image = "/images/0001.png"
 description = ""
 categories = [ "" ]
 tags = [ "États-Unis", "Canada" ]
@@ -24,4 +24,4 @@ Une " nuit blanche " est un phénomène naturel où le soleil ne se couche pas e
 
 Tandis que le " soleil de minuit " est un phénomène naturel où le soleil reste visible au-dessus de l'horizon 24 heures par jour pendant les mois d'été dans les régions proches des pôles. Cela signifie que même à minuit, le soleil est encore visible ou juste en dessous de l'horizon, ce qui donne un jour continu.
 
-Avez-vous déjà vu des « nuits blanches » ou peut-être même le soleil de minuit ? 
+Avez-vous déjà vu des « nuits blanches » ou peut-être même le soleil de minuit ?
