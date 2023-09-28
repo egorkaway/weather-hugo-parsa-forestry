@@ -3,7 +3,7 @@ aliases = ""
 categories = [ "Sky" ]
 date = 2023-09-18T23:00:00.000Z
 description = ""
-image = "/images/polar_.png"
+image = "/images/Polar Lights.png"
 tags = [
   "Alaska",
   "Canada",
