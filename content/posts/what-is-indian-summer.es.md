@@ -3,7 +3,7 @@ aliases = ""
 categories = [ "Tierra" ]
 date = 2023-09-01T23:00:00.000Z
 description = ""
-image = "/images/summer_.jpg"
+image = "/images/Indian summer.png"
 tags = [
   "Portugal",
   "noviembre",
