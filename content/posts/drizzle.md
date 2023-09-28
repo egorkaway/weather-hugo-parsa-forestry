@@ -1,6 +1,6 @@
 +++
 title = "What Differs Drizzle From Similar Phenomena? "
-date = 2023-07-10T23:00:00.000Z
+date = 2022-05-31T23:00:00.000Z
 image = "/images/Drizzle Light.png"
 categories = [ "", "Sky" ]
 tags = [ "Drizzle" ]
