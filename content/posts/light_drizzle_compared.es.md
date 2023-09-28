@@ -1,13 +1,11 @@
 +++
 title = "Llovizna ligera"
-date = "2023-09-11T23:00:00.000Z"
+date = 2023-09-11T23:00:00.000Z
 image = "/images/Drizzle Light.png"
 categories = [ "Cielo", "" ]
 type = "post"
+url = "llovizna_ligera"
 +++
-
-
-
 
 Llovizna ligera es un tipo de lluvia ligera caracterizada por gotas de agua muy finas que caen del cielo. Suele ocurrir cuando la temperatura está por encima del punto de congelación, alrededor de 5 a 10 grados Celsius (41 a 50 grados Fahrenheit), aunque también puede ocurrir a temperaturas ligeramente más frías. La llovizna ligera es común en regiones con climas suaves o frescos, especialmente durante las estaciones de transición como la primavera y el otoño.
 
