@@ -1,7 +1,7 @@
 +++
 title = "What Makes Light Drizzle Light? "
 date = 2023-09-26T23:00:00.000Z
-image = "/images/cloudsss_n.png"
+image = "/images/Drizzle Light.png"
 categories = [ "", "Sky" ]
 tags = [ "Drizzle" ]
 type = "post"
