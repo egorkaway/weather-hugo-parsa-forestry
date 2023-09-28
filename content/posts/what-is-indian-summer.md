@@ -3,7 +3,7 @@ aliases = "/posts/what-is-indian-summer-and-when-does-it-happen"
 categories = [ "Earth" ]
 date = 2023-08-30T23:00:00.000Z
 description = ""
-image = "/images/summer_.jpg"
+image = "/images/Indian summer.png"
 tags = [
   "Russia",
   "Ukraine",
