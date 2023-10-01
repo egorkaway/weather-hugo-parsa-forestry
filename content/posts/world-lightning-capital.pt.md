@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Capital Mundial dos Raios"
 date = 2023-01-06T00:00:00.000Z
 image = "/images/ai-2.png"
 description = ""
