@@ -7,7 +7,7 @@ image = "/images/2220.png"
 tags = [ "agosto", "meteoros" ]
 title = "Lluvia de estrellas de las Perseidas"
 type = "post"
-url = ""
+url = "estrellas_de_las_perseidas"
 +++
 
 Lluvia de estrellas de las Perseidas del 10 al 20 de agosto.
