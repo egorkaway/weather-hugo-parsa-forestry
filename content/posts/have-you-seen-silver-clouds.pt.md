@@ -1,7 +1,7 @@
 +++
 title = "Nuvens prateadas"
 date = 2023-05-08T23:00:00.000Z
-image = "/images/Silver Clouds.png"
+image = "/images/1c.png"
 description = ""
 categories = [ "" ]
 type = "post"
