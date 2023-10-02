@@ -1,7 +1,7 @@
 +++
 title = "How Mist Is Different From Fog? "
 date = 2023-09-21T23:00:00.000Z
-image = "/images/fog_.png"
+image = "/images/01m_min.png"
 description = ""
 categories = [ "Sky" ]
 tags = [ "fog", "mist" ]
