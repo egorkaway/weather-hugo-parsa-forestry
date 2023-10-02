@@ -3,7 +3,7 @@ aliases = "/posts/silver-clouds"
 categories = [ "Sky" ]
 date = 2023-05-21T23:00:00.000Z
 description = ""
-image = "/images/Silver Clouds.png"
+image = "/images/1c.png"
 tags = [
   "Europe",
   "Canada",
