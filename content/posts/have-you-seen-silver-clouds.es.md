@@ -1,7 +1,7 @@
 +++
 title = "Nubes plateadas"
 date = 2023-05-06T23:00:00.000Z
-image = "/cl01.png"
+image = "/images/Silver Clouds.png"
 description = ""
 categories = [ "Cielo" ]
 type = "post"
