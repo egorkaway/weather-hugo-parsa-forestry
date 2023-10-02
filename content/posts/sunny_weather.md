@@ -1,7 +1,7 @@
 +++
 title = "What Goes Together With A Sunny Weather? "
 date = 2023-08-23T23:00:00.000Z
-image = "/images/mirage_.jpg"
+image = "/images/01sn (1).png"
 description = ""
 categories = [ "Sky" ]
 tags = [ "sun" ]
