@@ -1,7 +1,7 @@
 +++
 title = "Overcast vs Cloudy Weather: What's the Difference?"
 date = 2023-09-29T23:00:00.000Z
-image = "/images/storm_2020.jpg"
+image = "/images/1oc.png"
 description = ""
 categories = [ "Sky" ]
 tags = [ "Overcast" ]
