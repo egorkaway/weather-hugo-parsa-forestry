@@ -1,7 +1,7 @@
 +++
 title = "The Mighty Mistral Wind: A Famous and Powerful Force"
 date = 2023-09-29T23:00:00.000Z
-image = "/images/01mw (1).png"
+image = "/images/02mw-min.png"
 description = ""
 categories = [ "Sky" ]
 tags = [ "wind", "France" ]
