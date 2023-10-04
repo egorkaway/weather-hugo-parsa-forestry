@@ -1,8 +1,8 @@
 +++
 categories = [ "Земля" ]
-date = "2022-01-03T23:00:00.000Z"
+date = 2022-01-03T23:00:00.000Z
 description = ""
-image = "/images/sand_n.png"
+image = "/images/02sapw-min (1).png"
 tags = [ "Африкa", "Америка", "США", "Сахара", "Амазонка" ]
 title = "Регулярне пісочне сполучення"
 type = "post"
