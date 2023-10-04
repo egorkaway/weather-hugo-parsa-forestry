@@ -1,7 +1,7 @@
 +++
 title = "Até onde a areia pode viajar?"
 date = 2022-04-29T22:00:00.000Z
-image = "/images/sand_n.png"
+image = "/images/02sapw-min (1).png"
 description = ""
 categories = [ "" ]
 tags = [ "América", "EUA", "Atlântico", "Saara", "África" ]
