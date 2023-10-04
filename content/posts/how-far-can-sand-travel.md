@@ -1,8 +1,8 @@
 +++
 categories = [ "Earth" ]
-date = "2022-04-29T22:00:00.000Z"
+date = 2022-04-29T22:00:00.000Z
 description = ""
-image = "/images/sand_n.png"
+image = "/images/02sapw-min (1).png"
 tags = [ "Africa", "America", "USA", "Sahara" ]
 title = "How Far Can Sand Travel?"
 type = "post"
