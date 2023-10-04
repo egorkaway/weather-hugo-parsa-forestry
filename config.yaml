@@ -9,6 +9,9 @@ languages:
   de:
     languageName: German
     weight: "8"
+  it:
+    languageName: Italian
+    weight: "9"
   fr:
     languageName: French
     weight: "7"
