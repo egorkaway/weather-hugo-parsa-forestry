@@ -1,7 +1,7 @@
 +++
 categories = [ "Небо" ]
-date = "2023-03-02T21:00:00.000Z"
-image = "/images/spring_n.png"
+date = 2023-03-02T21:00:00.000Z
+image = "/images/02spw-min.png"
 tags = [ "равноденствие", "солнце", "весна" ]
 title = "Встречаем астрономическую весну"
 type = "post"
