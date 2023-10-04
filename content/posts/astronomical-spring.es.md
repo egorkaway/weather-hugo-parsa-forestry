@@ -1,7 +1,7 @@
 +++
 categories = [ "Cielo" ]
-date = "2023-02-27T21:00:00.000Z"
-image = "/images/spring_n.png"
+date = 2023-02-27T21:00:00.000Z
+image = "/images/02spw-min.png"
 tags = [ "primavera", "Sol", "equinoccio", "2021" ]
 title = "Celebrando una primavera astronómica"
 type = "post"
