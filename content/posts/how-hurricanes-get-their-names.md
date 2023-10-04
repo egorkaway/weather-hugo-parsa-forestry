@@ -1,15 +1,14 @@
 +++
 aliases = ""
 categories = [ "Sky" ]
-date = "2023-03-26T21:00:00.000Z"
+date = 2023-03-26T21:00:00.000Z
 description = ""
-image = "/images/hur_n.jpg"
+image = "/images/02hpw-min.png"
 tags = [ "hurricane", "Australia", "USA" ]
 title = "How Hurricanes Get Their Names?"
 type = "post"
 url = ""
 +++
-
 
 Did you know how hurricanes and typhoons get their names?
 
