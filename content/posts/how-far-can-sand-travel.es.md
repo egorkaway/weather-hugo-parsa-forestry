@@ -1,8 +1,8 @@
 +++
 categories = [ "Tierra" ]
-date = "2022-08-17T23:00:00.000Z"
+date = 2022-08-17T23:00:00.000Z
 description = ""
-image = "/images/sand_n.png"
+image = "/images/02sapw-min (1).png"
 tags = [
   "África",
   "América",
