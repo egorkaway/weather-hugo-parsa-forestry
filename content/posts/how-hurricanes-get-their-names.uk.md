@@ -1,8 +1,8 @@
 +++
 categories = [ "Небо" ]
-date = "2021-12-02T22:00:00.000Z"
+date = 2021-12-02T22:00:00.000Z
 description = ""
-image = "/images/hur_n.jpg"
+image = "/images/02hpw-min.png"
 tags = [ "США" ]
 title = "Чи знаєте ви, як урагани і тайфуни отримують свої імена?"
 type = "post"
