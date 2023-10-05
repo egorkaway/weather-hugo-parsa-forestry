@@ -1,13 +1,13 @@
 +++
-aliases = "/posts/fog-what-is-it-and-why-does-it-appear"
-categories = [ ]
-date = 2023-03-03T21:00:00.000Z
-description = ""
-image = "/images/01f_min.png"
-tags = [ "Dubai", "Flórida", "nevoeiro", "água" ]
 title = "Porque é que o nevoeiro aparece?"
+date = 2023-03-03T21:00:00.000Z
+image = "/images/01f_min.png"
+description = ""
+categories = [ "", "céu" ]
+tags = [ "água" ]
 type = "post"
-url = ""
+aliases = ""
+url = "/nevoeiro"
 +++
 
 O nevoeiro não é apenas um simples fenômeno meteorológico, é uma obra-prima científica.
