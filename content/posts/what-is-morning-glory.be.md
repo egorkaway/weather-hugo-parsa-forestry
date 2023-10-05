@@ -1,15 +1,14 @@
 +++
-aliases = ""
-categories = [ "Неба" ]
-date = "2021-06-25T10:13:01.000Z"
-description = ""
-image = "/images/glory_n.png"
-tags = [ "лістапад", "аблокі" ]
 title = "Ранішняя глорыя — што гэта?"
+date = 2023-06-13T23:00:00.000Z
+image = "/images/glory_n.png"
+description = ""
+categories = [ "Неба" ]
+tags = [ "лістапад", "аблокі" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 Ранішняя глорыя — што гэта такое і дзе можна яе ўбачыць?
 
