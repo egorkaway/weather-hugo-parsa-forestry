@@ -6,7 +6,6 @@ description = ""
 categories = [ "Earth" ]
 tags = [
   "Russia",
-  "Belarus",
   "Germany",
   "Bulgaria",
   "France ",
