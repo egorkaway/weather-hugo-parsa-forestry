@@ -7,7 +7,6 @@ categories = [ "Earth" ]
 tags = [
   "Russia",
   "Germany",
-  "Bulgaria",
   "France ",
   "USA",
   "Atlantic",
