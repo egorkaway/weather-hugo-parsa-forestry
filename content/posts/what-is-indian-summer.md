@@ -11,7 +11,6 @@ tags = [
   "Bulgaria",
   "France ",
   "USA",
-  "Azores",
   "Atlantic",
   "September",
   "October",
