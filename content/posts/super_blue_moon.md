@@ -3,7 +3,7 @@ title = "Largest Full Moon in 2023"
 date = 2023-08-30T22:00:00.000Z
 image = "/images/1m.png"
 categories = [ "SKY" ]
-tags = [ "Bluemoon", "Supermoon", "Moon", "August", "2023" ]
+tags = [ "Moon", "August", "2023" ]
 type = "post"
 +++
 
