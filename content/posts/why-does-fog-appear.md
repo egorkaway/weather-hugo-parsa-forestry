@@ -1,12 +1,12 @@
 +++
-aliases = "/posts/fog-what-is-it-and-why-does-it-appear"
-categories = [ "Sky" ]
-date = 2023-02-27T21:00:00.000Z
-description = ""
-image = "/images/01f_min.png"
-tags = [ "fog", "Dubai", "Florida", "timeless" ]
 title = "Why Does Fog Appear?"
+date = 2023-02-27T21:00:00.000Z
+image = "/images/01f_min.png"
+description = ""
+categories = [ "Sky" ]
+tags = [ "fog", "timeless" ]
 type = "post"
+aliases = "/posts/fog-what-is-it-and-why-does-it-appear"
 url = ""
 +++
 
