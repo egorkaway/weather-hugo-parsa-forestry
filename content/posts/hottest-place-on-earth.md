@@ -1,12 +1,11 @@
 +++
-aliases = ""
-categories = [ "Earth" ]
-date = 2023-07-05T23:00:00.000Z
-description = ""
-image = "/images/Desert.png"
-tags = [ "heat", "Iran" ]
 title = "Hottest Place on Earth 🏜️"
+date = 2023-07-05T23:00:00.000Z
+image = "/images/Desert.png"
+description = ""
+categories = [ "Earth" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
