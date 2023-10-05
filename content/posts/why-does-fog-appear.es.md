@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Cielo" ]
-date = 2021-04-01T21:00:00.000Z
-description = ""
-image = "/images/01f_min.png"
-tags = [ "niebla", "hielo", "siempre" ]
 title = "Nieblas: ¿que son y por qué aparecen?"
+date = 2021-04-01T21:00:00.000Z
+image = "/images/01f_min.png"
+description = ""
+categories = [ "Cielo" ]
+tags = [ "siempre" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
