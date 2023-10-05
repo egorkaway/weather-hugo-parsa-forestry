@@ -1,15 +1,13 @@
 +++
-aliases = ""
-categories = [ ]
-date = "2023-03-31T09:06:57.000Z"
-description = ""
-image = "/images/frl4unvwwaeywlo.jpeg"
-tags = [ "huracan" ]
 title = "¿Sabías que los huracanes nunca cruzan el ecuador?"
+date = 2023-03-31T09:06:57.000Z
+image = "/images/frl4unvwwaeywlo.jpeg"
+description = ""
+categories = [ "", "Cielo" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 Los ciclones tropicales y los huracanes son sistemas meteorológicos poderosos que pueden causar daños y destrucción significativos. Estas tormentas se forman típicamente en los trópicos y se mueven hacia latitudes más altas, afectando áreas como el Golfo de México y el sureste de los Estados Unidos. Sin embargo, un hecho peculiar sobre estas tormentas es que ningún ciclón tropical o huracán ha cruzado nunca el ecuador.
 
