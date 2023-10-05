@@ -3,9 +3,9 @@ title = "Tempo encoberto vs Tempo nublado: Qual a diferença?"
 date = 2023-09-29T23:00:00.000Z
 image = "/images/1oc.png"
 description = ""
-categories = [ "" ]
-tags = [ "nuvens" ]
+categories = [ "", "céu" ]
 type = "post"
+url = "/encoberto_nublado"
 +++
 
 Embora as condições meteorológicas de tempo encoberto e tempo nublado envolvam nuvens no céu, há uma distinção importante entre os dois termos. Vamos examinar mais de perto o que define o tempo encoberto e o que define o tempo nublado.
