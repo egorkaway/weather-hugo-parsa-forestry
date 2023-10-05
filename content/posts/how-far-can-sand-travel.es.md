@@ -1,18 +1,12 @@
 +++
-categories = [ "Tierra" ]
-date = 2022-08-17T23:00:00.000Z
-description = ""
-image = "/images/02sapw-min (1).png"
-tags = [
-  "África",
-  "América",
-  "EEUU",
-  "Sahara",
-  "Atlántico",
-  "siempre"
-]
 title = "Arena que viaja de África a América"
+date = 2022-08-17T23:00:00.000Z
+image = "/images/02sapw-min (1).png"
+description = ""
+categories = [ "Tierra" ]
+tags = [ "siempre" ]
 type = "post"
+url = "/arena_que_viaja"
 +++
 
 ¿Sabéis que hay una coneccón regular de arena entre África y América?
