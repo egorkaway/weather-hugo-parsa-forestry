@@ -2,7 +2,7 @@
 title = "Have You Tried Editing Your Widgets? "
 date = 2022-11-01T00:00:00.000Z
 image = "/images/w_widget1_set.png"
-tags = [ "ipad ", "ipados ", "iphone ", "ios " ]
+tags = [ "ipados ", "iphone ", "ios " ]
 type = "post"
 +++
 
