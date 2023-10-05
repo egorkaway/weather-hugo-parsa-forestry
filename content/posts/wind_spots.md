@@ -3,7 +3,7 @@ title = "10 Windiest Spots in Europe"
 date = 2023-05-22T22:00:00.000Z
 image = "/images/10 windiest spots.png"
 categories = [ "EARTH" ]
-tags = [ "Spain", "Europe" ]
+tags = [ "Europe" ]
 type = "post"
 +++
 
