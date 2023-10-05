@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Sky" ]
-date = 2023-03-19T21:00:00.000Z
-description = ""
-image = "/images/02spw-min.png"
-tags = [ "equinox", "Sun", "spring", "2021", "astronomy", "March " ]
 title = "Astronomical Spring"
+date = 2023-03-19T21:00:00.000Z
+image = "/images/02spw-min.png"
+description = ""
+categories = [ "Sky" ]
+tags = [ "equinox", "Sun", "spring", "astronomy", "March " ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
