@@ -3,7 +3,7 @@ title = "Nortada: O Vento Refrescante da Costa Portuguesa"
 date = 2023-09-30T23:00:00.000Z
 image = "/images/1sf-min.png"
 description = ""
-categories = [ "" ]
+categories = [ "", "céu" ]
 tags = [ "vento", "Portugal" ]
 type = "post"
 +++
