@@ -4,7 +4,7 @@ date = 2022-04-29T22:00:00.000Z
 image = "/images/02sapw-min (1).png"
 description = ""
 categories = [ "" ]
-tags = [ "América", "EUA", "Atlântico", "Saara", "África" ]
+tags = [ "América", "EUA", "África" ]
 type = "post"
 +++
 
