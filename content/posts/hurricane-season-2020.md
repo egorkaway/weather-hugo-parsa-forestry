@@ -1,13 +1,12 @@
 +++
-categories = [ "Sky" ]
-date = "2020-05-12T21:00:00.000Z"
-description = ""
-image = "/images/storm_n.jpg"
-tags = [ "2020", "Atlantic", "hurricane", "June", "November", "NOAA" ]
 title = "Hurricane Season 2020"
+date = 2020-05-12T21:00:00.000Z
+image = "/images/storm_n.jpg"
+description = ""
+categories = [ "Sky" ]
+tags = [ "2020", "Atlantic", "hurricane", "June", "November" ]
 type = "post"
 +++
-
 
 The current Atlantic hurricane season promises to be the strongest for the last few years.
 
