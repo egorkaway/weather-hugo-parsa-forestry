@@ -1,24 +1,21 @@
 +++
-aliases = ""
-categories = [ "Sky" ]
+title = 'What are "White Nights"?'
 date = 2023-05-17T23:00:00.000Z
-description = ""
 image = "/images/0001.png"
+description = ""
+categories = [ "Sky" ]
 tags = [
   "Portugal",
   "May",
   "July",
   "June",
-  "Estonia",
   "USA",
   "Canada",
-  "Russia",
-  "Finland",
   "Iceland",
   "Scandinavia"
 ]
-title = 'What are "White Nights"?'
 type = "post"
+aliases = ""
 url = ""
 +++
 
