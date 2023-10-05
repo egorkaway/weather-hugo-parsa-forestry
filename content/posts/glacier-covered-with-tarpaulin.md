@@ -4,7 +4,7 @@ date = 2020-12-14T21:00:00.000Z
 image = "/images/glacier_n.jpg"
 description = ""
 categories = [ "Earth" ]
-tags = [ "Italy", "glacier", "timeless" ]
+tags = [ "glacier", "timeless" ]
 type = "post"
 +++
 
