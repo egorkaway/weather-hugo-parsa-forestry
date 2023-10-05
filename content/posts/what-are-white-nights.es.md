@@ -1,21 +1,12 @@
 +++
-aliases = "/es/posts/what-are-white-nights/"
-categories = [ "Cielo" ]
-date = 2023-05-14T23:00:00.000Z
-description = ""
-image = "/images/0001.png"
-tags = [
-  "mayo",
-  "Estonia",
-  "julio",
-  "junio",
-  "Canadá",
-  "Rusia",
-  "Finlandia",
-  "Islandia"
-]
 title = '¿Qué son "las noches blancas"?'
+date = 2023-05-14T23:00:00.000Z
+image = "/images/0001.png"
+description = ""
+categories = [ "Cielo" ]
+tags = [ "mayo", "julio", "junio" ]
 type = "post"
+aliases = "/es/posts/what-are-white-nights/"
 url = "/p/noches_blancas"
 +++
 
