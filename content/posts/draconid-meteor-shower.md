@@ -1,13 +1,12 @@
 +++
-categories = [ "Sky" ]
-date = "2020-10-04T21:00:00.000Z"
-description = ""
-image = "/images/draco_n.jpg"
-tags = [ "Draconid", "meteor", "October", "2020" ]
 title = "Draconid Meteor Shower"
+date = 2020-10-04T21:00:00.000Z
+image = "/images/draco_n.jpg"
+description = ""
+categories = [ "Sky" ]
+tags = [ "meteor", "October", "2020" ]
 type = "post"
 +++
-
 
 Another meteor shower this week.
 
