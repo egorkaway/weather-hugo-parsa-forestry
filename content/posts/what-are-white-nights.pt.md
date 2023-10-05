@@ -3,11 +3,11 @@ title = 'O que são as "Noites Brancas"?'
 date = 2023-05-14T23:00:00.000Z
 image = "/images/0001.png"
 description = ""
-categories = [ ]
+categories = [ "", "céu" ]
 tags = [ "junho", "maio" ]
 type = "post"
 aliases = ""
-url = ""
+url = "/noites_brancas"
 +++
 
 O que são exatamente as "Noites Brancas" e o que as causa?
