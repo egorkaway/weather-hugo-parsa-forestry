@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Cielo " ]
-date = 2023-03-29T06:01:40.000Z
-description = ""
-image = "/images/nombres-de-ciclones-2023.png"
-tags = [ "2023", "tormenta ", "huracán" ]
 title = "Nombres de huracanes para 2023"
+date = 2023-03-29T06:01:40.000Z
+image = "/images/nombres-de-ciclones-2023.png"
+description = ""
+categories = [ "Cielo " ]
+tags = [ "2023", "tormenta " ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
