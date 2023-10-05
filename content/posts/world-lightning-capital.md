@@ -1,15 +1,14 @@
 +++
-aliases = ""
-categories = [ "Sky" ]
-date = "2022-01-05T21:00:00.000Z"
-description = ""
-image = "/images/ai-2.png"
-tags = [ "Venezuela", "lightning" ]
 title = "World Lightning Capital"
+date = 2022-01-05T21:00:00.000Z
+image = "/images/ai-2.png"
+description = ""
+categories = [ "Sky" ]
+tags = [ "lightning" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 Do you know where the "World Lightning Capital" is?
 
