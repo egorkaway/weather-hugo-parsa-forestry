@@ -1,18 +1,17 @@
 +++
-aliases = ""
-categories = [ "Earth" ]
-date = "2022-06-08T21:00:00.000Z"
-description = ""
-image = "/images/mirage_.jpg"
-tags = [ "mirage", "timeless" ]
 title = "What is Mirage?"
+date = 2022-06-08T21:00:00.000Z
+image = "/images/mirage_.jpg"
+description = ""
+categories = [ "Earth" ]
+tags = [ "timeless" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
+What is a mirage and where does it come from?
 
-What is a mirage and where does it come from?  
-  
 Mirage is undoubtedly one of the most mysterious atmospheric phenomena that has always been associated with secrets and legends. But in reality, the mirage is easily explained from a scientific point of view.
 
 It appears when the air near a highly heated surface (about 60-70 °C) also heats up and becomes inhomogeneous. The optical density of the air changes drastically, and the light rays become curved. This is how fantastic images appear at the horizon.
