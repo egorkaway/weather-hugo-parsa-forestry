@@ -1,5 +1,5 @@
 +++
-title = "This is What iOS 17 Brings to Our App. "
+title = "New with iOS 17"
 date = 2023-09-17T23:00:00.000Z
 image = "/images/_u/line.png"
 type = "post"
