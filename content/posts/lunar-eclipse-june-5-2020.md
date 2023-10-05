@@ -1,26 +1,23 @@
 +++
-aliases = "/posts/lunar-eclipse-june-5"
-categories = [ "Sky" ]
-date = "2020-05-16T21:00:00.000Z"
-description = ""
+title = "Lunar Eclipse June 5, 2020 "
+date = 2020-05-16T21:00:00.000Z
 image = "/images/more_moon.png"
+description = ""
+categories = [ "Sky" ]
 tags = [
   "moon",
   "2020",
-  "Asia",
   "Australia",
   "Europe",
   "Africa",
-  " Russia",
   "eclipse",
   "June",
   "astronomy"
 ]
-title = "Lunar Eclipse June 5, 2020 "
 type = "post"
+aliases = "/posts/lunar-eclipse-june-5"
 url = ""
 +++
-
 
 On June 5, 2020 the second lunar eclipse of this year will be observed in the sky, which will also coincide with the full moon.
 
