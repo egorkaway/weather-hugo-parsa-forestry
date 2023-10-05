@@ -1,10 +1,10 @@
 +++
-categories = [ "Earth" ]
-date = "2020-12-11T23:00:00.000Z"
-description = ""
-image = "/images/storm_2020.jpg"
-tags = [ "America", "USA", "Caribbean", "hurricane" ]
 title = "How Many Hurricanes Did 2020 Bring?"
+date = 2020-12-11T23:00:00.000Z
+image = "/images/storm_2020.jpg"
+description = ""
+categories = [ "Earth" ]
+tags = [ "America", "USA", "hurricane" ]
 type = "post"
 +++
 
