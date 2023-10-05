@@ -1,12 +1,12 @@
 +++
-aliases = "/posts/zombie-fires"
-categories = [ "Earth" ]
-date = "2022-10-12T20:00:00.000Z"
-description = ""
-image = "/images/fire.jpg"
-tags = [ "Canada", "Russia", "Greenland", "Alaska", "Arctic", "fire" ]
 title = 'Did You Know What "Zombie Fires" Are?'
+date = 2022-10-12T20:00:00.000Z
+image = "/images/fire.jpg"
+description = ""
+categories = [ "Earth" ]
+tags = [ "Canada", "Russia", "Greenland", "Alaska", "Arctic" ]
 type = "post"
+aliases = "/posts/zombie-fires"
 +++
 
 An increasing number of “zombie fires” have been recorded recently in the Arctic zone.
