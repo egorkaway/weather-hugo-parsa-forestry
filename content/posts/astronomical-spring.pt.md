@@ -1,13 +1,13 @@
 +++
-aliases = ""
-categories = [ ]
-date = 2023-03-19T21:00:00.000Z
-description = ""
-image = "/images/02spw-min.png"
-tags = [ "equinócio", "março", "sol", "primavera" ]
 title = "Primavera Astronómica"
+date = 2023-03-19T21:00:00.000Z
+image = "/images/02spw-min.png"
+description = ""
+categories = [ "", "céu" ]
+tags = [ "março" ]
 type = "post"
-url = ""
+aliases = ""
+url = "/primavera_astronomica"
 +++
 
 20 de Março é o dia do equinócio vernal, após o qual a duração do dia se tornará gradualmente mais longa do que a da noite.
