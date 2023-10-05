@@ -1,12 +1,11 @@
 +++
-aliases = "/posts/what-is-indian-summer-and-when-does-it-happen"
-categories = [ "Earth" ]
+title = 'What is "Indian summer"?'
 date = 2023-08-30T23:00:00.000Z
-description = ""
 image = "/images/Indian summer.png"
+description = ""
+categories = [ "Earth" ]
 tags = [
   "Russia",
-  "Ukraine",
   "Belarus",
   "Germany",
   "Bulgaria",
@@ -19,8 +18,8 @@ tags = [
   "November",
   "Europe"
 ]
-title = 'What is "Indian summer"?'
 type = "post"
+aliases = "/posts/what-is-indian-summer-and-when-does-it-happen"
 url = ""
 +++
 
