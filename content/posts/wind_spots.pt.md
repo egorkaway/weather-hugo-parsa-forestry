@@ -3,7 +3,7 @@ title = "10 Lugares Mais Ventosos da Europa"
 date = 2023-05-22T22:00:00.000Z
 image = "/images/10 windiest spots.png"
 categories = [ "" ]
-tags = [ "vento", "Europa", "Noruega", "Espanha" ]
+tags = [ "vento", "Europa" ]
 type = "post"
 url = "/lugares_ventosos_europa"
 +++
