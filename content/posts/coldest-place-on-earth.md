@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Earth" ]
-date = 2023-01-17T08:57:44.000Z
-description = ""
-image = "/images/ice_n.jpg"
-tags = [ "record", "Antarctica", "timeless" ]
 title = "Coldest Place on Earth"
+date = 2023-01-17T08:57:44.000Z
+image = "/images/ice_n.jpg"
+description = ""
+categories = [ "Earth" ]
+tags = [ "record", "timeless" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
