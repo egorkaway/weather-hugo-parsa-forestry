@@ -1,15 +1,14 @@
 +++
-aliases = ""
-categories = [ "Earth" ]
-date = "2021-12-14T21:00:00.000Z"
-description = ""
-image = "/images/ice_.png"
-tags = [ "ice ", "snow ", "Siberia", "timeless" ]
 title = "Have You Seen Ice Needles?"
+date = 2021-12-14T21:00:00.000Z
+image = "/images/ice_.png"
+description = ""
+categories = [ "Earth" ]
+tags = [ "snow ", "Siberia", "timeless" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 Ice needles instead of snow.
 
