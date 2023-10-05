@@ -1,15 +1,14 @@
 +++
-aliases = ""
-categories = [ "water" ]
-date = "2023-02-15T09:04:00.000Z"
-description = ""
-image = "/images/patagonian-glacier.png"
-tags = [ "climate", "glacier" ]
 title = "UNESCO-listed Glaciers at Risk of Disappearing by Mid-century "
+date = 2023-02-15T09:04:00.000Z
+image = "/images/patagonian-glacier.png"
+description = ""
+categories = [ "" ]
+tags = [ "climate", "glacier" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 Some of the glaciers on the UNESCO World Heritage List may disappear by mid-century due to global warming and other factors such as pollution and human activity.
 
