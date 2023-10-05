@@ -1,25 +1,20 @@
 +++
-aliases = ""
-categories = [ "Tierra" ]
+title = '¿Qué es el "verano indio" y cuándo ocurre?'
 date = 2023-09-01T23:00:00.000Z
-description = ""
 image = "/images/Indian summer.png"
+description = ""
+categories = [ "Tierra" ]
 tags = [
   "Portugal",
   "noviembre",
   "septiembre",
-  "Rusia",
-  "Ucrania",
   "Alemania",
-  "Bulgaria",
-  "Francia",
-  "Azores",
   "Europa",
   "América",
   "siempre"
 ]
-title = '¿Qué es el "verano indio" y cuándo ocurre?'
 type = "post"
+aliases = ""
 url = "/verano_indio"
 +++
 
