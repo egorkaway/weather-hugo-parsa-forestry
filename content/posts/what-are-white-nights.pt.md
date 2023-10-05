@@ -1,22 +1,12 @@
 +++
-aliases = ""
-categories = [ ]
-date = 2023-05-14T23:00:00.000Z
-description = ""
-image = "/images/0001.png"
-tags = [
-  "Finlândia",
-  "Islândia",
-  "Escandinávia",
-  "Estônia",
-  "Grã-Bretanha",
-  "Estados Unidos",
-  "Canadá",
-  "junho",
-  "maio"
-]
 title = 'O que são as "Noites Brancas"?'
+date = 2023-05-14T23:00:00.000Z
+image = "/images/0001.png"
+description = ""
+categories = [ ]
+tags = [ "junho", "maio" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
