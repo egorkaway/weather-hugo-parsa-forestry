@@ -3,8 +3,7 @@ title = "Nublado y Nuboso: ¿Cuál es la diferencia?"
 date = 2023-09-29T23:00:00.000Z
 image = "/images/1oc.png"
 description = ""
-categories = [ "", "Clielo" ]
-tags = [ "Nuboso", "Nublado" ]
+categories = [ "", "Cielo", "" ]
 type = "post"
 url = "/nublado_y_nuboso"
 +++
