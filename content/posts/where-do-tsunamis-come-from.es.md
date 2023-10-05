@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Mar" ]
-date = 2022-04-07T20:00:00.000Z
-description = ""
-image = "/images/tsu_.jpg"
-tags = [ "tsunami", "Alaska", "siempre" ]
 title = "¿De dónde vienen tsunamis?"
+date = 2022-04-07T20:00:00.000Z
+image = "/images/tsu_.jpg"
+description = ""
+categories = [ "Mar" ]
+tags = [ "siempre" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
