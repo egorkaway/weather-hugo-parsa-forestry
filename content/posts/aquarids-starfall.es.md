@@ -1,12 +1,11 @@
 +++
-categories = [ "Cielo" ]
-date = "2023-04-17T23:00:00.000Z"
-image = "/images/meteor_n.jpg"
-tags = [ "Mayo", "Aquaridаs" ]
 title = "Aquaridаs"
+date = 2023-04-17T23:00:00.000Z
+image = "/images/meteor_n.jpg"
+categories = [ "Cielo" ]
+tags = [ "Mayo" ]
 type = "post"
 +++
-
 
 En las primeras fechas de Mayo podremos ver la lluvia de estrellas Aquaridas. El pico de su actividad será el 6-7 de Mayo.
 
