@@ -1,15 +1,14 @@
 +++
-aliases = ""
-categories = [ "Earth" ]
-date = "2022-03-11T21:00:00.000Z"
-description = ""
-image = "/images/tsu_.jpg"
-tags = [ "earthquake", "tsunami", "Alaska", "timeless" ]
 title = "Where Do Tsunamis Come From?"
+date = 2022-03-11T21:00:00.000Z
+image = "/images/tsu_.jpg"
+description = ""
+categories = [ "Earth" ]
+tags = [ "earthquake", "Alaska", "timeless" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 Tsunamis are mostly provoked by underwater earthquakes and underwater volcanic eruptions, which sharply raise or lower the seabed and, as a result, move huge masses of water. Until now, the mechanisms of the tsunami have not been thoroughly studied, and it is often difficult to detect an approaching dangerous wave since at first, it is not high enough to start sounding the alarm.
 
