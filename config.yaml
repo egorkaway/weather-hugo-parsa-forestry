@@ -65,7 +65,7 @@ languages:
     languageName: Russian
     weight: "3"
     logo: images/ukr_.png
-    address: Варшава / Порту / Киев
+    address: Варшава / Киев / Порту
     title: 'Погода и Климат: сайт от climacam.com'
     read_more: Дальше...
     address_title: Где
@@ -90,7 +90,7 @@ languages:
     logo: images/ukr_.png
     weight: "4"
     follow: Мережи
-    address: Київ / Несвіж / Порту
+    address: Київ / Порту
     title: 'Погода і Клімат: сайт від climacam.com'
     read_more: Далi...
     address_title: Де
@@ -108,7 +108,7 @@ languages:
     languageName: Belarusian
     logo: images/by_.png
     weight: "5"
-    address: Порту / Батумi / Нясвiж
+    address: Порту / Тбiлiсi 
     title: 'Пагода ды Клiмат: сайт ад climacam.com'
     read_more: Далей...
     address_title: Дзе
