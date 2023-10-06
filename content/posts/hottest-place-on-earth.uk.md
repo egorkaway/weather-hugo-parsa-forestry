@@ -1,12 +1,11 @@
 +++
-aliases = ""
-categories = [ "Земля" ]
-date = 2022-06-15T14:50:00.000Z
-description = ""
-image = "/images/Desert.png"
-tags = [ "спека", "Іран" ]
 title = "Найспекотніше місце на Землі"
+date = 2022-06-15T14:50:00.000Z
+image = "/images/Desert.png"
+description = ""
+categories = [ "Земля" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
