@@ -11,7 +11,7 @@ url = ""
 
 ![](/images/_u/i_w2.jpeg)
 
-###### La dernière version de notre application utilise des widgets interactifs afin que vous puissiez signaler la météo réelle depuis votre écran d'accueil.
+La dernière version de notre application utilise des widgets interactifs afin que vous puissiez signaler la météo réelle depuis votre écran d'accueil.
 
 ###### Widgets d'écran de verrouillage pour iPad
 
@@ -19,7 +19,7 @@ url = ""
 
 Nous espérons que vous avez déjà apprécié les widgets d'écran de verrouillage sur iPhone, iPados 17 les amène également à l'iPad avec les nouvelles et plus grandes options de widget.
 
-Widgets de secours pour iPhone
+###### Widgets de secours pour iPhone
 
 Allumez votre téléphone d'un côté tout en chargeant et vous verrez un nouveau type de widgets.
 
