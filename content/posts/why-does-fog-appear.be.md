@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Неба" ]
-date = 2021-04-01T21:00:00.000Z
-description = ""
-image = "/images/01f_min.png"
-tags = [ "туман", "заўжды" ]
 title = "Туманы: што гэта такое і чаму яны з'яўляюцца?"
+date = 2021-04-01T21:00:00.000Z
+image = "/images/01f_min.png"
+description = ""
+categories = [ "Неба" ]
+tags = [ "заўжды" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
