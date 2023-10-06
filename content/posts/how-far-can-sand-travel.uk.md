@@ -1,10 +1,10 @@
 +++
-categories = [ "Земля" ]
-date = 2022-01-03T23:00:00.000Z
-description = ""
-image = "/images/02sapw-min (1).png"
-tags = [ "Африкa", "Америка", "США", "Сахара", "Амазонка" ]
 title = "Регулярне пісочне сполучення"
+date = 2022-01-03T23:00:00.000Z
+image = "/images/02sapw-min (1).png"
+description = ""
+categories = [ "Земля" ]
+tags = [ "Америка", "США" ]
 type = "post"
 +++
 
