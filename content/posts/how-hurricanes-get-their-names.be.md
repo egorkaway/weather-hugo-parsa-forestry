@@ -1,17 +1,10 @@
 +++
-categories = [ "Неба" ]
-date = 2023-04-05T23:00:00.000Z
-description = ""
-image = "/images/02hpw-min.png"
-tags = [
-  "ЗША",
-  "заўжды",
-  "Аўстралія",
-  "ураган",
-  "Атлантыка",
-  "Японія"
-]
 title = "Як ураганы атрымліваюць імёны?"
+date = 2023-04-05T23:00:00.000Z
+image = "/images/02hpw-min.png"
+description = ""
+categories = [ "Неба" ]
+tags = [ "ЗША", "заўжды", "ураган" ]
 type = "post"
 +++
 
