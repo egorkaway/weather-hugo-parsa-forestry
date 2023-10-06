@@ -3,7 +3,7 @@ title = "La Luna llena más grande de 2023"
 date = 2023-08-30T22:00:00.000Z
 image = "/images/1m.png"
 categories = [ "Cielo" ]
-tags = [ "Agosto", "Luna", "Luna llena ", "Luna azul", "2023" ]
+tags = [ "Agosto", "Luna", "2023" ]
 type = "post"
 +++
 
