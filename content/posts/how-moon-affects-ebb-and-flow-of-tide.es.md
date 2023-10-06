@@ -1,15 +1,14 @@
 +++
-aliases = ""
-categories = [ "agua" ]
-date = "2023-03-06T12:40:09.000Z"
-description = ""
-image = "/images/moon-ebbpng.png"
-tags = [ "sol", "luna", "reflujo", " marea" ]
 title = "Cómo afecta la Luna al flujo y reflujo de la marea"
+date = 2023-03-06T12:40:09.000Z
+image = "/images/moon-ebbpng.png"
+description = ""
+categories = [ "agua" ]
+tags = [ "sol", "luna" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 La Luna desempeña un papel importante en el flujo y reflujo de las mareas. Al orbitar alrededor de la Tierra, ejerce una fuerza gravitatoria sobre el planeta. Esta fuerza crea una protuberancia de marea en el lado de la Tierra orientado hacia la Luna, así como una segunda protuberancia en el lado opuesto de la Tierra.
 
