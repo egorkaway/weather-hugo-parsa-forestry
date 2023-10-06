@@ -1,12 +1,11 @@
 +++
-aliases = ""
-categories = [ "Tierra" ]
-date = 2021-07-12T14:50:00.000Z
-description = ""
-image = "/images/Desert.png"
-tags = [ "Irán" ]
 title = "Lugar más caluroso de Tierra"
+date = 2021-07-12T14:50:00.000Z
+image = "/images/Desert.png"
+description = ""
+categories = [ "Tierra" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
