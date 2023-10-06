@@ -1,10 +1,10 @@
 +++
-categories = [ "Cielo" ]
-date = "2020-05-12T21:00:00.000Z"
-description = ""
-image = "/images/storm_n.jpg"
-tags = [ "2020", "NOAA", "Atlántico" ]
 title = "Temporada de Huracanes 2020"
+date = 2020-05-12T21:00:00.000Z
+image = "/images/storm_n.jpg"
+description = ""
+categories = [ "Cielo" ]
+tags = [ "2020" ]
 type = "post"
 +++
 
