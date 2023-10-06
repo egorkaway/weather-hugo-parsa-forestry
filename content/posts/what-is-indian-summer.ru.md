@@ -1,19 +1,12 @@
 +++
-aliases = ""
-categories = [ "Земля" ]
-date = 2023-07-31T23:00:00.000Z
-description = ""
-image = "/images/summer_.jpg"
-tags = [
-  "Беларусь",
-  "Европа",
-  "США ",
-  "сентябрь ",
-  "октябрь ",
-  "ноябрь "
-]
 title = "Что такое «бабье лето» и когда оно бывает?"
+date = 2023-07-31T23:00:00.000Z
+image = "/images/summer_.jpg"
+description = ""
+categories = [ "Земля" ]
+tags = [ "Европа", "США ", "сентябрь ", "октябрь ", "ноябрь " ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
