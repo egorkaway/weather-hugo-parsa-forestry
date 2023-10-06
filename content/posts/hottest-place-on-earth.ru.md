@@ -1,12 +1,11 @@
 +++
-aliases = ""
-categories = [ "Земля" ]
-date = 2021-07-12T14:50:00.000Z
-description = ""
-image = "/images/Desert.png"
-tags = [ "жара", "Иран" ]
 title = "Самое жаркое место на Земле"
+date = 2021-07-12T14:50:00.000Z
+image = "/images/Desert.png"
+description = ""
+categories = [ "Земля" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
