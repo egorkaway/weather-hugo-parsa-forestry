@@ -1,10 +1,10 @@
 +++
-categories = [ "Небо" ]
-date = "2020-05-12T21:01:00.000Z"
-description = ""
-image = "/images/storm_n.jpg"
-tags = [ "2020", "NOAA" ]
 title = "Сезон ураганів 2020"
+date = 2020-05-12T21:01:00.000Z
+image = "/images/storm_n.jpg"
+description = ""
+categories = [ "Небо" ]
+tags = [ "2020" ]
 type = "post"
 +++
 
