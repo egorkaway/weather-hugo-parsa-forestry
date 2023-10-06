@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Неба" ]
-date = 2023-06-13T23:00:00.000Z
-description = ""
-image = "/images/ai-2.png"
-tags = [ "маланка", "Венесуэла", "заўжды" ]
 title = "Сусветная сталіца маланак"
+date = 2023-06-13T23:00:00.000Z
+image = "/images/ai-2.png"
+description = ""
+categories = [ "Неба" ]
+tags = [ "заўжды" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
