@@ -1,21 +1,12 @@
 +++
-aliases = ""
-categories = [ "Небо" ]
-date = 2023-05-14T23:00:00.000Z
-description = ""
-image = "/images/0001.png"
-tags = [
-  "Великобритания",
-  "Эстония ",
-  "Россия ",
-  "июль",
-  "июнь ",
-  "США",
-  "Канада",
-  "май "
-]
 title = "Что такое «белые ночи»?"
+date = 2023-05-14T23:00:00.000Z
+image = "/images/0001.png"
+description = ""
+categories = [ "Небо" ]
+tags = [ "июль", "июнь ", "май " ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
