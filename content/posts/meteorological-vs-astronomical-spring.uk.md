@@ -1,15 +1,14 @@
 +++
-aliases = ""
-categories = [ "зямля" ]
-date = "2023-03-01T09:51:35.000Z"
-description = ""
-image = "/images/meteorological-vs-astronomical-spring01.png"
-tags = [ "вересень ", " Березень", "сонца", "вясна" ]
 title = "Метеорологічна весна та астрономічна весна"
+date = 2023-03-01T09:51:35.000Z
+image = "/images/meteorological-vs-astronomical-spring01.png"
+description = ""
+categories = [ "зямля" ]
+tags = [ "вересень ", " Березень", "сонца" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 Метеорологічна весна та астрономічна весна - це два способи визначення початку весни, які базуються на різних критеріях.
 
