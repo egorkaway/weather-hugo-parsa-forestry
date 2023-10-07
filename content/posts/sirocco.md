@@ -3,7 +3,7 @@ title = "Sirocco Wind: Warm and Moist from Africa to Europe"
 date = 2023-07-31T23:00:00.000Z
 image = "/images/1_/wind.jpg"
 categories = [ "", "Sky" ]
-tags = [ "Africa", "Europe" ]
+tags = [ "wind", "Africa", "Europe" ]
 type = "post"
 +++
 
