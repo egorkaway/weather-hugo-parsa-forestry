@@ -4,6 +4,7 @@ date = 2023-06-21T23:00:00.000Z
 image = "/images/Image1.png"
 categories = [ "" ]
 type = "post"
+aliases = "/wet_bulb_globe_temperature"
 url = "/temperatura_bulbo_umido"
 +++
 
