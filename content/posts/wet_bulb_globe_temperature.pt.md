@@ -4,8 +4,6 @@ date = 2023-06-21T23:00:00.000Z
 image = "/images/Image1.png"
 categories = [ "" ]
 type = "post"
-aliases = "/wet_bulb_globe_temperature"
-url = "/temperatura_bulbo_umido"
 +++
 
 Para se manter seguro quando está quente lá fora, é importante saber como realmente se sente o calor. Os cientistas criaram algo chamado Temperatura de Bulbo Úmido de Globo para medir o estresse térmico no ar.
