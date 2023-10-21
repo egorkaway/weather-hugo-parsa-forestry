@@ -4,7 +4,7 @@ date = 2020-10-10T21:00:00.000Z
 image = "/images/orion_n.jpg"
 description = ""
 categories = [ "Sky" ]
-tags = [ "Starfall", "October", "meteor" ]
+tags = [ "October" ]
 type = "post"
 +++
 
