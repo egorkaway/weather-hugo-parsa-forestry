@@ -1,7 +1,7 @@
 +++
 title = "Lluvia de meteoritos de Leónidas"
 date = 2020-11-10T21:00:00.000Z
-image = "/images/meteor_.png"
+image = "/images/3dd-min.png"
 categories = [ "Cielo" ]
 tags = [ "noviembre", "2020" ]
 type = "post"
