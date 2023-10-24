@@ -1,7 +1,7 @@
 +++
 title = "Leonid Meteor Shower"
 date = 2023-10-22T23:00:00.000Z
-image = "/images/meteor_.png"
+image = "/images/1_min.png"
 description = ""
 categories = [ "Sky" ]
 tags = [ "Starfall", "November", "meteor" ]
@@ -10,7 +10,7 @@ aliases = ""
 url = ""
 +++
 
-The Leonid Meteor Shower is an annual celestial event awaited by stargazers. 
+The Leonid Meteor Shower is an annual celestial event awaited by stargazers.
 
 The Leonid Meteor Shower is named after the constellation Leo, from where the meteors appear to emanate. It occurs when Earth crosses the debris trail left by comet 55P/Tempel-Tuttle. This event is known for its bright meteors and persistent trails left in the sky, providing a spectacular view for observers​.
 
