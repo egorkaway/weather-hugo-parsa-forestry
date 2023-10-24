@@ -1,6 +1,6 @@
 +++
 title = "Leonid Meteor Shower"
-date = 2021-11-01T21:00:00.000Z
+date = 2023-10-22T23:00:00.000Z
 image = "/images/meteor_.png"
 description = ""
 categories = [ "Sky" ]
@@ -10,10 +10,10 @@ aliases = ""
 url = ""
 +++
 
-Watching the Leonid meteor shower on November 16-18
+The Leonid Meteor Shower is an annual celestial event awaited by stargazers. 
 
-The Leonids are a starfall known for its bright and abundant flashes. Every year it can be seen in November, and this year is not an exception.
+The Leonid Meteor Shower is named after the constellation Leo, from where the meteors appear to emanate. It occurs when Earth crosses the debris trail left by comet 55P/Tempel-Tuttle. This event is known for its bright meteors and persistent trails left in the sky, providing a spectacular view for observers​.
 
-This time the peak of the meteor shower will take place on November 16-18. According to scientists, we’ll be able to see up to 10 bright meteors per hour during this period. Look for the meteor shower radiant in the constellation of Leo.
+Leonids usually peak on the night between November 17 and 18. The shower's activity period is from November 3 to December 2, but the most dazzling displays are expected around the peak dates. During these peak nights, skywatchers can expect to witness about 10 to 20 shooting stars per hour, although the rates can be higher if conditions are favourable​.
 
-Have a cloudless night sky and interesting observations!
+For those planning to catch this celestial show, it's advised to find a dark spot away from city lights looking towards the northeast just after midnight. The Leonids are known for their bright meteors which tend to leave persistent trains, making the spectacle one to remember​.
