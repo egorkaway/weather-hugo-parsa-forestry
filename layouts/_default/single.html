@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
@@ -9,7 +8,9 @@
     <div class="row">
       <div itemscope itemtype="https://schema.org/NewsArticle" class="col-lg-12">
         <h4 itemprop="headline">{{ .Title }}</h4>
-        <meta itemprop="image" content="https://weather-aware.com/images/eng_01.png" />
+        {{ $image := resources.Get .Params.Image }}
+        {{ $image_res := $image.Resize "800x"}}
+        <meta itemprop="image" content="{{ $image_res.Permalink }}" />
       </div>
     </div>
   </div>
@@ -26,8 +27,6 @@
           <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
         </ul>
         <article class="content">
-          {{ $image := resources.Get .Params.Image }}
-          {{ $image_res := $image.Resize "800x"}}
           <img src="{{ $image_res.Permalink }}" width="{{ $image_res.Width }}" height="{{ $image_res.Height }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
 
@@ -70,5 +69,4 @@
 </section>
 {{ end }}
 <!-- /regular page -->
-
 {{ end }}
