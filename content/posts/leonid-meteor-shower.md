@@ -1,7 +1,7 @@
 +++
 title = "Leonid Meteor Shower"
 date = 2023-10-22T23:00:00.000Z
-image = "/images/1_min.png"
+image = "/images/3dd-min.png"
 description = ""
 categories = [ "Sky" ]
 tags = [ "Starfall", "November", "meteor" ]
