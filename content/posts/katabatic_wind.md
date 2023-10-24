@@ -1,7 +1,7 @@
 +++
 title = "What is a Katabatic Wind?"
 date = 2023-10-22T23:00:00.000Z
-image = "/images/02mw-min.png"
+image = "/images/01W_min.png"
 description = ""
 categories = [ "Sky" ]
 tags = [ "wind" ]
