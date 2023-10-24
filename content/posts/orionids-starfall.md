@@ -1,7 +1,7 @@
 +++
 title = "Orionids Starfall"
 date = 2023-10-12T23:00:00.000Z
-image = "/images/orion_n.jpg"
+image = "/images/1_os_min.png"
 description = ""
 categories = [ "Sky" ]
 tags = [ "October" ]
