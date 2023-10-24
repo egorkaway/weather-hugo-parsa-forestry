@@ -10,7 +10,7 @@
       <div itemscope itemtype="https://schema.org/NewsArticle" class="col-lg-12">
         <h4 itemprop="headline">{{ .Title }}</h4>
          {{ $image := resources.Get .Params.Image }}
-        <meta itemprop="image" content="$image_res.Permalink" />
+        <meta itemprop="image" content="{{ $image_res.Permalink }}" />
       </div>
     </div>
   </div>
