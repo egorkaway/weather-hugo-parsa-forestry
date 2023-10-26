@@ -4,17 +4,7 @@ date = 2023-08-30T23:00:00.000Z
 image = "/images/Indian summer.png"
 description = ""
 categories = [ "Earth" ]
-tags = [
-  "Russia",
-  "Germany",
-  "France ",
-  "USA",
-  "Atlantic",
-  "September",
-  "October",
-  "November",
-  "Europe"
-]
+tags = [ "September", "October", "November" ]
 type = "post"
 aliases = "/posts/what-is-indian-summer-and-when-does-it-happen"
 url = ""
