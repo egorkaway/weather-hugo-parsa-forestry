@@ -12,7 +12,7 @@ Während sowohl bedeckte als auch wolkige Wetterbedingungen das Vorhandensein vo
 
 Bedecktes Wetter
 
-Bedeckt bezieht sich auf eine dichte, vollständige oder nahezu vollständige Wolkendecke, bei der Wolken den Großteil oder den gesamten Himmel verdecken und direktes Sonnenlicht blockieren. Wenn Meteorologen die Bedingungen als bedeckt beschreiben, bedeutet dies, dass eine feste oder nahezu feste Schicht grauer Wolken den Himmel bedeckt. Der Anteil des bedeckten Himmels wird auf über 80% geschätzt. An einem bedeckten Tag können in der Regel keine deutlichen oder einzelnen Wolken gesehen werden - nur eine einheitliche, graue Decke von Horizont zu Horizont. Diffuses, gedämpftes Licht dringt von den Wolken ein, aber direkte Sonnenstrahlen können nicht durch die dicke, bedeckte Wolkenschicht hindurchdringen.
+Bedeckt bezieht sich auf eine dichte, vollständige oder nahezu vollständige Wolkendecke, bei der Wolken den Großteil oder den gesamten Himmel verdecken und direktes Sonnenlicht blockieren. Wenn Meteorologen die Bedingungen als bedeckt beschreiben, bedeutet dies, dass eine feste oder nahezu feste Schicht grauer Wolken den Himmel bedeckt. Der Anteil des bedeckten Himmels wird auf über 95% geschätzt. An einem bedeckten Tag können in der Regel keine deutlichen oder einzelnen Wolken gesehen werden - nur eine einheitliche, graue Decke von Horizont zu Horizont. Diffuses, gedämpftes Licht dringt von den Wolken ein, aber direkte Sonnenstrahlen können nicht durch die dicke, bedeckte Wolkenschicht hindurchdringen.
 
 Wolkiges Wetter
 
