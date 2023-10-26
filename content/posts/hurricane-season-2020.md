@@ -4,7 +4,7 @@ date = 2020-05-12T21:00:00.000Z
 image = "/images/storm_n.jpg"
 description = ""
 categories = [ "Sky" ]
-tags = [ "2020", "Atlantic", "hurricane", "June", "November" ]
+tags = [ "2020", "hurricane", "June", "November" ]
 type = "post"
 +++
 
