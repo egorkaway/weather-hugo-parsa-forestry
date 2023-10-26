@@ -11,7 +11,7 @@ Mentre le condizioni meteorologiche di cielo coperto e nuvoloso coinvolgono entr
 
 Tempo Coperto
 
-Il termine "coperto" si riferisce a una copertura nuvolosa densa, completa o quasi completa in cui le nuvole oscurano la maggior parte o l'intero cielo e bloccano la luce solare diretta. Quando i meteorologi descrivono le condizioni come "coperte", significa che c'è uno strato solido o quasi solido di nuvole grigie che ricopre il cielo. Si stima che la percentuale di cielo coperto sia superiore all'80%. In una giornata coperta, di solito non è possibile vedere nuvole distinte o individuali, ma solo una coperta uniforme e grigia da un orizzonte all'altro. La luce diffusa e tenue permea dalle nuvole, ma i raggi del sole diretto non riescono a penetrare attraverso lo spesso strato di nuvole coperte.
+Il termine "coperto" si riferisce a una copertura nuvolosa densa, completa o quasi completa in cui le nuvole oscurano la maggior parte o l'intero cielo e bloccano la luce solare diretta. Quando i meteorologi descrivono le condizioni come "coperte", significa che c'è uno strato solido o quasi solido di nuvole grigie che ricopre il cielo. Si stima che la percentuale di cielo coperto sia superiore all'95%. In una giornata coperta, di solito non è possibile vedere nuvole distinte o individuali, ma solo una coperta uniforme e grigia da un orizzonte all'altro. La luce diffusa e tenue permea dalle nuvole, ma i raggi del sole diretto non riescono a penetrare attraverso lo spesso strato di nuvole coperte.
 
 Tempo Nuvoloso
 
