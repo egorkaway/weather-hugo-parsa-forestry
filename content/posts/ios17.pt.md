@@ -12,7 +12,7 @@ url = ""
 
 A versão mais recente do nosso aplicativo utiliza widgets interativos para que você possa relatar o clima atual diretamente da sua tela inicial.
 
-![](/images/1_/1_w_sset_srise-min.png)
+![](/images/1w_sun_03.1.png-min.png)
 
 ###### Widgets de Tela de Bloqueio para iPad
 
