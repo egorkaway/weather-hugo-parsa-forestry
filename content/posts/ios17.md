@@ -12,7 +12,7 @@ url = ""
 
 Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
 
-![](/images/1_/1_w_sset_srise-min.png)
+![](/images/1w_sun_03.1.png-min.png)
 
 ###### Lock Screen Widgets for iPad
 
