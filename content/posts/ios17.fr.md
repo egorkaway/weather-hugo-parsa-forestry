@@ -13,7 +13,7 @@ url = ""
 
 La dernière version de notre application utilise des widgets interactifs afin que vous puissiez signaler la météo réelle depuis votre écran d'accueil.
 
-![](/images/1_/1_w_sset_srise-min.png)
+![](/images/1w_sun_03.1.png-min.png)
 
 ###### Widgets d'écran de verrouillage pour iPad
 
