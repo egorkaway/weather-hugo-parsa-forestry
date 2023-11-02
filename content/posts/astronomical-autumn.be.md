@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Неба" ]
-date = 2022-09-13T08:30:36.000Z
-description = ""
-image = "/images/1a.png"
-tags = [ "верасень", "восень" ]
 title = "Сустракаем астранамічную восень 22 верасня"
+date = 2023-09-11T23:00:00.000Z
+image = "/images/1a.png"
+description = ""
+categories = [ "Неба" ]
+tags = [ "верасень", "восень" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
