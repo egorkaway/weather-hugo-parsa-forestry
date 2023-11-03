@@ -8,26 +8,24 @@ url = ""
 
 Track stages of sunrise and sunset including blue and golden hour from the new home screen and StanBy widget added with the latest updates: ![](/images/1w_sun_03.1.png-min.png)
 
-Also new with iOS 17: 
+Also new with iOS 17:
 
 ###### Interactive Widgets
 
-###### ![](/images/_u/i_w2.jpeg)Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
+![](/images/_u/i_w2.jpeg)
+Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
 
 ###### Lock Screen Widgets for iPad
 
 ![](/images/_u/ipad_rect2.jpg)
-
 We hope you enjoyed the lock screen widgets on iPhone already, iPadOS 17 also brings them to the iPad alongs with the new and bigger widget options.
 
 ###### StandBy Widgets for iPhone
 
 Turn your phone on a side while charging and you will see a new kind of widgets.
-
 ![](/images/_u/standby.png)
 
 ###### Live Activities on iPad
 
 ![](/images/_u/la.jpg)
-
 Live Activity that shows dangerous and important weather situations is now also available on iPad.
