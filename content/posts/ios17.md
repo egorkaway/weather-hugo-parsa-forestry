@@ -10,7 +10,9 @@ Track stages of sunrise and sunset including blue and golden hour from the new h
 
 Also new with iOS 17: 
 
-###### Interactive Widgets![](/images/_u/i_w2.jpeg)Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
+###### Interactive Widgets
+
+###### ![](/images/_u/i_w2.jpeg)Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
 
 ###### Lock Screen Widgets for iPad
 
