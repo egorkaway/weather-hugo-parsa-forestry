@@ -1,18 +1,16 @@
 +++
-title = "New with iOS 17"
+title = "Sunrise & Sunset "
 date = 2023-09-17T23:00:00.000Z
 image = "/images/_u/line.png"
-type = "post"
+type = ""
 url = ""
 +++
 
-###### Interactive Widgets
+Track stages of sunrise and sunset including blue and golden hour from the new home screen and StanBy widget added with the latest updates: ![](/images/1w_sun_03.1.png-min.png)
 
-![](/images/_u/i_w2.jpeg)
+Also new with iOS 17: 
 
-Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
-
-![](/images/1w_sun_03.1.png-min.png)
+###### Interactive Widgets![](/images/_u/i_w2.jpeg)Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
 
 ###### Lock Screen Widgets for iPad
 
