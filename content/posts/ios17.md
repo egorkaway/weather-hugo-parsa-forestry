@@ -8,7 +8,7 @@ url = ""
 
 Track stages of sunrise and sunset including blue and golden hour from the new home screen and StanBy widget added with the latest updates: ![](/images/1w_sun_03.1.png-min.png)
 
-Also new with iOS 17:
+**Also new with iOS 17:**
 
 ###### Interactive Widgets
 
