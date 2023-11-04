@@ -2,8 +2,7 @@
 title = "¿Cuántos colores tiene el arcoíris?"
 date = 2021-09-25T21:00:00.000Z
 image = "/images/rain_bow_n.png"
-categories = [ "" ]
-tags = [ "Alemania", "Francia" ]
+categories = [ "Cielo" ]
 type = "post"
 +++
 
