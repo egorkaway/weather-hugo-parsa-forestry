@@ -4,7 +4,6 @@ date = 2023-09-21T23:00:00.000Z
 image = "/images/01m_min.png"
 description = ""
 categories = [ "Sky" ]
-tags = [ "fog", "mist" ]
 type = "post"
 aliases = ""
 url = ""
