@@ -1,10 +1,10 @@
 +++
-categories = [ "Cielo" ]
-date = 2021-04-21T21:00:00.000Z
-description = ""
-image = "/images/02hpw-min.png"
-tags = [ "EEUU", "siempre" ]
 title = "¿Cómo huracanes obtienen nombres?"
+date = 2021-04-21T21:00:00.000Z
+image = "/images/02hpw-min.png"
+description = ""
+categories = [ "Cielo" ]
+tags = [ "siempre" ]
 type = "post"
 +++
 
