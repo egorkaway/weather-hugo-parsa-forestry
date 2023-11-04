@@ -4,7 +4,6 @@ date = 2023-10-10T23:00:00.000Z
 image = "/images/1sf-min.png"
 description = ""
 categories = [ "", "Cielo" ]
-tags = [ "viento", "Portugal" ]
 type = "post"
 +++
 
