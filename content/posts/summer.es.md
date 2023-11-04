@@ -2,7 +2,6 @@
 title = "Verano meteorológico vs. verano astronómico"
 date = 2023-05-31T23:00:00.000Z
 image = "/images/Summer.png"
-tags = [ "verano" ]
 type = "post"
 +++
 
