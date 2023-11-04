@@ -1,9 +1,9 @@
 +++
 title = "Леоніди"
-date = 2020-11-07T21:00:00.000Z
+date = 2022-10-09T23:00:00.000Z
 image = "/images/3dd-min.png"
 categories = [ "Небо" ]
-tags = [ "зорепад", "timeless ", "листопад" ]
+tags = [ "timeless ", "листопад" ]
 type = "post"
 +++
 
