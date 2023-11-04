@@ -5,7 +5,6 @@ image = "/images/Indian summer.png"
 description = ""
 categories = [ "Tierra" ]
 tags = [
-  "Portugal",
   "noviembre",
   "septiembre",
   "Alemania",
