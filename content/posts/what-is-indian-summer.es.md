@@ -4,14 +4,7 @@ date = 2023-09-01T23:00:00.000Z
 image = "/images/Indian summer.png"
 description = ""
 categories = [ "Tierra" ]
-tags = [
-  "noviembre",
-  "septiembre",
-  "Alemania",
-  "Europa",
-  "América",
-  "siempre"
-]
+tags = [ "noviembre", "septiembre", "siempre" ]
 type = "post"
 aliases = ""
 url = "/verano_indio"
