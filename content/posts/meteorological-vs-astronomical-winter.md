@@ -1,7 +1,7 @@
 +++
 title = "Meteorological vs Astronomical Winter - What's the Difference?"
 date = 2023-11-30T00:00:00.000Z
-image = "/images/01W_min.png"
+image = "/images/2_w-min.png"
 description = ""
 categories = [ "" ]
 tags = [ "June", " December" ]
@@ -31,4 +31,4 @@ In the Southern Hemisphere:
 * Meteorological winter: June 1 to August 31
 * Astronomical winter: June 20/21
 
-While meteorological seasons provide consistency for record-keeping, the true astronomical start of winter varies slightly year to year and occurs on the dates of the winter solstice in December/June in the North/South respectively. 
+While meteorological seasons provide consistency for record-keeping, the true astronomical start of winter varies slightly year to year and occurs on the dates of the winter solstice in December/June in the North/South respectively.
