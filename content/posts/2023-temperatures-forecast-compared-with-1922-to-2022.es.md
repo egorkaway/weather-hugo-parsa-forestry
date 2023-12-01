@@ -1,13 +1,12 @@
 +++
-aliases = ""
-categories = [ "Tierra" ]
-date = "2022-12-28T09:56:01.000Z"
-description = ""
-image = "/images/article-2023-world-se.png"
-tags = [ "clima", "2023" ]
 title = "Temperaturas de 2023 Comparadas a 1922 - 2022"
+date = 2022-12-29T00:00:00.000Z
+image = "/images/article-2023-world-se.png"
+description = ""
+categories = [ "Tierra" ]
+tags = [ "clima", "2023" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
