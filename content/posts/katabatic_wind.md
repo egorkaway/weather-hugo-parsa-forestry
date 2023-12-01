@@ -1,6 +1,6 @@
 +++
 title = "What is a Katabatic Wind?"
-date = 2023-10-22T23:00:00.000Z
+date = 2023-11-13T00:00:00.000Z
 image = "/images/01W_min.png"
 description = ""
 categories = [ "Sky" ]
