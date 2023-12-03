@@ -1,12 +1,12 @@
 +++
-title = "Sunrise & Sunset "
+title = "New with this version:"
 date = 2023-09-17T23:00:00.000Z
 image = "/images/_u/line.png"
 type = ""
 url = ""
 +++
 
-Track stages of sunrise and sunset including blue and golden hour from the new Home Screen and StanBy widget added with the latest updates: ![](/images/1w_sun_03.1.png-min.png)
+Those who unlocked the use of interactive maps in the app now have an additional way to report rain or snow for your location.
 
 **Also new with iOS 17:**
 
