@@ -1,7 +1,7 @@
 +++
 title = "What is Mirage?"
 date = 2022-06-08T21:00:00.000Z
-image = "/images/mirage_.jpg"
+image = "/images/1_m_min.png"
 description = ""
 categories = [ "Earth" ]
 tags = [ "timeless" ]
