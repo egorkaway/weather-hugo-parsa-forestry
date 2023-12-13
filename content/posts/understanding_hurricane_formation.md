@@ -1,7 +1,8 @@
 +++
 title = "Understanding Hurricane Formation"
 date = 2023-12-11T00:00:00.000Z
-image = "/images/01W_min.png"
+image = "/images/1_/hrc.jpg"
+tags = [ "hurricane" ]
 type = "post"
 +++
 
