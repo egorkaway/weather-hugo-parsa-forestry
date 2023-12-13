@@ -1,5 +1,5 @@
 +++
-title = "December 2023 Compared to December Months from 1922 to 2022"
+title = "December 2023 Weather: See How It Stacks Up Historically"
 date = 2023-11-30T00:00:00.000Z
 image = "/images/article-2023-december.png"
 description = ""
@@ -10,3 +10,4 @@ aliases = ""
 url = ""
 +++
 
+Uncover how December 2023's weather trends compare with the past century.
