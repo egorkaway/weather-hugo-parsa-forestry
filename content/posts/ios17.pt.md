@@ -17,14 +17,3 @@ A versão mais recente do nosso aplicativo utiliza widgets interativos para que 
 ![](/images/_u/ipad_rect2.jpg)
 
 Esperamos que você já tenha desfrutado dos widgets de tela de bloqueio no iPhone; o iPadOS 17 também os traz para o iPad, juntamente com novas opções de widgets.
-
-###### Widgets em StandBy para iPhone
-
-Coloque seu telefone de lado enquanto carrega e você verá um novo tipo de widgets.
-![](/images/_u/standby.png)
-
-###### Atividades ao Vivo no iPad
-
-![](/images/_u/la.jpg)
-
-A atividade ao vivo que mostra situações climáticas perigosas e importantes agora também está disponível no iPad.
