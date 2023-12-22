@@ -23,8 +23,6 @@ Nous espérons que vous avez déjà apprécié les widgets d'écran de verrouill
 
 Allumez votre téléphone d'un côté tout en chargeant et vous verrez un nouveau type de widgets.
 
-![](/images/_u/standby.png)
-
 ###### Activités en direct sur iPad
 
 ![](/images/_u/la.jpg)
