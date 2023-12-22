@@ -15,10 +15,3 @@ La última versión de nuestra aplicación utiliza widgets interactivos para que
 ###### Widgets SnandBy para iPhone
 
 Coloca tu teléfono de costado mientras se carga y verás un nuevo tipo de widgets.
-![](/images/_u/standby.png)
-
-###### Actividades en vivo en iPad
-
-![](/images/_u/la.jpg)
-
-La actividad en vivo que muestra situaciones climáticas peligrosas e importantes ahora también está disponible en iPad.
