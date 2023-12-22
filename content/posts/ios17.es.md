@@ -12,12 +12,6 @@ url = ""
 
 La última versión de nuestra aplicación utiliza widgets interactivos para que puedas informar sobre el clima actual directamente desde tu pantalla de inicio.
 
-###### Widgets de pantalla de bloqueo para iPad
-
-![](/images/_u/ipad_rect2.jpg)
-
-Esperamos que ya hayas disfrutado de los widgets de pantalla de bloqueo en el iPhone, iPadOS 17 también los trae al iPad junto con nuevas y mas grandes opciones de widgets.
-
 ###### Widgets SnandBy para iPhone
 
 Coloca tu teléfono de costado mientras se carga y verás un nuevo tipo de widgets.
