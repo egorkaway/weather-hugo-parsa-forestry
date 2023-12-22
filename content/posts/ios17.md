@@ -6,7 +6,7 @@ type = ""
 url = ""
 +++
 
-Those who unlocked the use of interactive maps in the app now have an additional way to report rain or snow for your location.
+Some bugs were fixed but you do not want to know about them. 
 
 **Also new with iOS 17:**
 
@@ -15,12 +15,6 @@ Those who unlocked the use of interactive maps in the app now have an additional
 ![](/images/_u/i_w2.jpeg)
 
 Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
-
-###### Lock Screen Widgets for iPad
-
-![](/images/_u/ipad_rect2.jpg)
-
-We hope you enjoyed the lock screen widgets on iPhone already, iPadOS 17 also brings them to the iPad alongs with the new and bigger widget options.
 
 ###### StandBy Widgets for iPhone
 
