@@ -1,8 +1,8 @@
 +++
-title = "2024 Temperatures Forecast, Compared With 1923 to 2023"
+title = "2024 Temperatures Forecast, Compared With Previous Century"
 date = 2023-12-27T00:00:00.000Z
 image = "/images/1_/eng_2024_annual-min.png"
-categories = [ "EARTH" ]
+categories = [ "" ]
 tags = [ "climate" ]
 type = "post"
 url = ""
