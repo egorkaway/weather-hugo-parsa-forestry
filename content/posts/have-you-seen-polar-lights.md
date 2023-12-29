@@ -1,9 +1,9 @@
 +++
-aliases = ""
-categories = [ "Sky" ]
-date = 2023-09-18T23:00:00.000Z
-description = ""
+title = "Have You Seen Polar Lights?"
+date = 2023-12-28T00:00:00.000Z
 image = "/images/Polar Lights.png"
+description = ""
+categories = [ "Sky" ]
 tags = [
   "Alaska",
   "Canada",
@@ -17,8 +17,8 @@ tags = [
   "February ",
   "March"
 ]
-title = "Have You Seen Polar Lights?"
 type = "post"
+aliases = ""
 url = ""
 +++
 
