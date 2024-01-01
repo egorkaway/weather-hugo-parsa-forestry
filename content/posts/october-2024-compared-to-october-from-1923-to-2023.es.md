@@ -4,5 +4,6 @@ date = 2024-09-30T22:00:00.000Z
 image = "/images/1_/es_2024_october-min.png"
 categories = [ "Tierra" ]
 tags = [ "octubre", "clima", "2024" ]
+type = "post"
 +++
 
