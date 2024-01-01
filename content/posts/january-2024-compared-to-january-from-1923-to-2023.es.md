@@ -4,5 +4,6 @@ date = 2023-12-31T00:00:00.000Z
 image = "/images/1_/es_2024_january-min.png"
 categories = [ "Tierra" ]
 tags = [ "enero", "clima", "2024" ]
+type = "post"
 +++
 
