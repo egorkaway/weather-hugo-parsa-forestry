@@ -1,6 +1,6 @@
 +++
 title = "Ранішняя глорыя — што гэта?"
-date = 2023-06-13T23:00:00.000Z
+date = 2023-12-31T00:00:00.000Z
 image = "/images/glory_n.png"
 description = ""
 categories = [ "Неба" ]
