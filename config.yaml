@@ -34,7 +34,7 @@ languages:
     languageName: Portuguese
     logo: images/pt_.png
     weight: "6"
-    address: Porto & Tbilisi
+    address: Tbilisi / Porto / Poznan
     title: 'Tempo e Clima: site da climacam.com'
     read_more: Mais...
     address_title: Onde
@@ -52,7 +52,7 @@ languages:
     languageName: Spanish
     weight: "2"
     logo: images/es_.png
-    address: Porto & Tbilisi 
+    address: Tbilisi / Porto / Poznan
     title: Tiempo y Clima presentados por climacam.com
     address_title: Donde
     follow: Redes
@@ -198,10 +198,10 @@ params:
   author_image: images/weather_logo.png
   bio: Weather trivia for the changing world
   email: weather@adekvat.us
-  address: 'Tbilisi / Warsaw / Porto'
+  address: 'Tbilisi / Warsaw / Porto / Poznan'
   contact_form_action: "#"
   google_analitycs_id: G-2MM99C5XVJ
-  copyright: "&copy; 2023"
+  copyright: "&copy; 2024"
   read_more: Read more
   address_title: Where
   contact_info: Contact Info
