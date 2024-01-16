@@ -4,7 +4,7 @@ date = 2024-01-14T00:00:00.000Z
 image = "/images/02hpw-min.png"
 description = ""
 categories = [ "Sky" ]
-tags = [ "USA" ]
+tags = [ "Europe", "hurricane", "USA" ]
 type = "post"
 aliases = ""
 url = ""
@@ -24,6 +24,6 @@ url = ""
 
 ### Differences:
 
-* Geographical Scope: European storm naming is more localized, focusing on storms that specifically impact Europe, whereas the USA names storms in the entire North Atlantic Basin. One storm can receive several different names across Europe depending on the route it travels while USA names identify storms in a unique way. 
+* Geographical Scope: European storm naming is more localized, focusing on storms that specifically impact Europe, whereas the USA names storms in the entire North Atlantic Basin. One storm can receive several different names across Europe depending on the route it travels while USA names identify storms in a unique way. There are also 8 different naming lists for different parts of Europe and in rare occasions storms from North Atlantic already named in the USA might reach Europe which makes it a total of 9 lists for Europe versus 1 list per ocean basin in the States. 
 * Criteria for Naming: Europe tends to name storms based on their potential impact, while the USA uses wind speed as a criterion.
 * Public Involvement: Some European countries involve the public in naming, which is not a practice in the USA.
