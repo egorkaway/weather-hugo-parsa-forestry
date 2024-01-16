@@ -1,12 +1,12 @@
 +++
-aliases = ""
-categories = [ "Sky" ]
-date = 2023-03-26T21:00:00.000Z
-description = ""
-image = "/images/02hpw-min.png"
-tags = [ "hurricane", "Australia", "USA" ]
 title = "How Hurricanes Get Their Names?"
+date = 2023-03-26T21:00:00.000Z
+image = "/images/02hpw-min.png"
+description = ""
+categories = [ "Sky" ]
+tags = [ "hurricane", "Australia", "USA" ]
 type = "post"
+aliases = ""
 url = ""
 +++
 
@@ -14,7 +14,7 @@ Did you know how hurricanes and typhoons get their names?
 
 Previously, no system existed; the names of the hurricanes depended on the date (for example, Hurricane Santa Anna, which happened on St. Anne's Day) or its form (as happened with Hurricane "Pin").
 
-There were even anecdotic cases: for example, one meteorologist from Australia used to give the hurricanes the names of politicians who voted against the budget for meteorological research. And the experts of the US meteorological service during World War II even called typhoons and cyclones of the Pacific Ocean by the names of their wives and mothers-in-law.
+There were even anecdotic cases: for example, one meteorologist from Australia used to give the hurricanes the names of politicians who voted against the budget for meteorological research. The experts of the US meteorological service during World War II even called typhoons and cyclones of the Pacific Ocean by the names of their wives and mothers-in-law.
 
 After the war, finally, a system and a special alphabetical list of 84 short and simple female names appeared. According to this system, the first hurricane of the year is given a name with the first letter of the alphabet and then the order goes on. In 1979, male names were added to the list as well.
 
