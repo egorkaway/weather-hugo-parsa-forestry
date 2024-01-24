@@ -11,7 +11,3 @@ url = ""
 ![](/images/_u/i_w2.jpeg)
 
 La última versión de nuestra aplicación utiliza widgets interactivos para que puedas informar sobre el clima actual directamente desde tu pantalla de inicio.
-
-###### Widgets SnandBy para iPhone
-
-Coloca tu teléfono de costado mientras se carga y verás un nuevo tipo de widgets.
