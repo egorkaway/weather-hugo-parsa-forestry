@@ -6,7 +6,7 @@ type = ""
 url = ""
 +++
 
-Some bugs were fixed but you do not want to know about them. 
+Some bugs were fixed but you do not want to know about them.
 
 **Also new with iOS 17:**
 
@@ -16,12 +16,8 @@ Some bugs were fixed but you do not want to know about them.
 
 Latest version of our app uses interactive widgets so that you can report actual weather right from your Home Screen.
 
-###### StandBy Widgets for iPhone
 
-Turn your phone on a side while charging and you will see a new kind of widgets.
-![](/images/_u/standby.png)
-
-###### Live Activities on iPad
+Live Activities on iPad
 
 ![](/images/_u/la.jpg)
 
