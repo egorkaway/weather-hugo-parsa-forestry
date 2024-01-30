@@ -4,5 +4,6 @@ date = 2024-03-30T23:00:00.000Z
 image = "/images/1_/by_2024_april-min.png"
 categories = [ "ЗЯМЛЯ" ]
 tags = [ "клiмат", "красавік", "2024" ]
+type = "post"
 +++
 
