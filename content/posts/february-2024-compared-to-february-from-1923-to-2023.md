@@ -4,5 +4,6 @@ date = 2024-01-29T00:00:00.000Z
 image = "/images/1_/eng_2024_february-min.png"
 categories = [ "Earth" ]
 tags = [ "february", "2024", "climate" ]
+type = "post"
 +++
 
