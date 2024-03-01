@@ -4,5 +4,6 @@ date = 2024-02-29T23:00:00.000Z
 image = "/images/1_/by_2024_march-min.png"
 categories = [ "Earth" ]
 tags = [ "сакавік", "клiмат", "2024" ]
+type = "post"
 +++
 
