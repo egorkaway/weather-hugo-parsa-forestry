@@ -1,6 +1,6 @@
 +++
 title = "Метеаралагічная вясна і астранамічная вясна"
-date = 2023-03-01T09:51:35.000Z
+date = 2024-02-29T00:00:00.000Z
 image = "/images/meteorological-vs-astronomical-spring01.png"
 description = ""
 categories = [ "зямля" ]
