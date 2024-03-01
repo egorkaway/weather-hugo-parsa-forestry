@@ -1,15 +1,14 @@
 +++
-aliases = ""
-categories = [ "Terra" ]
-date = "2023-03-01T09:51:35.000Z"
-description = ""
-image = "/images/meteorological-vs-astronomical-spring01.png"
-tags = [ "primavera", "Terra", "Sol", "Março", "Setembro" ]
 title = "Primavera Meteorológica vs Astronómica"
+date = 2024-02-29T00:00:00.000Z
+image = "/images/meteorological-vs-astronomical-spring01.png"
+description = ""
+categories = [ "Terra" ]
+tags = [ "primavera", "Terra", "Sol", "Março", "Setembro" ]
 type = "post"
+aliases = ""
 url = ""
 +++
-
 
 A primavera meteorológica e a primavera astronómica são duas formas de definir o início da primavera, mas baseiam-se em critérios diferentes.
 
