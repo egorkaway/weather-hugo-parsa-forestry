@@ -16,7 +16,7 @@ languages:
     languageName: French
     weight: "7"
     title: 'Météo et Climat: climacam.com'
-    address: 'Tbilisi / Warsaw / Porto'
+    address: 'Tbilisi / Porto'
     read_more: Lire...
     address_title: Où
     contact_info: Informations de contact
@@ -52,7 +52,7 @@ languages:
     languageName: Spanish
     weight: "2"
     logo: images/es_.png
-    address: Tbilisi / Porto / Poznan
+    address: Tbilisi / Porto 
     title: Tiempo y Clima presentados por climacam.com
     address_title: Donde
     follow: Redes
@@ -65,7 +65,7 @@ languages:
     languageName: Russian
     weight: "3"
     logo: images/ukr_.png
-    address: Варшава / Киев / Порту
+    address: Киев / Порту / Тбилиси 
     title: 'Погода и Климат: сайт от climacam.com'
     read_more: Дальше...
     address_title: Где
@@ -108,7 +108,7 @@ languages:
     languageName: Belarusian
     logo: images/by_.png
     weight: "5"
-    address: Порту / Тбiлiсi / Варшава
+    address: Порту / Тбiлiсi 
     title: 'Пагода ды Клiмат: сайт ад climacam.com'
     read_more: Далей...
     address_title: Дзе
